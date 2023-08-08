@@ -1,0 +1,185 @@
+  #ID   Name                      Prnt  Type              from    to      ISO 15924
+x XSUX  Cuneiform                 ----  Syllabary         3500BC   150AD  xsux 020    https://en.wikipedia.org/wiki/Cuneiform                         eg. &#x12038; &#x12079; &#x12226; &#x1230b; &#x1235d; &#x1203d; &#x12016; &#x12000; &#x12001; &#x12002; &#x12003; &#x12004; &#x12005; &#x12006; &#x12007; &#x12008; &#x12009; &#x1200a; &#x1200b; &#x1200c; &#x1200d; &#x1200e; &#x1200f;
+x EGYP  Egyptian Hieroglyphics    ----  Logography        3200BC   400    egyp 050    https://en.wikipedia.org/wiki/Egyptian_hieroglyphs              eg. &#x1302d; &#x130d3; &#x1307b; &#x1309b; &#x13100; &#x131ad; &#x1312c; &#x1315c; &#x131cd; &#x131f3; &#x13201; &#x13254; &#x132f9; &#x13331; &#x132ad; &#x13390; &#x13362;
+x PSIN  Proto Sinaic              EGYP  Abjad             1900BC  1500BC  psin 103    https://en.wikipedia.org/wiki/Proto-Sinaitic_script             img:psin.svg
+x PHNX  Phonecian                 PSIN  Alphabet          1050BC   150BC  phnx 115    https://en.wikipedia.org/wiki/Phoenician_alphabet               &#x10915;&#x10914;&#x10913;&#x10912;&#x10911;&#x10910;&#x1090f;&#x1090e;&#x1090d;&#x1090c;&#x1090b;&#x1090a;&#x10909;&#x10908;&#x10907;&#x10906;&#x10905;&#x10904;&#x10903;&#x10902;&#x10901;&#x10900;
+x GREK  Greek                     PHNX  Alphabet           800BC  present grek 200    https://en.wikipedia.org/wiki/Greek_alphabet                    &#x391;&#x392;&#x393;&#x394;&#x395;&#x396;&#x397;&#x398;&#x399;&#x39a;&#x39b;&#x39c;&#x39d;&#x39e;&#x39f;&#x3a0;&#x3a1;&#x3a3;&#x3a4;&#x3a5;&#x3a6;&#x3a7;&#x3a8;&#x3a9; &#x3b1;&#x3b2;&#x3b3;&#x3b4;&#x3b5;&#x3b6;&#x3b7;&#x3b8;&#x3b9;&#x3ba;&#x3bb;&#x3bc;&#x3bd;&#x3be;&#x3bf;&#x3c0;&#x3c1;&#x3c3;&#x3c4;&#x3c5;&#x3c6;&#x3c7;&#x3c8;&#x3c9;
+x ITAL  Old Italic                GREK  Alphabet           750BC   100BC  ital 210    https://en.wikipedia.org/wiki/Old_Italic_scripts                &#x10300;&#x10301;&#x10302;&#x10303;&#x10304;&#x10305;&#x10306;&#x10307;&#x10308;&#x10309;&#x1030a;&#x1030b;&#x1030c;&#x1030d;&#x1030e;&#x1030f;&#x10310;&#x10311;&#x10312;&#x10313;&#x10314;&#x10315;&#x10316;&#x10317;&#x10318;&#x10319;&#x1031a;&#x1031b;&#x1031c;&#x1031d;&#x1031e;&#x1031f;&#x1032d;&#x1032e;&#x1032f;
+x LATN  Latin                     ITAL  Alphabet           700BC  present latn 215    https://en.wikipedia.org/wiki/Latin_script                      ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz
+x OBNS  Oracle Bone Script        ----  Logography        1600BC   300BC  ---         https://en.wikipedia.org/wiki/Oracle_bone_script                img:obns.svg
+- HANL  Chinese, Seal Script      OBNS  Logography         500BC   100BC  ---         https://en.wikipedia.org/wiki/Seal_script
+- HANC  Chinese, Clerical Script  HANL  Logography         400BC     0BC  ---         https://en.wikipedia.org/wiki/Clerical_script
+- HANT  Chinese Char, Trad        HANC  Logography         150AD  present hant 502    https://en.wikipedia.org/wiki/Traditional_Chinese_characters    eg. 鼠牛虎兔龍蛇馬羊猴雞狗豬
+- HANS  Chinese Char, Simplified  HANT  Logography        1956AD  present hans 501    https://en.wikipedia.org/wiki/Simplified_Chinese_characters     eg. 鼠牛虎兔龙蛇马羊猴鸡狗猪
+- NBAT  Nabataean script          PHNX  Abjad              200BC   400AD  nbat 159    https://en.wikipedia.org/wiki/Nabataean_script                  &#x1089e;&#x1089d;&#x1089b;&#x1089a;&#x10899;&#x10898;&#x10897;&#x10896;&#x10895;&#x10893;&#x10891;&#x1088f;&#x1088d;&#x1088b;&#x1088a;&#x10889;&#x10888;&#x10887;&#x10885;&#x10884;&#x10883;&#x10881;
+- ARAB  Arabic                    NBAT  Abjad              400AD  present arab 160    https://en.wikipedia.org/wiki/Arabic_script                     eg. &#x063a; &#x0639; &#x0638; &#x0637; &#x0636; &#x0635; &#x0634; &#x0633; &#x0632; &#x0631; &#x0630; &#x062f; &#x062e; &#x062d; &#x062c; &#x062b; &#x062a; &#x0629; &#x0628; &#x0627;
+- ARMI  Aramaic                   PHNX  Abjad              800BC   600AD  armi 124    https://en.wikipedia.org/wiki/Aramaic_alphabet                  &#x10855;&#x10854;&#x10853;&#x10852;&#x10851;&#x10850;&#x1084f;&#x1084e;&#x1084d;&#x1084c;&#x1084b;&#x1084a;&#x10849;&#x10848;&#x10847;&#x10846;&#x10845;&#x10844;&#x10843;&#x10842;&#x10841;&#x10840;
+  PREL  Proto Elamite             ----  Unknown           3100BC  2000BC  ---         https://en.wikipedia.org/wiki/Proto-Elamite#Proto-Elamite_script
+  LINE  Linear Elamite            PREL  Semisyllabery     2300BC  1850BC  ---         https://en.wikipedia.org/wiki/Linear_Elamite
+  LINA  Linear A                  ----  Ideographic       1800BC  1450BC  lina 400    https://en.wikipedia.org/wiki/Linear_A                          eg.  &#x10600; &#x10603; &#x10606; &#x10609; &#x1060b; &#x1060c; &#x1060f; &#x10610; &#x10612; &#x10616; &#x10618; &#x1061b; &#x1061c; &#x1061f; &#x10622; &#x10625; &#x10628; &#x1062b; &#x1062f; &#x10636; &#x1063a; &#x1063f; &#x10640; &#x10643; &#x10644; &#x10647; &#x1064b; &#x10650; &#x10655; &#x1065f; &#x10661;
+  LINB  Linear B                  LINA  Syllabary         1400BC  1200BC  linb 401    https://en.wikipedia.org/wiki/Linear_B                          &#x10000; &#x10001; &#x10002; &#x10003; &#x10004; &#x10005; &#x10006; &#x10007; &#x10008; &#x10009; &#x1000a; &#x1000b; &#x1000d; &#x1000e; &#x1000f; &#x10010; &#x10011; &#x10012; &#x10013; &#x10014; &#x10015; &#x10016; &#x10017; &#x10018; &#x10019; &#x1001a; &#x1001b; &#x1001c; &#x1001d; &#x1001e; &#x1001f; &#x10020; &#x10021; &#x10022; &#x10023; &#x10024; &#x10025; &#x10026; &#x10028; &#x10029; &#x1002a; &#x1002b; &#x1002c; &#x1002d; &#x1002e; &#x1002f; &#x10030; &#x10031; &#x10032; &#x10033; &#x10034; &#x10035; &#x10036; &#x10037; &#x10038; &#x10039; &#x1003a; &#x1003c; &#x1003d; &#x1003f;
+  OGHA  Ogham                     ----  Alphabet           350AD   950AD  ogam 212    https://en.wikipedia.org/wiki/Ogham                             &#x1681;&#x1682;&#x1683;&#x1684;&#x1685; &#x1686;&#x1687;&#x1688;&#x1689;&#x168a; &#x168b;&#x168c;&#x168d;&#x168e;&#x168f; &#x1690;&#x1691;&#x1692;&#x1693;&#x1694;
+  BRAH  Brahmi                    ARMI  Abugida            300BC   450AD  brah 300    https://en.wikipedia.org/wiki/Brahmi_script                     &#x11013;&#x11014;&#x11015;&#x11016;&#x11017;&#x11018;&#x11019;&#x1101a;&#x1101b;&#x1101c;&#x1101d;&#x1101e;&#x1101f;&#x11020;&#x11021;&#x11022;&#x11023;&#x11024;&#x11025;&#x11026;&#x11027;&#x11028;&#x11029;&#x1102a;&#x1102b;&#x1102c;&#x1102d;&#x1102e;&#x1102f;&#x11030;&#x11031;&#x11032;&#x11033;&#x11034;&#x11005;&#x11007;&#x11009;&#x1100b;&#x1100d;&#x1100f;&#x11010;&#x11011;&#x11012;
+  GUPT  Guptai                    BRAH  Abugida            350AD   550AD  ---         https://en.wikipedia.org/wiki/Gupta_script
+  SIDD  Siddhaṃ                   GUPT  Abugida            600AD  1200AD  sidd 302    https://en.wikipedia.org/wiki/Siddha%E1%B9%83_script            &#x1158e;&#x1158f;&#x11590;&#x11591;&#x11592;&#x11593;&#x11594;&#x11595;&#x11596;&#x11597;&#x11598;&#x11599;&#x1159a;&#x1159b;&#x1159c;&#x1159d;&#x1159e;&#x1159f;&#x115a0;&#x115a1;&#x115a2;&#x115a3;&#x115a4;&#x115a5;&#x115a6;&#x115a7;&#x115a8;&#x115a9;&#x115aa;&#x115ab;&#x115ac;&#x115ad;&#x115ae;&#x11580;&#x11582;&#x11584;&#x11586;&#x11588;&#x1158a;&#x1158b;&#x1158c;&#x1158d;
+  NAGI  Nāgarī script             SIDD  Abugida            650AD*  800AD  ---         https://en.wikipedia.org/wiki/N%C4%81gar%C4%AB_script
+  DEVA  Devanagari                NAGI  Abugida            700AD* present deva 315    https://en.wikipedia.org/wiki/Devanagari                        &#x0915; &#x0916; &#x0917; &#x0918; &#x0919; &#x091a; &#x091b; &#x091c; &#x091d; &#x091e; &#x091f; &#x0920; &#x0921; &#x0922; &#x0923; &#x0924; &#x0925; &#x0926; &#x0927; &#x0928; &#x092a; &#x092b; &#x092c; &#x092d; &#x092e; &#x092f; &#x0930; &#x0932; &#x0933; &#x0935; &#x0936; &#x0937; &#x0938; &#x0939; &#x0904; &#x0905; &#x0907; &#x0909; &#x090b; &#x090c; &#x090d; &#x090e; &#x0911; &#x0913; &#x0914;
+  BENG  Bengali-Assamese          DEVA  Abugida           1100AD  present beng 325    https://en.wikipedia.org/wiki/Bengali%E2%80%93Assamese_script   &#x0995; &#x0996; &#x0997; &#x0998; &#x0999; &#x099a; &#x099b; &#x099c; &#x099d; &#x099e; &#x099f; &#x09a0; &#x09a1; &#x09a2; &#x09a3; &#x09a4; &#x09a5; &#x09a6; &#x09a7; &#x09a8; &#x09aa; &#x09ab; &#x09ac; &#x09ad; &#x09ae; &#x09af; &#x09b0; &#x09b2; &#x09b6; &#x09b7; &#x09b8; &#x09b9; &#x0985; &#x0986; &#x0987; &#x0988; &#x0989; &#x098a; &#x098b; &#x098c; &#x098f; &#x0990; &#x0993; &#x0994;
+  ASSA  Assamese alphabet         BENG  Abugida           1650AD* present beng 325    https://en.wikipedia.org/wiki/Assamese_alphabet
+  CYRS  Early Cyrillic            GREK  Alphabet           893AD  present cyrs 221    https://en.wikipedia.org/wiki/Early_Cyrillic_script             &#x0410; &#x0411; &#x0412; &#x0413; &#x0414; &#x0404; &#x0416; &#x0405; &#x0417; &#x0418; &#x0406; &#xa648; &#x041a; &#x041b; &#x041c; &#x041d; &#x041e; &#x041f; &#x0420; &#x0421; &#x0422; &#xa64a; &#x0424; &#x0425; &#x0460; &#x0426; &#x0427; &#x0428; &#x0429; &#x042a; &#x042b; &#x042c; &#x0462; &#xa656; &#x0464; &#x042e; &#x046a; &#x046c; &#x0466; &#x0468; &#x046e; &#x0470; &#x0472; &#x0474; &#x0480; 
+  CYRL  Cyrillic                  CYRS  Alphabet           920AD  present cyrl 220    https://en.wikipedia.org/wiki/Cyrillic_script                   &#x0410;&#x0411;&#x0412;&#x0413;&#x0414;&#x0415;&#x0416;&#x0417;&#x0418;&#x0419;&#x041a;&#x041b;&#x041c;&#x041d;&#x041e;&#x041f;&#x0420;&#x0421;&#x0422;&#x0423;&#x0424;&#x0425;&#x0426;&#x0427;&#x0428;&#x0429;&#x042c;&#x042d;&#x042e;&#x042f; &#x0430;&#x0431;&#x0432;&#x0433;&#x0434;&#x0435;&#x0436;&#x0437;&#x0438;&#x0439;&#x043a;&#x043b;&#x043c;&#x043d;&#x043e;&#x043f;&#x0440;&#x0441;&#x0442;&#x0443;&#x0444;&#x0445;&#x0446;&#x0447;&#x0448;&#x0449;&#x044c;&#x044d;&#x044e;&#x044f;
+  KANJ  Kanji                     HANC  Logography         500AD  present hani 500    https://en.wikipedia.org/wiki/Kanji
+  MANY  Man'yōgana                KANJ  Syllabary          650AD  1900AD  ----        https://en.wikipedia.org/wiki/Man%27y%C5%8Dgana
+  HIRA  Hiragana                  MANY  Syllabary          800AD  present hira 410    https://en.wikipedia.org/wiki/Hiragana                          &#x3042;&#x3044;&#x3046;&#x3048;&#x304a; &#x304b;&#x304d;&#x304f;&#x3051;&#x3053; &#x304c;&#x304e;&#x3050;&#x3052;&#x3054; &#x3055;&#x3057;&#x3059;&#x305b;&#x305d; &#x3056;&#x3058;&#x305a;&#x305c;&#x305e; &#x305f;&#x3061;&#x3064;&#x3066;&#x3068; &#x3060;&#x3062;&#x3065;&#x3067;&#x3069; &#x306a;&#x306b;&#x306c;&#x306d;&#x306e; &#x306f;&#x3072;&#x3075;&#x3078;&#x307b; &#x3070;&#x3073;&#x3076;&#x3079;&#x307c; &#x3071;&#x3074;&#x3077;&#x307a;&#x307d; &#x307e;&#x307f;&#x3080;&#x3081;&#x3082; &#x3084;&#x3086;&#x3088; &#x3089;&#x308a;&#x308b;&#x308c;&#x308d; &#x308f;&#x3090;&#x3091;&#x3092; &#x3093;&#x3094;
+  KANA  Katakana                  MANY  Syllabary          800AD  present kana 411    https://en.wikipedia.org/wiki/Katakana                          &#x30a2;&#x30a4;&#x30a6;&#x30a8;&#x30aa; &#x30ab;&#x30ad;&#x30af;&#x30b1;&#x30b3; &#x30ac;&#x30ae;&#x30b0;&#x30b2;&#x30b4; &#x30b5;&#x30b7;&#x30b9;&#x30bb;&#x30bd; &#x30b6;&#x30b8;&#x30ba;&#x30bc;&#x30be; &#x30bf;&#x30c1;&#x30c4;&#x30c6;&#x30c8; &#x30c0;&#x30c2;&#x30c5;&#x30c7;&#x30c9; &#x30ca;&#x30cb;&#x30cc;&#x30cd;&#x30ce; &#x30cf;&#x30d2;&#x30d5;&#x30d8;&#x30db; &#x30d0;&#x30d3;&#x30d6;&#x30d9;&#x30dc; &#x30d1;&#x30d4;&#x30d7;&#x30da;&#x30dd; &#x30de;&#x30df;&#x30e0;&#x30e1;&#x30e2; &#x30e4;&#x30e6;&#x30e8; &#x30e9;&#x30ea;&#x30eb;&#x30ec;&#x30ed; &#x30ef;&#x30f0;&#x30f1;&#x30f2; &#x30f3;&#x30f4;
+  HANG  Hangul                    ----  Featural-Alphabet 1443AD  present hang 286    https://en.wikipedia.org/wiki/Hangul                            eg. 수부룩이 내려오는 눈발속에서는  까투리 매추래기 새끼들도 깃들이어 오는 소리
+  BHTI  Bhattiprolu               BRAH  Abugida            250BC    50BC  ----        https://en.wikipedia.org/wiki/Bhattiprolu_script
+  KADA  Kadamba                   BHTI  Abugida            450AD   700AD  ----        https://en.wikipedia.org/wiki/Kadamba_script
+  TEKA  Telugu-Kannada            KADA  Abugida            700AD  1350AD  ----        https://en.wikipedia.org/wiki/Telugu-Kannada_alphabet
+  TELU  Telugu                    TEKA  Abugida           1300AD  present telu 340    https://en.wikipedia.org/wiki/Telugu_script                     &#x0c15;&#x0c16;&#x0c17;&#x0c18;&#x0c19;&#x0c1a;&#x0c1b;&#x0c1c;&#x0c1d;&#x0c1e;&#x0c1f;&#x0c20;&#x0c21;&#x0c22;&#x0c23;&#x0c24;&#x0c25;&#x0c26;&#x0c27;&#x0c28;&#x0c2a;&#x0c2b;&#x0c2c;&#x0c2d;&#x0c2e;&#x0c2f;&#x0c30;&#x0c31;&#x0c32;&#x0c33;&#x0c34;&#x0c35;&#x0c36;&#x0c37;&#x0c38;&#x0c39;&#x0c05;&#x0c06;&#x0c07;&#x0c08;&#x0c09;&#x0c0a;&#x0c0b;&#x0c0c;&#x0c0e;&#x0c0f;&#x0c10;&#x0c12;&#x0c13;&#x0c14;
+  EGYH  Hieratic (Egyptian)       EGYP  Logoconsonantal   3000BC   250AD  egyh 060    https://en.wikipedia.org/wiki/Hieratic                          eg.  &#x1308b; &#x1309d; &#x130a7; &#x130c0; &#x13121; &#x1313f; &#x13142; &#x13153; &#x13171; &#x13191; &#x13193; &#x131cb; &#x131cc; &#x131d2; &#x131e9; &#x1320e; &#x13216; &#x13219; &#x13254; &#x13283; &#x132aa; &#x132f4; &#x13300; &#x13301; &#x1332b; &#x13371; &#x13372; &#x1337f; &#x1339b; &#x133a1; &#x133bc; &#x133cc; &#x133cf; &#x133ed; &#x133ee; &#x133f2; &#x1340d; &#x1342a;
+  BYBS  Byblos syllabery          EGYH  Undeciphered      1800BC  1400BC  ----        https://en.wikipedia.org/wiki/Byblos_syllabary
+  EGYD  Demotic (Egyptian)        EGYH  Logographic        650BC   450AD  egyd 070    https://en.wikipedia.org/wiki/Demotic_(Egyptian)
+  MERO  Meroitic Hieroglyphs      EGYD  Abugida            300BC   600AD  mero 100    https://en.wikipedia.org/wiki/Meroitic_script                   &#x10980; &#x10981; &#x10982; &#x10983; &#x10984; &#x10985; &#x10986; &#x10987; &#x10988; &#x10989; &#x1098a; &#x1098b; &#x1098c; &#x1098d; &#x1098e; &#x1098f; &#x10990; &#x10991; &#x10992; &#x10993; &#x10994; &#x10995; &#x10996; &#x10997; &#x10998; &#x10999; &#x1099a; &#x1099b; &#x1099c; &#x1099d; &#x1099e; &#x1099f;
+  MERC  Meroitic Cursive          EGYD  Abugida            300BC   600AD  merc 100    https://en.wikipedia.org/wiki/Meroitic_script                   &#x109a0; &#x109a1; &#x109a2; &#x109a3; &#x109a4; &#x109a5; &#x109a6; &#x109a7; &#x109a8; &#x109a9; &#x109aa; &#x109ab; &#x109ac; &#x109ad; &#x109ae; &#x109af; &#x109b0; &#x109b1; &#x109b2; &#x109b3; &#x109b4; &#x109b5; &#x109b6; &#x109b7;
+  COPT  Coptic                    EGYD  Alphabet           150AD  present copt 204    https://en.wikipedia.org/wiki/Coptic_script                     &#x2c80;&#x2c82;&#x2c84;&#x2c86;&#x2c88;&#x2c8a;&#x2c8c;&#x2c8e;&#x2c90;&#x2c92;&#x2c94;&#x2c96;&#x2c98;&#x2c9a;&#x2c9c;&#x2c9e;&#x2ca0;&#x2ca2;&#x2ca4;&#x2ca6;&#x2ca8;&#x2caa;&#x2cac;&#x2cae;&#x2cb0; &#x2c81;&#x2c83;&#x2c85;&#x2c87;&#x2c89;&#x2c8b;&#x2c8d;&#x2c8f;&#x2c91;&#x2c93;&#x2c95;&#x2c97;&#x2c99;&#x2c9b;&#x2c9d;&#x2c9f;&#x2ca1;&#x2ca3;&#x2ca5;&#x2ca7;&#x2ca9;&#x2cab;&#x2cad;&#x2caf;&#x2cb1;
+  ONUB  Old Nubian                COPT  Alphabet           550AD  1450AD  ----        https://en.wikipedia.org/wiki/Old_Nubian#Writing                &#x2c81;&#x2c83;&#x2c85;&#x2c87;&#x2c89;&#x2c8b;&#x2c8d;&#x2c8f;&#x2c91;&#x2c93;&#x2c95;&#x2c97;&#x2c99;&#x2c9b;&#x0308;&#x2c9f;&#x2ca1;&#x2ca3;&#x2ca5;&#x2ca7;&#x2ca9;&#x2cab;&#x2cad;&#x2caf;&#x2cb1;&#x03e9;&#x2ced;&#x2cef;&#x2ce1;&#x2ce3;
+  UGAR  Ugaritic alphabet         XSUX  Abjad             1400BC  1190BC  ugar 040    https://en.wikipedia.org/wiki/Ugaritic_alphabet                 &#x10380;&#x10381;&#x10382;&#x10383;&#x10384;&#x10385;&#x10386;&#x10387;&#x10388;&#x10389;&#x1038a;&#x1038b;&#x1038c;&#x1038d;&#x1038e;&#x1038f;&#x10390;&#x10391;&#x10392;&#x10393;&#x10394;&#x10395;&#x10396;&#x10397;&#x10398;&#x10399;&#x1039a;&#x1039b;&#x1039c;&#x1039d;
+  TABR  Tamil Brahmi              BRAH  Abugida            250BC   500AD? ----        https://en.wikipedia.org/wiki/Tamil-Brahmi
+  PALL  Pallava                   TABR  Abugida            300AD   750AD  ----        https://en.wikipedia.org/wiki/Pallava_script
+  TAML  Tamil                     PALL  Abugida            400AD  present taml 346    https://en.wikipedia.org/wiki/Tamil_script                      &#x0b95;&#x0b99;&#x0b9a;&#x0b9c;&#x0b9e;&#x0b9f;&#x0ba3;&#x0ba4;&#x0ba8;&#x0ba9;&#x0baa;&#x0bae;&#x0baf;&#x0bb0;&#x0bb1;&#x0bb2;&#x0bb3;&#x0bb4;&#x0bb5;&#x0bb6;&#x0bb7;&#x0bb8;&#x0bb9;&#x0b85;&#x0b86;&#x0b87;&#x0b88;&#x0b89;&#x0b8a;&#x0b8e;&#x0b8f;&#x0b90;&#x0b92;&#x0b93;&#x0b94;
+  CHAM  Cham script               PALL  Abugida            350AD  present cham 358    https://en.wikipedia.org/wiki/Cham_script                       &#xaa06;&#xaa07;&#xaa08;&#xaa09;&#xaa0a;&#xaa0b;&#xaa0c;&#xaa0d;&#xaa0e;&#xaa0f;&#xaa10;&#xaa11;&#xaa12;&#xaa13;&#xaa14;&#xaa15;&#xaa16;&#xaa17;&#xaa18;&#xaa19;&#xaa1a;&#xaa1b;&#xaa1c;&#xaa1d;&#xaa1e;&#xaa1f;&#xaa20;&#xaa21;&#xaa22;&#xaa23;&#xaa24;&#xaa25;&#xaa26;&#xaa27;&#xaa28;&#xaa00;&#xaa01;&#xaa02;&#xaa03;&#xaa04;&#xaa05;
+  KAWI  Kawi script               PALL  Abugida            750AD  1550AD  kawi 368    https://en.wikipedia.org/wiki/Kawi_script                       &#x11f12;&#x11f13;&#x11f14;&#x11f15;&#x11f16;&#x11f17;&#x11f18;&#x11f19;&#x11f1a;&#x11f1b;&#x11f1c;&#x11f1d;&#x11f1e;&#x11f1f;&#x11f20;&#x11f21;&#x11f22;&#x11f23;&#x11f24;&#x11f25;&#x11f26;&#x11f27;&#x11f28;&#x11f29;&#x11f2a;&#x11f2b;&#x11f2c;&#x11f2d;&#x11f2e;&#x11f2f;&#x11f30;&#x11f31;&#x11f32;&#x11f33;&#x11f04;&#x11f05;&#x11f06;&#x11f07;&#x11f08;&#x11f09;&#x11f0a;&#x11f0b;&#x11f0c;&#x11f0d;&#x11f0e;&#x11f0f;&#x11f10;
+  BALI  Balinese script           KAWI  Abugida           1000AD  present bali 360    https://en.wikipedia.org/wiki/Balinese_script                   &#x1b13;&#x1b14;&#x1b15;&#x1b16;&#x1b17;&#x1b18;&#x1b19;&#x1b1a;&#x1b1b;&#x1b1c;&#x1b1d;&#x1b1e;&#x1b1f;&#x1b20;&#x1b21;&#x1b22;&#x1b23;&#x1b24;&#x1b25;&#x1b26;&#x1b27;&#x1b28;&#x1b29;&#x1b2a;&#x1b2b;&#x1b2c;&#x1b2d;&#x1b2e;&#x1b2f;&#x1b30;&#x1b31;&#x1b32;&#x1b33;&#x1b05;&#x1b06;&#x1b07;&#x1b08;&#x1b09;&#x1b0a;&#x1b0b;&#x1b0c;&#x1b0d;&#x1b0e;&#x1b0f;&#x1b10;&#x1b11;&#x1b12;
+  JAVA  Javanese script           KAWI  Abugida           1450AD  present java 361    https://en.wikipedia.org/wiki/Javanese_script                   &#xa984;&#xa985;&#xa986;&#xa987;&#xa988;&#xa989;&#xa98a;&#xa98b;&#xa98c;&#xa98d;&#xa98e;&#xa98f;&#xa990;&#xa991;&#xa992;&#xa993;&#xa994;&#xa995;&#xa996;&#xa997;&#xa998;&#xa999;&#xa99a;&#xa99b;&#xa99c;&#xa99d;&#xa99e;&#xa99f;&#xa9a0;&#xa9a1;&#xa9a2;&#xa9a3;&#xa9a4;&#xa9a5;&#xa9a6;&#xa9a7;&#xa9a8;&#xa9a9;&#xa9aa;&#xa9ab;&#xa9ac;&#xa9ad;&#xa9ae;&#xa9af;&#xa9b0;&#xa9b1;&#xa9b2;
+  BATK  Batak script              KAWI  Abugida           1300AD  present batk 365    https://en.wikipedia.org/wiki/Batak_script                      &#x1bc0;&#x1bc1;&#x1bc2;&#x1bc3;&#x1bc4;&#x1bc5;&#x1bc6;&#x1bc7;&#x1bc8;&#x1bc9;&#x1bca;&#x1bcb;&#x1bcc;&#x1bcd;&#x1bce;&#x1bcf;&#x1bd0;&#x1bd1;&#x1bd2;&#x1bd3;&#x1bd4;&#x1bd5;&#x1bd6;&#x1bd7;&#x1bd8;&#x1bd9;&#x1bda;&#x1bdb;&#x1bdc;&#x1bdd;&#x1bde;&#x1bdf;&#x1be0;&#x1be1;&#x1be2;&#x1be3;&#x1be4;&#x1be5;
+  SUND  Old Sundanese script      KAWI  Abugida           1350AD  1750AD  sund 362    https://en.wikipedia.org/wiki/Old_Sundanese_script              &#x1b8a;&#x1b8b;&#x1b8c;&#x1b8d;&#x1b8e;&#x1b8f;&#x1b90;&#x1b91;&#x1b92;&#x1b93;&#x1b94;&#x1b95;&#x1b96;&#x1b97;&#x1b98;&#x1b99;&#x1b9a;&#x1b9b;&#x1b9c;&#x1b9d;&#x1b9e;&#x1b9f;&#x1ba0;&#x1b83;&#x1b84;&#x1b85;&#x1b86;&#x1b87;&#x1b88;&#x1b89;
+  BUGI  Lontara script            KAWI  Abugida           1550AD  present bugi 367    https://en.wikipedia.org/wiki/Lontara_script                    &#x1a00;&#x1a01;&#x1a02;&#x1a03;&#x1a04;&#x1a05;&#x1a06;&#x1a07;&#x1a08;&#x1a09;&#x1a0a;&#x1a0b;&#x1a0c;&#x1a0d;&#x1a0e;&#x1a0f;&#x1a10;&#x1a11;&#x1a12;&#x1a13;&#x1a14;&#x1a15;&#x1a16;
+  MAKA  Makasar script            KAWI  Abugida           1650AD  1850AD  maka 366    https://en.wikipedia.org/wiki/Makasar_script                    &#x11ee0;&#x11ee1;&#x11ee2;&#x11ee3;&#x11ee4;&#x11ee5;&#x11ee6;&#x11ee7;&#x11ee8;&#x11ee9;&#x11eea;&#x11eeb;&#x11eec;&#x11eed;&#x11eee;&#x11eef;&#x11ef0;&#x11ef1;&#x11ef2;
+  GUJR  Gujarati                  NAGI  Abugida           1592AD  present gujr 320    https://en.wikipedia.org/wiki/Gujarati_script                   &#xa95;&#xa96;&#xa97;&#xa98;&#xa99;&#xa9a;&#xa9b;&#xa9c;&#xa9d;&#xa9e;&#xa9f;&#xaa0;&#xaa1;&#xaa2;&#xaa3;&#xaa4;&#xaa5;&#xaa6;&#xaa7;&#xaa8;&#xaaa;&#xaab;&#xaac;&#xaad;&#xaae;&#xaaf;&#xab0;&#xab2;&#xab3;&#xab5;&#xab6;&#xab7;&#xab8;&#xab9;&#xa85;&#xa86;&#xa87;&#xa88;&#xa89;&#xa8a;&#xa8b;&#xa8c;&#xa8d;&#xa8f;&#xa90;&#xa91;&#xa93;&#xa94;
+  KNDA  Kannada                   TEKA  Abugida           1300AD  present knda 345    https://en.wikipedia.org/wiki/Kannada_script                    &#xc95;&#xc96;&#xc97;&#xc98;&#xc99;&#xc9a;&#xc9b;&#xc9c;&#xc9d;&#xc9e;&#xc9f;&#xca0;&#xca1;&#xca2;&#xca3;&#xca4;&#xca5;&#xca6;&#xca7;&#xca8;&#xcaa;&#xcab;&#xcac;&#xcad;&#xcae;&#xcaf;&#xcb0;&#xcb1;&#xcb2;&#xcb3;&#xcb5;&#xcb6;&#xcb7;&#xcb8;&#xcb9;&#xc85;&#xc86;&#xc87;&#xc88;&#xc89;&#xc8a;&#xc8b;&#xc8c;&#xc8e;&#xc8f;&#xc90;&#xc92;&#xc93;&#xc94;
+  PYUO  Pyu                       BHTI  Abugida            200AD  1200AD  ----        https://en.wikipedia.org/wiki/Pyu_script
+  MYMR  Mon-Burmese               PYUO  Abugida            650AD  present mymr 350    https://en.wikipedia.org/wiki/Burmese_script
+  BURM  Burmese                   MYMR  Abugida            984AD  present mymr 350    https://en.wikipedia.org/wiki/Burmese_alphabet
+  SGAW  S'gaw Karen alphabet      MYMR  Abugida           1830AD  present mymr 350    https://en.wikipedia.org/wiki/S%27gaw_Karen_alphabet
+  MONA  Mon alphabet              MYMR  Abugida           1050AD  present mymr 350    https://en.wikipedia.org/wiki/Mon_alphabet
+  SHAN  Shan alphabet             MYMR  Abugida           1500AD  present mymr 350    https://en.wikipedia.org/wiki/Shan_alphabet
+  LANA  Tai Tham script           MYMR  Abugida           1300AD  present lana 351    https://en.wikipedia.org/wiki/Tai_Tham_script
+  CAKM  Chakma script             MYMR  Abugida                ?  present cakm 349    https://en.wikipedia.org/wiki/Chakma_script
+  LIKT  Lik-Tai                   MYMR  Abugida           1150AD  present mymr 350    https://en.wikipedia.org/wiki/Khamti_language#Writing_system
+  AHOM  Ahom script               LIKT  Abugida           1250AD  1850AD  ahom 338    https://en.wikipedia.org/wiki/Ahom_script
+  TALE  Tai Le script             LIKT  Abugida           1200AD  present tale 353    https://en.wikipedia.org/wiki/Tai_Le_script
+  GRAN  Grantha                   PALL  Abugida            650AD  present ----        https://en.wikipedia.org/wiki/Grantha_script
+  MLYM  Malayalam                 GRAN  Abugida            830AD  present mlym 347    https://en.wikipedia.org/wiki/Malayalam_script
+  KHMR  Khmer                     PALL  Abugida            611AD  present khmr 355    https://en.wikipedia.org/wiki/Khmer_script
+  SUKH  Sukhothai                 KHMR  Abugida           1283AD  1450AD  ----        https://en.wikipedia.org/wiki/Sukhothai_script
+  THAI  Thai                      SUKH  Abugida           1320AD  present thai 352    https://en.wikipedia.org/wiki/Thai_script
+  SHRD  Sharada                   GUPT  Abugida            650AD  present shrd 319    https://en.wikipedia.org/wiki/Sharada_script
+  LAND  Landa                     SHRD  Abugida            950AD  1050AD  ----        https://en.wikipedia.org/wiki/La%E1%B9%87%E1%B8%8D%C4%81_scripts
+  GURU  Gurmukhi                  LAND  Abugida           1550AD  present guru 310    https://en.wikipedia.org/wiki/Gurmukhi
+  SIND  Khudabadi                 LAND  Abugida           1550AD  present sind 318    https://en.wikipedia.org/wiki/Khudabadi_script
+  FAKK  Fakkham                   SUKH  Abugida           1350AD  1600AD  ----        https://en.wikipedia.org/wiki/Fakkham_script
+  TAIN  Tai Noi                   FAKK  Abugida           1450AD  1930AD  ----        https://en.wikipedia.org/wiki/Tai_Noi_script
+  LAOO  Lao                       TAIN  Abugida           1500AD* present laoo 356    https://en.wikipedia.org/wiki/Lao_script
+  GAUD  Gaudi                     SIDD  Abugida            900AD  1300AD  ----        https://en.wikipedia.org/wiki/Gaudi_script
+  ORYA  Odia                      GAUD  Abugida           1350AD  present orya 327    https://en.wikipedia.org/wiki/Oriya_alphabet
+  TIRH  Tirhuta                   GAUD  Abugida           1250AD  present tirh 326    https://en.wikipedia.org/wiki/Tirhuta_script
+  SARB  Ancient South Arabian     PSIN  Abugida           1500BC   600AD  sarb 105    https://en.wikipedia.org/wiki/Ancient_South_Arabian_script
+  NARB  Ancient North Arabian     PSIN  Abjad              750BC   350AD  narb 106    https://en.wikipedia.org/wiki/Ancient_North_Arabian
+  ETHI  Ge'ez                     SARB  Abugida             50AD  present ethi 430    https://en.wikipedia.org/wiki/Ge%CA%BDez_script
+  SINH  Sinhala                   BRAH  Abugida            300AD  present sinh 348    https://en.wikipedia.org/wiki/Sinhala_alphabet
+  HEBR  Hebrew                    ARMI  Abjad              150BC  present hebr 125    https://en.wikipedia.org/wiki/Hebrew_script
+  ARMN  Armenian                  GREK  Alphabet           405AD  present armn 230    https://en.wikipedia.org/wiki/Armenian_script
+  TIBT  Tibetan                   GUPT  Abugida            650AD  present tibt 330    https://en.wikipedia.org/wiki/Tibetan_alphabet
+  GEOR  Georgian                  GREK  Alphabet           430AD  present geor 240    https://en.wikipedia.org/wiki/Georgian_script
+  GEOK  Georgian Khutsuri         GREK  Alphabet           430AD  present geok 241    https://en.wikipedia.org/wiki/Georgian_script
+  SYRE  Syriac (ʾEsṭrangēlā)      ARMI  Abjad                1AD  present syre 138    https://en.wikipedia.org/wiki/Syriac_alphabet
+  SYRJ  Syriac (Eastern)          ARMI  Abjad                1AD  present syrj 137    https://en.wikipedia.org/wiki/Syriac_alphabet
+  SYRN  Syriac (Western)          ARMI  Abjad                1AD  present syrn 136    https://en.wikipedia.org/wiki/Syriac_alphabet
+  SYRC  Syriac                    ARMI  Abjad                1AD  present syrc 135    https://en.wikipedia.org/wiki/Syriac_alphabet
+  SOGO  Old Sogdian               SYRC  Abjad              100AD  1200AD  sogo 142    https://en.wikipedia.org/wiki/Sogdian_alphabet
+  SOGD  Sogdian                   SOGO  Abjad              200AD  1200AD  sogd 141    https://en.wikipedia.org/wiki/Sogdian_alphabet
+  OUGR  Old Uyghur                SOGD  Abjad              750AD  1850AD  ougr 143    https://en.wikipedia.org/wiki/Old_Uyghur_alphabet
+  MONG  Mongolian                 OUGR  Alphabet          1204AD  present mong 145    https://en.wikipedia.org/wiki/Mongolian_script
+  MTEI  Meitei                    TIBT  Abugida            700AD* present mtei 337    https://en.wikipedia.org/wiki/Meitei_script
+  LEPC  Lepcha                    TIBT  Abugida           1700AD  present lepc 335    https://en.wikipedia.org/wiki/Lepcha_script
+  CANS  Syllabics                 DEVA  Abugida           1840AD  present cans 440    https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics
+  THAA  Thaana                    ARAB  Abugida           1620AD  present thaa 170    https://en.wikipedia.org/wiki/Thaana_script
+  CHER  Cherokee                  ----  Syllabary         1820AD  present cher 445    https://en.wikipedia.org/wiki/Cherokee_syllabary
+  NKDB  Dongba                    ----  Pictograph         650AD  present nkdb 085    https://en.wikipedia.org/wiki/Dongba_symbols
+  NKGB  Geba                      ----  Syllabary              ?  present nkgb 420    https://en.wikipedia.org/wiki/Geba_syllabary
+  PLHB  Paleo-Hebrew              PSIN  Abjad             1000BC   135AD  phnx 115    https://en.wikipedia.org/wiki/Paleo-Hebrew_alphabet
+  SAMR  Samaritan script          PLHB  Abjad              600BC  present samr 123    https://en.wikipedia.org/wiki/Samaritan_script
+  PLHS  Paleohispanic scripts     PHNX  Semisyllabery      650BC    50BC  ----        https://en.wikipedia.org/wiki/Paleohispanic_scripts
+  LIBR  Libyco-Berber alphabet    PHNX  Abjad              500BC   550AD  ----        https://en.wikipedia.org/wiki/Libyco-Berber_alphabet
+  TIFI  Tifinagh                  LIBR  Abjad                  ?  present ----        https://en.wikipedia.org/wiki/Tifinagh
+  TFNG  Neo Tifinagh              TIFI  Alphabet          1970AD  present tfng 120    https://en.wikipedia.org/wiki/Tifinagh
+  GOTH  Gothic alphabet           GREK  Alphabet           350AD   600AD  goth 206    https://en.wikipedia.org/wiki/Gothic_alphabet
+  GLAG  Glagolitic script         GREK  Alphabet           862AD  1400AD  glag 225    https://en.wikipedia.org/wiki/Glagolitic_script
+  ANAA  Anatolian                 GREK  Alphabet           750BC   350BC  ----        https://en.wikipedia.org/wiki/Alphabets_of_Anatolia
+  LYDI  Lydian                    ANAA  Alphabet           700BC   200BC  lydi 116    https://en.wikipedia.org/wiki/Lydian_alphabet
+  CARI  Carian                    GREK  Alphabet           700BC   200BC  cari 201    https://en.wikipedia.org/wiki/Carian_alphabets
+  LYCI  Lycian                    GREK  Alphabet           500BC   330BC  lyci 202    https://en.wikipedia.org/wiki/Lycian_alphabet
+  SIDE  Sidetic                   GREK  Alphabet           450BC   200BC  ----        https://en.wikipedia.org/wiki/Sidetic_language#The_Sidetic_script
+  PHRY  Phrygian alphabet         GREK  Alphabet           750BC   350BC  ----        https://en.wikipedia.org/wiki/Phrygian_alphabet
+  RUNR  Runic                     ITAL  Alphabet            50AD  1100AD  runr 211    https://en.wikipedia.org/wiki/Runes
+  ELDF  Elder Futhark             ITAL  Alphabet            50AD   750AD  ----        https://en.wikipedia.org/wiki/Elder_Futhark
+  YNGF  Younger Futhark           ELDF  Alphabet           750AD  1150AD  runr 211    https://en.wikipedia.org/wiki/Younger_Futhark
+  ANGS  Anglo-Saxon runes         ELDF  Alphabet           450AD  1050AD  ----        https://en.wikipedia.org/wiki/Anglo-Saxon_runes
+  MEDR  Medieval runes            YNGF  Alphabet          1150AD  1650AD  ----        https://en.wikipedia.org/wiki/Medieval_runes
+  DALE  Dalecarlian runes         MEDR  Alphabet          1550AD  1950AD  ----        https://en.wikipedia.org/wiki/Dalecarlian_runes
+  LISU  Fraser script             LATN  Alphabet          1915AD  present lisu 399    https://en.wikipedia.org/wiki/Fraser_script
+  OSGE  Osage script              LATN  Alphabet          2006AD  present osge 399    https://en.wikipedia.org/wiki/Osage_script
+  DSRT  Deseret alphabet          LATN  Alphabet          1854AD  1869AD  dsrt 250    https://en.wikipedia.org/wiki/Deseret_alphabet
+  PLRD  Pollard script            CANS  Abugida           1936AD  present plrd 282    https://en.wikipedia.org/wiki/Pollard_script
+  WOLE  Woleai script             LATN  Syllabery         1910AD  1950AD  wole 480    https://en.wikipedia.org/wiki/Woleai_script
+  BOPO  Bopomofo                  HANC  Semisyllabery     1918AD  1958AD  bopo 285    https://en.wikipedia.org/wiki/Bopomofo
+  BOPC  Cantonese Bopomofo        BOPO  Semisyllabery     1931AD  1958AD  ----        https://en.wikipedia.org/wiki/Cantonese_Bopomofo
+  BOPT  Taiwanese Phonetic Symbol BOPO  Semisyllabery     1946AD  present bopo 285    https://en.wikipedia.org/wiki/Taiwanese_Phonetic_Symbols
+  HANI  Hanja                     HANC  Logographic        350BC  present hani 500    https://en.wikipedia.org/wiki/Hanja
+  SAWN  Sawndip                   HANT  Logographic        650AD  present ----        https://en.wikipedia.org/wiki/Sawndip
+  CHUH  Chữ Hán                   HANC  Logographic        250BC  1950AD  ----        https://en.wikipedia.org/wiki/Ch%E1%BB%AF_H%C3%A1n
+  CHUN  Chữ Nôm                   CHUH  Logographic       1250AD  1950AD  ----        https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m
+  KITL  Khitan Large Script       HANC  Logographic        950AD  1150AD  kitl 505    https://en.wikipedia.org/wiki/Khitan_large_script
+  KITS  Khitan Small Script       HANC  Logographic        950AD  1150AD  kits 288    https://en.wikipedia.org/wiki/Khitan_small_script
+  JURC  Jurchen script            KITL  Logographic       1150AD  1550AD  jurc 510    https://en.wikipedia.org/wiki/Jurchen_script
+  TANG  Tangut script             HANT  Logographic       1036AD  1502AD  tang 520    https://en.wikipedia.org/wiki/Tangut_script
+  NKOO  N'Ko script               ARAB  Alphabet          1949AD  present nkoo 165    https://en.wikipedia.org/wiki/N%27Ko_script
+  ROHG  Hanifi Rohingya script    ARAB  Alphabet          1985AD  present rohg 167    https://en.wikipedia.org/wiki/Hanifi_Rohingya_script
+  MANC  Manchu alphabet           MONG  Alphabet          1632AD  present mong 145    https://en.wikipedia.org/wiki/Manchu_alphabet
+  PALM  Palmyrene alphabet        ARMI  Abjad              100BC   300AD  palm 126    https://en.wikipedia.org/wiki/Palmyrene_alphabet
+  HATR  Hatran Aramaic alphabet   ARMI  Abjad              100BC   240AD  hatr 127    https://en.wikipedia.org/wiki/Hatran_Aramaic#Alphabet
+  MAND  Mandaic alphabet          ARMI  Alphabet           150AD   650AD  mand 140    https://en.wikipedia.org/wiki/Mandaic_alphabet
+  ELYM  Elymaic                   ARMI  Abjad              150BC   250AD  elym 128    https://en.wikipedia.org/wiki/Elymaic
+  PHLI  Inscriptional Pahlavi     ARMI  Abjad              150BC   650AD  phli 131    https://en.wikipedia.org/wiki/Pahlavi_scripts
+  PRTI  Inscriptional Parthian    ARMI  Abjad              150BC   650AD  phli 131    https://en.wikipedia.org/wiki/Pahlavi_scripts
+  PHLP  Psalter Pahlavi           ARMI  Abjad              150BC   650AD  phli 131    https://en.wikipedia.org/wiki/Pahlavi_scripts
+  PHLV  Book Pahlavi              ARMI  Abjad              150BC   650AD  phli 131    https://en.wikipedia.org/wiki/Pahlavi_scripts
+  AVST  Avestan Alphabet          PHLI  Alphabet           400AD  1000AD  avst 134    https://en.wikipedia.org/wiki/Avestan_alphabet
+  KHAR  Kharosthi                 ARMI  Abugida            350BC   250AD  khar 305    https://en.wikipedia.org/wiki/Kharosthi
+  KALI  Kalinga                   GUPT  Abugida            550AD  1100AD  ----        https://en.wikipedia.org/wiki/Kalinga_script
+  BHKS  Bhaiksuki                 GUPT  Abugida           1050AD  1105AD  bhks 334    https://en.wikipedia.org/wiki/Bhaiksuki_script
+  VATT  Vatteluttu                TABR  Abugida            400AD   750AD  ----        https://en.wikipedia.org/wiki/Vatteluttu
+  KOLE  Kolezhuthu                VATT  Abugida           1200AD  1750AD  ----        https://en.wikipedia.org/wiki/Kolezhuthu
+  TOCH  Tocharian                 BRAH  Abugida            750AD   850AD  ----        https://en.wikipedia.org/wiki/Tocharian_script
+  KTHI  Kaithi                    NAGI  Abugida           1550AD  1950AD  kthi 317    https://en.wikipedia.org/wiki/Kaithi
+  MODI  Modi script               NAGI  Abugida           1200AD  1600AD  modi 324    https://en.wikipedia.org/wiki/Modi_script
+  SYLO  Sylheti Nagri             KTHI  Abugida           1600AD* present sylo 316    https://en.wikipedia.org/wiki/Sylheti_Nagri
+  SOYO  Soyombo                   DEVA  Abugida           1686AD  1750AD  soyo 329    https://en.wikipedia.org/wiki/Soyombo_script
+  SAUR  Saurashtra                GRAN  Abugida           1850AD  present saur 344    https://en.wikipedia.org/wiki/Saurashtra_script
+  DIAK  Dhives Akuru              GRAN  Abugida            700AD* 1875AD  diak 342    https://en.wikipedia.org/wiki/Dhives_Akuru
+  TIGA  Tigalari script           GRAN  Abugida            850AD  present ----        https://en.wikipedia.org/wiki/Tigalari_script
+
+
+# Format of the display
+
+# Abjad  #d0ffd0   Abugida  #e0ffe0   Alphabet  #e0e0ff   Logography  #ffffe0 Pictograph  #ffe0ff   Syllabary  #e0ffff
+# Latin (English name)
+# Latin (in the script)
+# Alphabet
+# ABCDEFGHIJKLMNOPQRSTUVWXYZ
+# 700BC
+# present
+# https://en.wikipedia.org/wiki/Latin_script
+
+# Alert: parent BOPO of child BOPC is >= start date (1931AD compared to 1918AD)
