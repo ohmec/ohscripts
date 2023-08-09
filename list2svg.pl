@@ -265,7 +265,24 @@ sub print_svg_object
   print qq|  <a href="$url"><rect class="$recttype" x="$x" y="$y" width="$w" height="$h" rx="$rx"/></a>\n|;
   print qq|  <text class="langtextb" transform="translate($x10,$y5) scale(1.0)"|;
   if(defined $example)
-    { print ">$id $name\n    <tspan>$example</tspan>\n  </text>\n" }
+    {
+    while($example =~ /\&#x(\w+)(\s*)-\s*(\w+);/)
+      {
+      my $to;
+      my $val1 = $1;
+      my $hval1 = hex $1;
+      my $space = $2;
+      my $val2 = $3;
+      my $hval2 = hex $3;
+      my $diff = ($hval2>$hval1) ? 1 : -1;
+      my $replace;
+      for(my $val=$hval1;$val!=($hval2+$diff);$val+=$diff)
+        { $replace .= sprintf "&#x%x;%s", $val, $space }
+      $replace =~ s/\s*$//;
+      $example =~ s/\&#x$val1\s*-\s*$val2;/$replace/;
+      }
+    print ">$id $name\n    <tspan>$example</tspan>\n  </text>\n"
+    }
   elsif(defined $image)
     {
     my $tlen = length("$id $name");
