@@ -123,7 +123,7 @@
   <!-- EGYH -->
   <a href="https://en.wikipedia.org/wiki/Hieratic"><rect class="rectlogc" x="525" y="138" width="3250" height="29" rx="5"/></a>
   <text class="langtextb" transform="translate(535,154) scale(1.0)">EGYH Hieratic (Egyptian)
-    <tspan>eg.  &#x1308b; &#x1309d; &#x130a7; &#x130c0; &#x13121; &#x1313f; &#x13142; &#x13153; &#x13171; &#x13191; &#x13193; &#x131cb; &#x131cc; &#x131d2; &#x131e9; &#x1320e; &#x13216; &#x13219; &#x13254; &#x13283; &#x132aa; &#x132f4; &#x13300; &#x13301; &#x1332b; &#x13371; &#x13372; &#x1337f; &#x1339b; &#x133a1; &#x133bc; &#x133cc; &#x133cf; &#x133ed; &#x133ee; &#x133f2; &#x1340d; &#x1342a;</tspan>
+    <tspan>&#x1313f; &#x131cb; &#x133ed; &#x131cc; &#x1339a; &#x13171; &#x130c0; &#x132aa; &#x13191; &#x13153; &#x13216; &#x1308b; &#x13254; &#x1339b; &#x1340d; &#x13121; &#x13283; &#x132f4; &#x13219; &#x1320e; &#x133a1; &#x133bc; &#x133cf; &#x1337f; &#x130a7; &#x13193;</tspan>
   </text>
   <path class="linec" d="M 532,167 V 178.5 C 532,186.5 532,186.5 540,186.5 H 1725" />
   <!-- BYBS -->
