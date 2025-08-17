@@ -16,7 +16,7 @@ x OBNS  Oracle Bone Script        ----  Logography        1600BC   300BC  ---   
 - ARAB  Arabic                    NBAT  Abjad              400AD  present arab 160    https://en.wikipedia.org/wiki/Arabic_script                     eg. &#x63a - 627;
 - ARMI  Aramaic                   PHNX  Abjad              800BC   600AD  armi 124    https://en.wikipedia.org/wiki/Aramaic_alphabet                  &#x10855-10840;
   PREL  Proto Elamite             PCUN  Unknown           3100BC  2000BC  ---         https://en.wikipedia.org/wiki/Proto-Elamite_script
-  LINE  Linear Elamite            PREL  Semisyllabery     2300BC  1850BC  ---         https://en.wikipedia.org/wiki/Linear_Elamite
+- LINE  Linear Elamite            PREL  Semisyllabery     2300BC  1850BC  ---         https://en.wikipedia.org/wiki/Linear_Elamite                    img:line.svg
   LINA  Linear A                  ----  Ideographic       1800BC  1450BC  lina 400    https://en.wikipedia.org/wiki/Linear_A                          eg.  &#x10600; &#x10603; &#x10606; &#x10609; &#x1060b; &#x1060c; &#x1060f; &#x10610; &#x10612; &#x10616; &#x10618; &#x1061b; &#x1061c; &#x1061f; &#x10622; &#x10625; &#x10628; &#x1062b; &#x1062f; &#x10636; &#x1063a; &#x1063f; &#x10640; &#x10643; &#x10644; &#x10647; &#x1064b; &#x10650; &#x10655; &#x1065f; &#x10661;
   LINB  Linear B                  LINA  Syllabary         1400BC  1200BC  linb 401    https://en.wikipedia.org/wiki/Linear_B                          &#x10000 - 1000b; &#x1000d - 10026; &#x10028 - 1003a; &#x1003c; &#x1003d; &#x1003f;
   OGHA  Ogham                     ----  Alphabet           350AD   950AD  ogam 212    https://en.wikipedia.org/wiki/Ogham                             &#x1681-1685; &#x1686-168a; &#x168b-168f; &#x1690-1694;
@@ -118,17 +118,17 @@ x OBNS  Oracle Bone Script        ----  Logography        1600BC   300BC  ---   
   GOTH  Gothic alphabet           GREK  Alphabet           350AD   600AD  goth 206    https://en.wikipedia.org/wiki/Gothic_alphabet
   GLAG  Glagolitic script         GREK  Alphabet           862AD  1400AD  glag 225    https://en.wikipedia.org/wiki/Glagolitic_script
   ANAA  Anatolian                 GREK  Alphabet           750BC   350BC  ----        https://en.wikipedia.org/wiki/Alphabets_of_Anatolia
-  LYDI  Lydian                    ANAA  Alphabet           700BC   200BC  lydi 116    https://en.wikipedia.org/wiki/Lydian_alphabet
-  CARI  Carian                    GREK  Alphabet           700BC   200BC  cari 201    https://en.wikipedia.org/wiki/Carian_alphabets
-  LYCI  Lycian                    GREK  Alphabet           500BC   330BC  lyci 202    https://en.wikipedia.org/wiki/Lycian_alphabet
-  SIDE  Sidetic                   GREK  Alphabet           450BC   200BC  ----        https://en.wikipedia.org/wiki/Sidetic_language#The_Sidetic_script
-  PHRY  Phrygian alphabet         GREK  Alphabet           750BC   350BC  ----        https://en.wikipedia.org/wiki/Phrygian_alphabet
+  LYDI  Lydian                    ANAA  Alphabet           700BC   200BC  lydi 116    https://en.wikipedia.org/wiki/Lydian_alphabet                   &#x10939-10920;
+  CARI  Carian                    GREK  Alphabet           700BC   200BC  cari 201    https://en.wikipedia.org/wiki/Carian_alphabets                  &#x102a0-102d0;
+  LYCI  Lycian                    GREK  Alphabet           500BC   330BC  lyci 202    https://en.wikipedia.org/wiki/Lycian_alphabet                   &#x10280-1029c;
+  SIDE  Sidetic                   GREK  Alphabet           450BC   200BC  ----        https://en.wikipedia.org/wiki/Sidetic_language#The_Sidetic_script img:side.svg
+  PHRY  Phrygian alphabet         GREK  Alphabet           750BC   350BC  ----        https://en.wikipedia.org/wiki/Phrygian_alphabet                 &#x10939-10920;
   RUNR  Runic                     ITAL  Alphabet            50AD  1100AD  runr 211    https://en.wikipedia.org/wiki/Runes                             &#x16a0-16ea;
-  ELDF  Elder Futhark             ITAL  Alphabet            50AD   750AD  ----        https://en.wikipedia.org/wiki/Elder_Futhark
+  ELDF  Elder Futhark             ITAL  Alphabet            50AD   750AD  ----        https://en.wikipedia.org/wiki/Elder_Futhark                     &#x16a0; &#x16a2; &#x16a6; &#x16a8; &#x16b1; &#x16b2; &#x16b7; &#x16b9; &#x16ba; &#x16be; &#x16c1; &#x16c3; &#x16c8; &#x16c7; &#x16c9; &#x16ca; &#x16cf; &#x16d2; &#x16d6; &#x16d7; &#x16da; &#x16dc; &#x16de; &#x16df;
   YNGF  Younger Futhark           ELDF  Alphabet           750AD  1150AD  runr 211    https://en.wikipedia.org/wiki/Younger_Futhark
   ANGS  Anglo-Saxon runes         ELDF  Alphabet           450AD  1050AD  ----        https://en.wikipedia.org/wiki/Anglo-Saxon_runes
-  MEDR  Medieval runes            YNGF  Alphabet          1150AD  1650AD  ----        https://en.wikipedia.org/wiki/Medieval_runes
-  DALE  Dalecarlian runes         MEDR  Alphabet          1550AD  1950AD  ----        https://en.wikipedia.org/wiki/Dalecarlian_runes
+  MEDR  Medieval runes            YNGF  Alphabet          1150AD  1650AD  ----        https://en.wikipedia.org/wiki/Medieval_runes                    img:medr.svg
+  DALE  Dalecarlian runes         MEDR  Alphabet          1550AD  1950AD  ----        https://en.wikipedia.org/wiki/Dalecarlian_runes                 img:dale.svg
   LISU  Fraser script             LATN  Alphabet          1915AD  present lisu 399    https://en.wikipedia.org/wiki/Fraser_script                     &#xa4d0-a4f7;
   OSGE  Osage script              LATN  Alphabet          2006AD  present osge 399    https://en.wikipedia.org/wiki/Osage_script                      &#x104b0-10fd3;
   DSRT  Deseret alphabet          LATN  Alphabet          1854AD  1869AD  dsrt 250    https://en.wikipedia.org/wiki/Deseret_alphabet                  &#x10400-10427;

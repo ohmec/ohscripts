@@ -60,7 +60,7 @@ while(<>)
 # next go through each of their children, and place them below based upon their
 # start date
 
-my $lasty = -1;
+my $lasty = 4;
 my $firstdate;
 foreach my $id (sort { &year($info{$a}{"from"},$a) <=> &year($info{$b}{"from"},$b) } @parentless)
   {
@@ -71,10 +71,10 @@ foreach my $id (sort { &year($info{$a}{"from"},$a) <=> &year($info{$b}{"from"},$
 my $finaly = $lasty;
 my $XOFFSET = $firstdate;
 my $HEIGHT = $finaly*$EACHY+80;
-my $WIDTH = $todayy-$XOFFSET+400;
+my $WIDTH = $todayy-$XOFFSET+800;
 
 &print_svg_header($WIDTH,$HEIGHT);
-foreach my $y (0..$lasty)
+foreach my $y (5..$lasty)
   {
   &print_parent_connection($placed{$y});
   &print_svg_object($placed{$y});
@@ -162,11 +162,18 @@ sub print_svg_header
     </style>
   </defs>
 |;
+  print qq|  <text class="langtext" transform="translate(5, 30) scale(2.0)">Human Language Script Evolution</text>\n|;
+  print qq|  <text class="langtext" transform="translate(5, 60) scale(1.2)">The chart below is a generated representation of sorts of the family tree of human language scripts, beginning with Proto Cuneiform</text>\n|;
+  print qq|  <text class="langtext" transform="translate(5, 80) scale(1.2)">in approximately 3400BC, and continuing through *all scripts in history. The information is gleaned from Wikipedia pages of the scripts.</text>\n|;
+  print qq|  <text class="langtext" transform="translate(5,100) scale(1.2)">(* It is still a work in progress.) Each script shown gives its genealogy: ancestors and children. Its placement on the horizontal access</text>\n|;
+  print qq|  <text class="langtext" transform="translate(5,120) scale(1.2)">indicates its approximate beginning of use, and the width indicates its duration. The colors of the bars indicates the type of script,</text>\n|;
+  print qq|  <text class="langtext" transform="translate(5,140) scale(1.2)">including cyan for syllabary, yellow for logography, green for abjad or abugida, and lavender for alphabet. You can click on the bar of any</text>\n|;
+  print qq|  <text class="langtext" transform="translate(5,160) scale(1.2)">script to go to the representative wikipedia page.</text>\n|;
   for(my $year=$firstdate;$year<=$todayy;$year+=100)
     {
     my $str = ($year >= 0) ? $year."AD" : (-$year)."BC";
     my $x = $year - $XOFFSET + 25;
-    my $y = 15;
+    my $y = 190;
     print qq|  <text class="langtext" transform="translate($x,$y) scale(1.0)">$str</text>\n|;
     }
   }
@@ -262,7 +269,7 @@ sub print_svg_object
   my $y5 = $y+16;
   my $url = $info{$id}{"url"};
   print qq|  <!-- $id -->\n|;
-  print qq|  <a href="$url"><rect class="$recttype" x="$x" y="$y" width="$w" height="$h" rx="$rx"/></a>\n|;
+  print qq|  <a href="$url" target="_blank"><rect class="$recttype" x="$x" y="$y" width="$w" height="$h" rx="$rx"/></a>\n|;
   print qq|  <text class="langtextb" transform="translate($x10,$y5) scale(1.0)"|;
   if(defined $example)
     {
