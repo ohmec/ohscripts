@@ -60,7 +60,7 @@ while(<>)
 # next go through each of their children, and place them below based upon their
 # start date
 
-my $lasty = 4;
+my $lasty = 5;
 my $firstdate;
 foreach my $id (sort { &year($info{$a}{"from"},$a) <=> &year($info{$b}{"from"},$b) } @parentless)
   {
@@ -74,7 +74,7 @@ my $HEIGHT = $finaly*$EACHY+80;
 my $WIDTH = $todayy-$XOFFSET+800;
 
 &print_svg_header($WIDTH,$HEIGHT);
-foreach my $y (5..$lasty)
+foreach my $y (6..$lasty)
   {
   &print_parent_connection($placed{$y});
   &print_svg_object($placed{$y});
@@ -161,19 +161,33 @@ sub print_svg_header
       }
     </style>
   </defs>
-|;
-  print qq|  <text class="langtext" transform="translate(5, 30) scale(2.0)">Human Language Script Evolution</text>\n|;
-  print qq|  <text class="langtext" transform="translate(5, 60) scale(1.2)">The chart below is a generated representation of sorts of the family tree of human language scripts, beginning with Proto Cuneiform</text>\n|;
-  print qq|  <text class="langtext" transform="translate(5, 80) scale(1.2)">in approximately 3400BC, and continuing through *all scripts in history. The information is gleaned from Wikipedia pages of the scripts.</text>\n|;
-  print qq|  <text class="langtext" transform="translate(5,100) scale(1.2)">(* It is still a work in progress.) Each script shown gives its genealogy: ancestors and children. Its placement on the horizontal access</text>\n|;
-  print qq|  <text class="langtext" transform="translate(5,120) scale(1.2)">indicates its approximate beginning of use, and the width indicates its duration. The colors of the bars indicates the type of script,</text>\n|;
-  print qq|  <text class="langtext" transform="translate(5,140) scale(1.2)">including cyan for syllabary, yellow for logography, green for abjad or abugida, and lavender for alphabet. You can click on the bar of any</text>\n|;
-  print qq|  <text class="langtext" transform="translate(5,160) scale(1.2)">script to go to the representative wikipedia page.</text>\n|;
+  <text class="langtext" transform="translate(5, 30) scale(2.0)">Human Language Script Evolution</text>
+  <text class="langtext" transform="translate(5, 60) scale(1.2)">The chart below is a generated representation of sorts of the family tree of human language scripts, beginning with Proto Cuneiform</text>
+  <text class="langtext" transform="translate(5, 80) scale(1.2)">in approximately 3400BC, and continuing through *all scripts in history. The information is gleaned from Wikipedia pages of the scripts.</text>
+  <text class="langtext" transform="translate(5,100) scale(1.2)">(* It is still a work in progress.) Each script shown gives its genealogy: ancestors and children. Its placement on the horizontal axis</text>
+  <text class="langtext" transform="translate(5,120) scale(1.2)">indicates its approximate beginning of use, and the width indicates its duration. The colors of the bars indicates the type of script.</text>
+  <text class="langtext" transform="translate(5,140) scale(1.2)">You can click on the bar of any script to go to the representative wikipedia page.</text>
+  <a href="https://en.wikipedia.org/wiki/pictogram#historical" target="_blank"><rect class="rectpict" x="5"    y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/logography"           target="_blank"><rect class="rectlogo" x="180"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/logoconsonantal"      target="_blank"><rect class="rectlogc" x="355"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/syllabary"            target="_blank"><rect class="rectsyll" x="530"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/semi-syllabary"       target="_blank"><rect class="rectsmsy" x="705"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/abjad"                target="_blank"><rect class="rectabjd" x="880"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/abugida"              target="_blank"><rect class="rectabug" x="1055" y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/alphabet"             target="_blank"><rect class="rectalph" x="1230" y="165" width="150" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(15,185)   scale(1.2)">Pictograph</text>
+  <text class="langtextb" transform="translate(190,185)  scale(1.2)">Logography</text>
+  <text class="langtextb" transform="translate(365,185)  scale(1.2)">Logoconsonantal</text>
+  <text class="langtextb" transform="translate(540,185)  scale(1.2)">Syllabary</text>
+  <text class="langtextb" transform="translate(715,185)  scale(1.2)">Semi-syllabary</text>
+  <text class="langtextb" transform="translate(890,185)  scale(1.2)">Abjad</text>
+  <text class="langtextb" transform="translate(1065,185) scale(1.2)">Abugida</text>
+  <text class="langtextb" transform="translate(1240,185) scale(1.2)">Alphabet</text>\n|;
   for(my $year=$firstdate;$year<=$todayy;$year+=100)
     {
     my $str = ($year >= 0) ? $year."AD" : (-$year)."BC";
     my $x = $year - $XOFFSET + 25;
-    my $y = 190;
+    my $y = 230;
     print qq|  <text class="langtext" transform="translate($x,$y) scale(1.0)">$str</text>\n|;
     }
   }
@@ -183,7 +197,7 @@ sub recttype
   my($type) = @_;
   return "rectlogo" if $type eq "Logography";
   return "rectlogo" if $type eq "Logographic";
-  return "rectlogo" if $type eq "Pictograph";
+  return "rectpict" if $type eq "Pictograph";
   return "rectabjd" if $type eq "Abjad";
   return "rectabug" if $type eq "Abugida";
   return "rectalph" if $type eq "Alphabet";
