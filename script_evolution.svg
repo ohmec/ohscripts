@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color:white" width="6225" height="6064">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color:white" width="6225" height="6098">
   <defs>
     <style>
       rect {
@@ -47,1098 +47,1113 @@
   <text class="langtext" transform="translate(5, 60) scale(1.2)">The chart below is a generated representation of sorts of the family tree of human language scripts, beginning with Proto Cuneiform</text>
   <text class="langtext" transform="translate(5, 80) scale(1.2)">in approximately 3400BC, and continuing through *all scripts in history. The information is gleaned from Wikipedia pages of the scripts.</text>
   <text class="langtext" transform="translate(5,100) scale(1.2)">(* It is still a work in progress.) Each script shown gives its genealogy: ancestors and children. Its placement on the horizontal access</text>
-  <text class="langtext" transform="translate(5,120) scale(1.2)">indicates its approximate beginning of use, and the width indicates its duration. The colors of the bars indicates the type of script,</text>
-  <text class="langtext" transform="translate(5,140) scale(1.2)">including cyan for syllabary, yellow for logography, green for abjad or abugida, and lavender for alphabet. You can click on the bar of any</text>
-  <text class="langtext" transform="translate(5,160) scale(1.2)">script to go to the representative wikipedia page.</text>
-  <text class="langtext" transform="translate(25,190) scale(1.0)">3400BC</text>
-  <text class="langtext" transform="translate(125,190) scale(1.0)">3300BC</text>
-  <text class="langtext" transform="translate(225,190) scale(1.0)">3200BC</text>
-  <text class="langtext" transform="translate(325,190) scale(1.0)">3100BC</text>
-  <text class="langtext" transform="translate(425,190) scale(1.0)">3000BC</text>
-  <text class="langtext" transform="translate(525,190) scale(1.0)">2900BC</text>
-  <text class="langtext" transform="translate(625,190) scale(1.0)">2800BC</text>
-  <text class="langtext" transform="translate(725,190) scale(1.0)">2700BC</text>
-  <text class="langtext" transform="translate(825,190) scale(1.0)">2600BC</text>
-  <text class="langtext" transform="translate(925,190) scale(1.0)">2500BC</text>
-  <text class="langtext" transform="translate(1025,190) scale(1.0)">2400BC</text>
-  <text class="langtext" transform="translate(1125,190) scale(1.0)">2300BC</text>
-  <text class="langtext" transform="translate(1225,190) scale(1.0)">2200BC</text>
-  <text class="langtext" transform="translate(1325,190) scale(1.0)">2100BC</text>
-  <text class="langtext" transform="translate(1425,190) scale(1.0)">2000BC</text>
-  <text class="langtext" transform="translate(1525,190) scale(1.0)">1900BC</text>
-  <text class="langtext" transform="translate(1625,190) scale(1.0)">1800BC</text>
-  <text class="langtext" transform="translate(1725,190) scale(1.0)">1700BC</text>
-  <text class="langtext" transform="translate(1825,190) scale(1.0)">1600BC</text>
-  <text class="langtext" transform="translate(1925,190) scale(1.0)">1500BC</text>
-  <text class="langtext" transform="translate(2025,190) scale(1.0)">1400BC</text>
-  <text class="langtext" transform="translate(2125,190) scale(1.0)">1300BC</text>
-  <text class="langtext" transform="translate(2225,190) scale(1.0)">1200BC</text>
-  <text class="langtext" transform="translate(2325,190) scale(1.0)">1100BC</text>
-  <text class="langtext" transform="translate(2425,190) scale(1.0)">1000BC</text>
-  <text class="langtext" transform="translate(2525,190) scale(1.0)">900BC</text>
-  <text class="langtext" transform="translate(2625,190) scale(1.0)">800BC</text>
-  <text class="langtext" transform="translate(2725,190) scale(1.0)">700BC</text>
-  <text class="langtext" transform="translate(2825,190) scale(1.0)">600BC</text>
-  <text class="langtext" transform="translate(2925,190) scale(1.0)">500BC</text>
-  <text class="langtext" transform="translate(3025,190) scale(1.0)">400BC</text>
-  <text class="langtext" transform="translate(3125,190) scale(1.0)">300BC</text>
-  <text class="langtext" transform="translate(3225,190) scale(1.0)">200BC</text>
-  <text class="langtext" transform="translate(3325,190) scale(1.0)">100BC</text>
-  <text class="langtext" transform="translate(3425,190) scale(1.0)">0AD</text>
-  <text class="langtext" transform="translate(3525,190) scale(1.0)">100AD</text>
-  <text class="langtext" transform="translate(3625,190) scale(1.0)">200AD</text>
-  <text class="langtext" transform="translate(3725,190) scale(1.0)">300AD</text>
-  <text class="langtext" transform="translate(3825,190) scale(1.0)">400AD</text>
-  <text class="langtext" transform="translate(3925,190) scale(1.0)">500AD</text>
-  <text class="langtext" transform="translate(4025,190) scale(1.0)">600AD</text>
-  <text class="langtext" transform="translate(4125,190) scale(1.0)">700AD</text>
-  <text class="langtext" transform="translate(4225,190) scale(1.0)">800AD</text>
-  <text class="langtext" transform="translate(4325,190) scale(1.0)">900AD</text>
-  <text class="langtext" transform="translate(4425,190) scale(1.0)">1000AD</text>
-  <text class="langtext" transform="translate(4525,190) scale(1.0)">1100AD</text>
-  <text class="langtext" transform="translate(4625,190) scale(1.0)">1200AD</text>
-  <text class="langtext" transform="translate(4725,190) scale(1.0)">1300AD</text>
-  <text class="langtext" transform="translate(4825,190) scale(1.0)">1400AD</text>
-  <text class="langtext" transform="translate(4925,190) scale(1.0)">1500AD</text>
-  <text class="langtext" transform="translate(5025,190) scale(1.0)">1600AD</text>
-  <text class="langtext" transform="translate(5125,190) scale(1.0)">1700AD</text>
-  <text class="langtext" transform="translate(5225,190) scale(1.0)">1800AD</text>
-  <text class="langtext" transform="translate(5325,190) scale(1.0)">1900AD</text>
-  <text class="langtext" transform="translate(5425,190) scale(1.0)">2000AD</text>
-  <line class="linec" x1="25" y1="220.5" x2="15" y2="220.5" />
-  <circle class="circc" cx="13" cy="220.5" r="4" />
+  <text class="langtext" transform="translate(5,120) scale(1.2)">indicates its approximate beginning of use, and the width indicates its duration. The colors of the bars indicates the type of script.</text>
+  <text class="langtext" transform="translate(5,140) scale(1.2)">You can click on the bar of any script to go to the representative wikipedia page.</text>
+  <a href="https://en.wikipedia.org/wiki/pictogram#historical" target="_blank"><rect class="rectpict" x="5"    y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/logography"           target="_blank"><rect class="rectlogo" x="180"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/logoconsonantal"      target="_blank"><rect class="rectlogc" x="355"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/syllabary"            target="_blank"><rect class="rectsyll" x="530"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/semi-syllabary"       target="_blank"><rect class="rectsmsy" x="705"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/abjad"                target="_blank"><rect class="rectabjd" x="880"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/abugida"              target="_blank"><rect class="rectabug" x="1055" y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/alphabet"             target="_blank"><rect class="rectalph" x="1230" y="165" width="150" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(15,185)   scale(1.2)">Pictograph</text>
+  <text class="langtextb" transform="translate(190,185)  scale(1.2)">Logography</text>
+  <text class="langtextb" transform="translate(365,185)  scale(1.2)">Logoconsonantal</text>
+  <text class="langtextb" transform="translate(540,185)  scale(1.2)">Syllabary</text>
+  <text class="langtextb" transform="translate(715,185)  scale(1.2)">Semi-syllabary</text>
+  <text class="langtextb" transform="translate(890,185)  scale(1.2)">Abjad</text>
+  <text class="langtextb" transform="translate(1065,185) scale(1.2)">Abugida</text>
+  <text class="langtextb" transform="translate(1240,185) scale(1.2)">Alphabet</text>
+  <text class="langtext" transform="translate(25,230) scale(1.0)">3400BC</text>
+  <text class="langtext" transform="translate(125,230) scale(1.0)">3300BC</text>
+  <text class="langtext" transform="translate(225,230) scale(1.0)">3200BC</text>
+  <text class="langtext" transform="translate(325,230) scale(1.0)">3100BC</text>
+  <text class="langtext" transform="translate(425,230) scale(1.0)">3000BC</text>
+  <text class="langtext" transform="translate(525,230) scale(1.0)">2900BC</text>
+  <text class="langtext" transform="translate(625,230) scale(1.0)">2800BC</text>
+  <text class="langtext" transform="translate(725,230) scale(1.0)">2700BC</text>
+  <text class="langtext" transform="translate(825,230) scale(1.0)">2600BC</text>
+  <text class="langtext" transform="translate(925,230) scale(1.0)">2500BC</text>
+  <text class="langtext" transform="translate(1025,230) scale(1.0)">2400BC</text>
+  <text class="langtext" transform="translate(1125,230) scale(1.0)">2300BC</text>
+  <text class="langtext" transform="translate(1225,230) scale(1.0)">2200BC</text>
+  <text class="langtext" transform="translate(1325,230) scale(1.0)">2100BC</text>
+  <text class="langtext" transform="translate(1425,230) scale(1.0)">2000BC</text>
+  <text class="langtext" transform="translate(1525,230) scale(1.0)">1900BC</text>
+  <text class="langtext" transform="translate(1625,230) scale(1.0)">1800BC</text>
+  <text class="langtext" transform="translate(1725,230) scale(1.0)">1700BC</text>
+  <text class="langtext" transform="translate(1825,230) scale(1.0)">1600BC</text>
+  <text class="langtext" transform="translate(1925,230) scale(1.0)">1500BC</text>
+  <text class="langtext" transform="translate(2025,230) scale(1.0)">1400BC</text>
+  <text class="langtext" transform="translate(2125,230) scale(1.0)">1300BC</text>
+  <text class="langtext" transform="translate(2225,230) scale(1.0)">1200BC</text>
+  <text class="langtext" transform="translate(2325,230) scale(1.0)">1100BC</text>
+  <text class="langtext" transform="translate(2425,230) scale(1.0)">1000BC</text>
+  <text class="langtext" transform="translate(2525,230) scale(1.0)">900BC</text>
+  <text class="langtext" transform="translate(2625,230) scale(1.0)">800BC</text>
+  <text class="langtext" transform="translate(2725,230) scale(1.0)">700BC</text>
+  <text class="langtext" transform="translate(2825,230) scale(1.0)">600BC</text>
+  <text class="langtext" transform="translate(2925,230) scale(1.0)">500BC</text>
+  <text class="langtext" transform="translate(3025,230) scale(1.0)">400BC</text>
+  <text class="langtext" transform="translate(3125,230) scale(1.0)">300BC</text>
+  <text class="langtext" transform="translate(3225,230) scale(1.0)">200BC</text>
+  <text class="langtext" transform="translate(3325,230) scale(1.0)">100BC</text>
+  <text class="langtext" transform="translate(3425,230) scale(1.0)">0AD</text>
+  <text class="langtext" transform="translate(3525,230) scale(1.0)">100AD</text>
+  <text class="langtext" transform="translate(3625,230) scale(1.0)">200AD</text>
+  <text class="langtext" transform="translate(3725,230) scale(1.0)">300AD</text>
+  <text class="langtext" transform="translate(3825,230) scale(1.0)">400AD</text>
+  <text class="langtext" transform="translate(3925,230) scale(1.0)">500AD</text>
+  <text class="langtext" transform="translate(4025,230) scale(1.0)">600AD</text>
+  <text class="langtext" transform="translate(4125,230) scale(1.0)">700AD</text>
+  <text class="langtext" transform="translate(4225,230) scale(1.0)">800AD</text>
+  <text class="langtext" transform="translate(4325,230) scale(1.0)">900AD</text>
+  <text class="langtext" transform="translate(4425,230) scale(1.0)">1000AD</text>
+  <text class="langtext" transform="translate(4525,230) scale(1.0)">1100AD</text>
+  <text class="langtext" transform="translate(4625,230) scale(1.0)">1200AD</text>
+  <text class="langtext" transform="translate(4725,230) scale(1.0)">1300AD</text>
+  <text class="langtext" transform="translate(4825,230) scale(1.0)">1400AD</text>
+  <text class="langtext" transform="translate(4925,230) scale(1.0)">1500AD</text>
+  <text class="langtext" transform="translate(5025,230) scale(1.0)">1600AD</text>
+  <text class="langtext" transform="translate(5125,230) scale(1.0)">1700AD</text>
+  <text class="langtext" transform="translate(5225,230) scale(1.0)">1800AD</text>
+  <text class="langtext" transform="translate(5325,230) scale(1.0)">1900AD</text>
+  <text class="langtext" transform="translate(5425,230) scale(1.0)">2000AD</text>
+  <line class="linec" x1="25" y1="254.5" x2="15" y2="254.5" />
+  <circle class="circc" cx="13" cy="254.5" r="4" />
   <!-- PCUN -->
-  <a href="https://en.wikipedia.org/wiki/Proto-Cuneiform" target="_blank"><rect class="rectsyll" x="25" y="206" width="500" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(35,222) scale(1.0)">PCUN Proto Cuneiform
+  <a href="https://en.wikipedia.org/wiki/Proto-Cuneiform" target="_blank"><rect class="rectsyll" x="25" y="240" width="500" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(35,256) scale(1.0)">PCUN Proto Cuneiform
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 32,235 V 246.5 C 32,254.5 32,254.5 40,254.5 H 75" />
+  <path class="linec" d="M 32,269 V 280.5 C 32,288.5 32,288.5 40,288.5 H 75" />
   <!-- XSUX -->
-  <a href="https://en.wikipedia.org/wiki/Cuneiform" target="_blank"><rect class="rectsyll" x="75" y="240" width="3500" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(85,256) scale(1.0)">XSUX Cuneiform
+  <a href="https://en.wikipedia.org/wiki/Cuneiform" target="_blank"><rect class="rectsyll" x="75" y="274" width="3500" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(85,290) scale(1.0)">XSUX Cuneiform
     <tspan>eg. &#x12038; &#x12079; &#x12226; &#x1230b; &#x1235d; &#x1203d; &#x12016; &#x12000; &#x12001; &#x12002; &#x12003; &#x12004; &#x12005; &#x12006; &#x12007; &#x12008; &#x12009; &#x1200a; &#x1200b; &#x1200c; &#x1200d; &#x1200e; &#x1200f;</tspan>
   </text>
-  <path class="linec" d="M 82,269 V 280.5 C 82,288.5 82,288.5 90,288.5 H 2025" />
+  <path class="linec" d="M 82,303 V 314.5 C 82,322.5 82,322.5 90,322.5 H 2025" />
   <!-- UGAR -->
-  <a href="https://en.wikipedia.org/wiki/Ugaritic_alphabet" target="_blank"><rect class="rectabjd" x="2025" y="274" width="210" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2035,290) scale(1.0)">UGAR Ugaritic alphabet
+  <a href="https://en.wikipedia.org/wiki/Ugaritic_alphabet" target="_blank"><rect class="rectabjd" x="2025" y="308" width="210" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2035,324) scale(1.0)">UGAR Ugaritic alphabet
     <tspan>&#x10380;&#x10381;&#x10382;&#x10383;&#x10384;&#x10385;&#x10386;&#x10387;&#x10388;&#x10389;&#x1038a;&#x1038b;&#x1038c;&#x1038d;&#x1038e;&#x1038f;&#x10390;&#x10391;&#x10392;&#x10393;&#x10394;&#x10395;&#x10396;&#x10397;&#x10398;&#x10399;&#x1039a;&#x1039b;&#x1039c;&#x1039d;</tspan>
   </text>
-  <path class="linec" d="M 32,235 V 314.5 C 32,322.5 32,322.5 40,322.5 H 325" />
+  <path class="linec" d="M 32,269 V 348.5 C 32,356.5 32,356.5 40,356.5 H 325" />
   <!-- PREL -->
-  <a href="https://en.wikipedia.org/wiki/Proto-Elamite_script" target="_blank"><rect class="rectunkn" x="325" y="308" width="1100" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(335,324) scale(1.0)">PREL Proto Elamite
+  <a href="https://en.wikipedia.org/wiki/Proto-Elamite_script" target="_blank"><rect class="rectunkn" x="325" y="342" width="1100" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(335,358) scale(1.0)">PREL Proto Elamite
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 332,337 V 348.5 C 332,356.5 332,356.5 340,356.5 H 1125" />
+  <path class="linec" d="M 332,371 V 382.5 C 332,390.5 332,390.5 340,390.5 H 1125" />
   <!-- LINE -->
-  <a href="https://en.wikipedia.org/wiki/Linear_Elamite" target="_blank"><rect class="rectsmsy" x="1125" y="342" width="450" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(1135,358) scale(1.0)" textLength="162px">LINE Linear Elamite</text>
-  <image x="1302" y="344" height="17" href="line.svg" />
-  <line class="linec" x1="225" y1="390.5" x2="215" y2="390.5" />
-  <circle class="circc" cx="213" cy="390.5" r="4" />
+  <a href="https://en.wikipedia.org/wiki/Linear_Elamite" target="_blank"><rect class="rectsmsy" x="1125" y="376" width="450" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(1135,392) scale(1.0)" textLength="162px">LINE Linear Elamite</text>
+  <image x="1302" y="378" height="17" href="line.svg" />
+  <line class="linec" x1="225" y1="424.5" x2="215" y2="424.5" />
+  <circle class="circc" cx="213" cy="424.5" r="4" />
   <!-- EGYP -->
-  <a href="https://en.wikipedia.org/wiki/Egyptian_hieroglyphs" target="_blank"><rect class="rectlogo" x="225" y="376" width="3600" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(235,392) scale(1.0)">EGYP Egyptian Hieroglyphics
+  <a href="https://en.wikipedia.org/wiki/Egyptian_hieroglyphs" target="_blank"><rect class="rectlogo" x="225" y="410" width="3600" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(235,426) scale(1.0)">EGYP Egyptian Hieroglyphics
     <tspan>eg. &#x1302d; &#x130d3; &#x1307b; &#x1309b; &#x13100; &#x131ad; &#x1312c; &#x1315c; &#x131cd; &#x131f3; &#x13201; &#x13254; &#x132f9; &#x13331; &#x132ad; &#x13390; &#x13362;</tspan>
   </text>
-  <path class="linec" d="M 232,405 V 416.5 C 232,424.5 232,424.5 240,424.5 H 425" />
+  <path class="linec" d="M 232,439 V 450.5 C 232,458.5 232,458.5 240,458.5 H 425" />
   <!-- EGYH -->
-  <a href="https://en.wikipedia.org/wiki/Hieratic" target="_blank"><rect class="rectlogc" x="425" y="410" width="3250" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(435,426) scale(1.0)">EGYH Hieratic (Egyptian)
+  <a href="https://en.wikipedia.org/wiki/Hieratic" target="_blank"><rect class="rectlogc" x="425" y="444" width="3250" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(435,460) scale(1.0)">EGYH Hieratic (Egyptian)
     <tspan>&#x1313f; &#x131cb; &#x133ed; &#x131cc; &#x1339a; &#x13171; &#x130c0; &#x132aa; &#x13191; &#x13153; &#x13216; &#x1308b; &#x13254; &#x1339b; &#x1340d; &#x13121; &#x13283; &#x132f4; &#x13219; &#x1320e; &#x133a1; &#x133bc; &#x133cf; &#x1337f; &#x130a7; &#x13193;</tspan>
   </text>
-  <path class="linec" d="M 432,439 V 450.5 C 432,458.5 432,458.5 440,458.5 H 1625" />
+  <path class="linec" d="M 432,473 V 484.5 C 432,492.5 432,492.5 440,492.5 H 1625" />
   <!-- BYBS -->
-  <a href="https://en.wikipedia.org/wiki/Byblos_syllabary" target="_blank"><rect class="rectunkn" x="1625" y="444" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(1635,460) scale(1.0)">BYBS Byblos syllabery
+  <a href="https://en.wikipedia.org/wiki/Byblos_syllabary" target="_blank"><rect class="rectunkn" x="1625" y="478" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(1635,494) scale(1.0)">BYBS Byblos syllabery
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 432,439 V 484.5 C 432,492.5 432,492.5 440,492.5 H 2775" />
+  <path class="linec" d="M 432,473 V 518.5 C 432,526.5 432,526.5 440,526.5 H 2775" />
   <!-- EGYD -->
-  <a href="https://en.wikipedia.org/wiki/Demotic_(Egyptian)" target="_blank"><rect class="rectlogo" x="2775" y="478" width="1100" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2785,494) scale(1.0)">EGYD Demotic (Egyptian)
+  <a href="https://en.wikipedia.org/wiki/Demotic_(Egyptian)" target="_blank"><rect class="rectlogo" x="2775" y="512" width="1100" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2785,528) scale(1.0)">EGYD Demotic (Egyptian)
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2782,507 V 518.5 C 2782,526.5 2782,526.5 2790,526.5 H 3125" />
+  <path class="linec" d="M 2782,541 V 552.5 C 2782,560.5 2782,560.5 2790,560.5 H 3125" />
   <!-- MERO -->
-  <a href="https://en.wikipedia.org/wiki/Meroitic_script" target="_blank"><rect class="rectabug" x="3125" y="512" width="900" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3135,528) scale(1.0)">MERO Meroitic Hieroglyphs
+  <a href="https://en.wikipedia.org/wiki/Meroitic_script" target="_blank"><rect class="rectabug" x="3125" y="546" width="900" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3135,562) scale(1.0)">MERO Meroitic Hieroglyphs
     <tspan>&#x10980; &#x10981; &#x10982; &#x10983; &#x10984; &#x10985; &#x10986; &#x10987; &#x10988; &#x10989; &#x1098a; &#x1098b; &#x1098c; &#x1098d; &#x1098e; &#x1098f; &#x10990; &#x10991; &#x10992; &#x10993; &#x10994; &#x10995; &#x10996; &#x10997; &#x10998; &#x10999; &#x1099a; &#x1099b; &#x1099c; &#x1099d; &#x1099e; &#x1099f;</tspan>
   </text>
-  <path class="linec" d="M 2782,507 V 552.5 C 2782,560.5 2782,560.5 2790,560.5 H 3125" />
+  <path class="linec" d="M 2782,541 V 586.5 C 2782,594.5 2782,594.5 2790,594.5 H 3125" />
   <!-- MERC -->
-  <a href="https://en.wikipedia.org/wiki/Meroitic_script" target="_blank"><rect class="rectabug" x="3125" y="546" width="900" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3135,562) scale(1.0)">MERC Meroitic Cursive
+  <a href="https://en.wikipedia.org/wiki/Meroitic_script" target="_blank"><rect class="rectabug" x="3125" y="580" width="900" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3135,596) scale(1.0)">MERC Meroitic Cursive
     <tspan>&#x109a0; &#x109a1; &#x109a2; &#x109a3; &#x109a4; &#x109a5; &#x109a6; &#x109a7; &#x109a8; &#x109a9; &#x109aa; &#x109ab; &#x109ac; &#x109ad; &#x109ae; &#x109af; &#x109b0; &#x109b1; &#x109b2; &#x109b3; &#x109b4; &#x109b5; &#x109b6; &#x109b7;</tspan>
   </text>
-  <path class="linec" d="M 2782,507 V 586.5 C 2782,594.5 2782,594.5 2790,594.5 H 3575" />
+  <path class="linec" d="M 2782,541 V 620.5 C 2782,628.5 2782,628.5 2790,628.5 H 3575" />
   <!-- COPT -->
-  <a href="https://en.wikipedia.org/wiki/Coptic_script" target="_blank"><rect class="rectalph" x="3575" y="580" width="1875" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3585,596) scale(1.0)">COPT Coptic
+  <a href="https://en.wikipedia.org/wiki/Coptic_script" target="_blank"><rect class="rectalph" x="3575" y="614" width="1875" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3585,630) scale(1.0)">COPT Coptic
     <tspan>&#x2c80;&#x2c82;&#x2c84;&#x2c86;&#x2c88;&#x2c8a;&#x2c8c;&#x2c8e;&#x2c90;&#x2c92;&#x2c94;&#x2c96;&#x2c98;&#x2c9a;&#x2c9c;&#x2c9e;&#x2ca0;&#x2ca2;&#x2ca4;&#x2ca6;&#x2ca8;&#x2caa;&#x2cac;&#x2cae;&#x2cb0; &#x2c81;&#x2c83;&#x2c85;&#x2c87;&#x2c89;&#x2c8b;&#x2c8d;&#x2c8f;&#x2c91;&#x2c93;&#x2c95;&#x2c97;&#x2c99;&#x2c9b;&#x2c9d;&#x2c9f;&#x2ca1;&#x2ca3;&#x2ca5;&#x2ca7;&#x2ca9;&#x2cab;&#x2cad;&#x2caf;&#x2cb1;</tspan>
   </text>
-  <path class="linec" d="M 3582,609 V 620.5 C 3582,628.5 3582,628.5 3590,628.5 H 3975" />
+  <path class="linec" d="M 3582,643 V 654.5 C 3582,662.5 3582,662.5 3590,662.5 H 3975" />
   <!-- ONUB -->
-  <a href="https://en.wikipedia.org/wiki/Old_Nubian#Writing" target="_blank"><rect class="rectalph" x="3975" y="614" width="900" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3985,630) scale(1.0)">ONUB Old Nubian
+  <a href="https://en.wikipedia.org/wiki/Old_Nubian#Writing" target="_blank"><rect class="rectalph" x="3975" y="648" width="900" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3985,664) scale(1.0)">ONUB Old Nubian
     <tspan>&#x2c81;&#x2c83;&#x2c85;&#x2c87;&#x2c89;&#x2c8b;&#x2c8d;&#x2c8f;&#x2c91;&#x2c93;&#x2c95;&#x2c97;&#x2c99;&#x2c9b;&#x308;&#x2c9f;&#x2ca1;&#x2ca3;&#x2ca5;&#x2ca7;&#x2ca9;&#x2cab;&#x2cad;&#x2caf;&#x2cb1;&#x3e9;&#x2ced;&#x2cef;&#x2ce1;&#x2ce3;</tspan>
   </text>
-  <path class="linec" d="M 232,405 V 654.5 C 232,662.5 232,662.5 240,662.5 H 1525" />
+  <path class="linec" d="M 232,439 V 688.5 C 232,696.5 232,696.5 240,696.5 H 1525" />
   <!-- PSIN -->
-  <a href="https://en.wikipedia.org/wiki/Proto-Sinaitic_script" target="_blank"><rect class="rectabjd" x="1525" y="648" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(1535,664) scale(1.0)" textLength="146px">PSIN Proto Sinaic</text>
-  <image x="1686" y="650" height="17" href="psin.svg" />
-  <path class="linec" d="M 1532,677 V 688.5 C 1532,696.5 1532,696.5 1540,696.5 H 1925" />
+  <a href="https://en.wikipedia.org/wiki/Proto-Sinaitic_script" target="_blank"><rect class="rectabjd" x="1525" y="682" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(1535,698) scale(1.0)" textLength="146px">PSIN Proto Sinaic</text>
+  <image x="1686" y="684" height="17" href="psin.svg" />
+  <path class="linec" d="M 1532,711 V 722.5 C 1532,730.5 1532,730.5 1540,730.5 H 1925" />
   <!-- SARB -->
-  <a href="https://en.wikipedia.org/wiki/Ancient_South_Arabian_script" target="_blank"><rect class="rectabug" x="1925" y="682" width="2100" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(1935,698) scale(1.0)">SARB Ancient South Arabian
+  <a href="https://en.wikipedia.org/wiki/Ancient_South_Arabian_script" target="_blank"><rect class="rectabug" x="1925" y="716" width="2100" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(1935,732) scale(1.0)">SARB Ancient South Arabian
     <tspan>&#x10a60; &#x10a61; &#x10a62; &#x10a63; &#x10a64; &#x10a65; &#x10a66; &#x10a67; &#x10a68; &#x10a69; &#x10a6a; &#x10a6b; &#x10a6c; &#x10a6d; &#x10a6e; &#x10a6f; &#x10a70; &#x10a71; &#x10a72; &#x10a73; &#x10a74; &#x10a75; &#x10a76; &#x10a77; &#x10a78; &#x10a79; &#x10a7a; &#x10a7b; &#x10a7c;</tspan>
   </text>
-  <path class="linec" d="M 1932,711 V 722.5 C 1932,730.5 1932,730.5 1940,730.5 H 3475" />
+  <path class="linec" d="M 1932,745 V 756.5 C 1932,764.5 1932,764.5 1940,764.5 H 3475" />
   <!-- ETHI -->
-  <a href="https://en.wikipedia.org/wiki/Ge%CA%BDez_script" target="_blank"><rect class="rectabug" x="3475" y="716" width="1975" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3485,732) scale(1.0)">ETHI Ge'ez
+  <a href="https://en.wikipedia.org/wiki/Ge%CA%BDez_script" target="_blank"><rect class="rectabug" x="3475" y="750" width="1975" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3485,766) scale(1.0)">ETHI Ge'ez
     <tspan>&#x1200; &#x1208; &#x1210; &#x1218; &#x1220; &#x1228; &#x1230; &#x1238; &#x1240; &#x1208; &#x1250; &#x1208; &#x1260; &#x1208; &#x1270; &#x1208; &#x1280; &#x1288; &#x1290; &#x1298; &#x12a0; &#x12a8; &#x12b0; &#x12b8; &#x12c0; &#x12c8; &#x12d0; &#x12d8; &#x12e0; &#x12e8; &#x12f0; &#x12f8; &#x1300; &#x1308; &#x1310; &#x1318; &#x1320; &#x1328; &#x1330; &#x1338; &#x1340; &#x1348; &#x1350; &#x1358;</tspan>
   </text>
-  <path class="linec" d="M 1532,677 V 756.5 C 1532,764.5 1532,764.5 1540,764.5 H 2375" />
+  <path class="linec" d="M 1532,711 V 790.5 C 1532,798.5 1532,798.5 1540,798.5 H 2375" />
   <!-- PHNX -->
-  <a href="https://en.wikipedia.org/wiki/Phoenician_alphabet" target="_blank"><rect class="rectalph" x="2375" y="750" width="900" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2385,766) scale(1.0)">PHNX Phonecian
+  <a href="https://en.wikipedia.org/wiki/Phoenician_alphabet" target="_blank"><rect class="rectalph" x="2375" y="784" width="900" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2385,800) scale(1.0)">PHNX Phonecian
     <tspan>&#x10915;&#x10914;&#x10913;&#x10912;&#x10911;&#x10910;&#x1090f;&#x1090e;&#x1090d;&#x1090c;&#x1090b;&#x1090a;&#x10909;&#x10908;&#x10907;&#x10906;&#x10905;&#x10904;&#x10903;&#x10902;&#x10901;&#x10900;</tspan>
   </text>
-  <path class="linec" d="M 2382,779 V 790.5 C 2382,798.5 2382,798.5 2390,798.5 H 2625" />
+  <path class="linec" d="M 2382,813 V 824.5 C 2382,832.5 2382,832.5 2390,832.5 H 2625" />
   <!-- GREK -->
-  <a href="https://en.wikipedia.org/wiki/Greek_alphabet" target="_blank"><rect class="rectalph" x="2625" y="784" width="2825" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2635,800) scale(1.0)">GREK Greek
+  <a href="https://en.wikipedia.org/wiki/Greek_alphabet" target="_blank"><rect class="rectalph" x="2625" y="818" width="2825" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2635,834) scale(1.0)">GREK Greek
     <tspan>&#x391;&#x392;&#x393;&#x394;&#x395;&#x396;&#x397;&#x398;&#x399;&#x39a;&#x39b;&#x39c;&#x39d;&#x39e;&#x39f;&#x3a0;&#x3a1;&#x3a3;&#x3a4;&#x3a5;&#x3a6;&#x3a7;&#x3a8;&#x3a9; &#x3b1;&#x3b2;&#x3b3;&#x3b4;&#x3b5;&#x3b6;&#x3b7;&#x3b8;&#x3b9;&#x3ba;&#x3bb;&#x3bc;&#x3bd;&#x3be;&#x3bf;&#x3c0;&#x3c1;&#x3c3;&#x3c4;&#x3c5;&#x3c6;&#x3c7;&#x3c8;&#x3c9;</tspan>
   </text>
-  <path class="linec" d="M 2632,813 V 824.5 C 2632,832.5 2632,832.5 2640,832.5 H 2675" />
+  <path class="linec" d="M 2632,847 V 858.5 C 2632,866.5 2632,866.5 2640,866.5 H 2675" />
   <!-- ITAL -->
-  <a href="https://en.wikipedia.org/wiki/Old_Italic_scripts" target="_blank"><rect class="rectalph" x="2675" y="818" width="650" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2685,834) scale(1.0)">ITAL Old Italic
+  <a href="https://en.wikipedia.org/wiki/Old_Italic_scripts" target="_blank"><rect class="rectalph" x="2675" y="852" width="650" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2685,868) scale(1.0)">ITAL Old Italic
     <tspan>&#x10300;&#x10301;&#x10302;&#x10303;&#x10304;&#x10305;&#x10306;&#x10307;&#x10308;&#x10309;&#x1030a;&#x1030b;&#x1030c;&#x1030d;&#x1030e;&#x1030f;&#x10310;&#x10311;&#x10312;&#x10313;&#x10314;&#x10315;&#x10316;&#x10317;&#x10318;&#x10319;&#x1031a;&#x1031b;&#x1031c;&#x1031d;&#x1031e;&#x1031f;&#x1032d;&#x1032e;&#x1032f;</tspan>
   </text>
-  <path class="linec" d="M 2682,847 V 858.5 C 2682,866.5 2682,866.5 2690,866.5 H 2725" />
+  <path class="linec" d="M 2682,881 V 892.5 C 2682,900.5 2682,900.5 2690,900.5 H 2725" />
   <!-- LATN -->
-  <a href="https://en.wikipedia.org/wiki/Latin_script" target="_blank"><rect class="rectalph" x="2725" y="852" width="2725" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2735,868) scale(1.0)">LATN Latin
+  <a href="https://en.wikipedia.org/wiki/Latin_script" target="_blank"><rect class="rectalph" x="2725" y="886" width="2725" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2735,902) scale(1.0)">LATN Latin
     <tspan>ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz</tspan>
   </text>
-  <path class="linec" d="M 2732,881 V 892.5 C 2732,900.5 2732,900.5 2740,900.5 H 5279" />
+  <path class="linec" d="M 2732,915 V 926.5 C 2732,934.5 2732,934.5 2740,934.5 H 5279" />
   <!-- DSRT -->
-  <a href="https://en.wikipedia.org/wiki/Deseret_alphabet" target="_blank"><rect class="rectalph" x="5279" y="886" width="15" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5289,902) scale(1.0)">DSRT Deseret alphabet
+  <a href="https://en.wikipedia.org/wiki/Deseret_alphabet" target="_blank"><rect class="rectalph" x="5279" y="920" width="15" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5289,936) scale(1.0)">DSRT Deseret alphabet
     <tspan>&#x10400;&#x10401;&#x10402;&#x10403;&#x10404;&#x10405;&#x10406;&#x10407;&#x10408;&#x10409;&#x1040a;&#x1040b;&#x1040c;&#x1040d;&#x1040e;&#x1040f;&#x10410;&#x10411;&#x10412;&#x10413;&#x10414;&#x10415;&#x10416;&#x10417;&#x10418;&#x10419;&#x1041a;&#x1041b;&#x1041c;&#x1041d;&#x1041e;&#x1041f;&#x10420;&#x10421;&#x10422;&#x10423;&#x10424;&#x10425;&#x10426;&#x10427;</tspan>
   </text>
-  <path class="linec" d="M 2732,881 V 926.5 C 2732,934.5 2732,934.5 2740,934.5 H 5335" />
+  <path class="linec" d="M 2732,915 V 960.5 C 2732,968.5 2732,968.5 2740,968.5 H 5335" />
   <!-- WOLE -->
-  <a href="https://en.wikipedia.org/wiki/Woleai_script" target="_blank"><rect class="rectsyll" x="5335" y="920" width="40" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5345,936) scale(1.0)">WOLE Woleai script
+  <a href="https://en.wikipedia.org/wiki/Woleai_script" target="_blank"><rect class="rectsyll" x="5335" y="954" width="40" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5345,970) scale(1.0)">WOLE Woleai script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2732,881 V 960.5 C 2732,968.5 2732,968.5 2740,968.5 H 5340" />
+  <path class="linec" d="M 2732,915 V 994.5 C 2732,1002.5 2732,1002.5 2740,1002.5 H 5340" />
   <!-- LISU -->
-  <a href="https://en.wikipedia.org/wiki/Fraser_script" target="_blank"><rect class="rectalph" x="5340" y="954" width="110" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5350,970) scale(1.0)">LISU Fraser script
+  <a href="https://en.wikipedia.org/wiki/Fraser_script" target="_blank"><rect class="rectalph" x="5340" y="988" width="110" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5350,1004) scale(1.0)">LISU Fraser script
     <tspan>&#xa4d0;&#xa4d1;&#xa4d2;&#xa4d3;&#xa4d4;&#xa4d5;&#xa4d6;&#xa4d7;&#xa4d8;&#xa4d9;&#xa4da;&#xa4db;&#xa4dc;&#xa4dd;&#xa4de;&#xa4df;&#xa4e0;&#xa4e1;&#xa4e2;&#xa4e3;&#xa4e4;&#xa4e5;&#xa4e6;&#xa4e7;&#xa4e8;&#xa4e9;&#xa4ea;&#xa4eb;&#xa4ec;&#xa4ed;&#xa4ee;&#xa4ef;&#xa4f0;&#xa4f1;&#xa4f2;&#xa4f3;&#xa4f4;&#xa4f5;&#xa4f6;&#xa4f7;</tspan>
   </text>
-  <path class="linec" d="M 2732,881 V 994.5 C 2732,1002.5 2732,1002.5 2740,1002.5 H 5431" />
+  <path class="linec" d="M 2732,915 V 1028.5 C 2732,1036.5 2732,1036.5 2740,1036.5 H 5431" />
   <!-- OSGE -->
-  <a href="https://en.wikipedia.org/wiki/Osage_script" target="_blank"><rect class="rectalph" x="5431" y="988" width="19" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5441,1004) scale(1.0)">OSGE Osage script
+  <a href="https://en.wikipedia.org/wiki/Osage_script" target="_blank"><rect class="rectalph" x="5431" y="1022" width="19" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5441,1038) scale(1.0)">OSGE Osage script
     <tspan>&#x104b0;&#x104b1;&#x104b2;&#x104b3;&#x104b4;&#x104b5;&#x104b6;&#x104b7;&#x104b8;&#x104b9;&#x104ba;&#x104bb;&#x104bc;&#x104bd;&#x104be;&#x104bf;&#x104c0;&#x104c1;&#x104c2;&#x104c3;&#x104c4;&#x104c5;&#x104c6;&#x104c7;&#x104c8;&#x104c9;&#x104ca;&#x104cb;&#x104cc;&#x104cd;&#x104ce;&#x104cf;&#x104d0;&#x104d1;&#x104d2;&#x104d3;&#x104d4;&#x104d5;&#x104d6;&#x104d7;&#x104d8;&#x104d9;&#x104da;&#x104db;&#x104dc;&#x104dd;&#x104de;&#x104df;&#x104e0;&#x104e1;&#x104e2;&#x104e3;&#x104e4;&#x104e5;&#x104e6;&#x104e7;&#x104e8;&#x104e9;&#x104ea;&#x104eb;&#x104ec;&#x104ed;&#x104ee;&#x104ef;&#x104f0;&#x104f1;&#x104f2;&#x104f3;&#x104f4;&#x104f5;&#x104f6;&#x104f7;&#x104f8;&#x104f9;&#x104fa;&#x104fb;&#x104fc;&#x104fd;&#x104fe;&#x104ff;&#x10500;&#x10501;&#x10502;&#x10503;&#x10504;&#x10505;&#x10506;&#x10507;&#x10508;&#x10509;&#x1050a;&#x1050b;&#x1050c;&#x1050d;&#x1050e;&#x1050f;&#x10510;&#x10511;&#x10512;&#x10513;&#x10514;&#x10515;&#x10516;&#x10517;&#x10518;&#x10519;&#x1051a;&#x1051b;&#x1051c;&#x1051d;&#x1051e;&#x1051f;&#x10520;&#x10521;&#x10522;&#x10523;&#x10524;&#x10525;&#x10526;&#x10527;&#x10528;&#x10529;&#x1052a;&#x1052b;&#x1052c;&#x1052d;&#x1052e;&#x1052f;&#x10530;&#x10531;&#x10532;&#x10533;&#x10534;&#x10535;&#x10536;&#x10537;&#x10538;&#x10539;&#x1053a;&#x1053b;&#x1053c;&#x1053d;&#x1053e;&#x1053f;&#x10540;&#x10541;&#x10542;&#x10543;&#x10544;&#x10545;&#x10546;&#x10547;&#x10548;&#x10549;&#x1054a;&#x1054b;&#x1054c;&#x1054d;&#x1054e;&#x1054f;&#x10550;&#x10551;&#x10552;&#x10553;&#x10554;&#x10555;&#x10556;&#x10557;&#x10558;&#x10559;&#x1055a;&#x1055b;&#x1055c;&#x1055d;&#x1055e;&#x1055f;&#x10560;&#x10561;&#x10562;&#x10563;&#x10564;&#x10565;&#x10566;&#x10567;&#x10568;&#x10569;&#x1056a;&#x1056b;&#x1056c;&#x1056d;&#x1056e;&#x1056f;&#x10570;&#x10571;&#x10572;&#x10573;&#x10574;&#x10575;&#x10576;&#x10577;&#x10578;&#x10579;&#x1057a;&#x1057b;&#x1057c;&#x1057d;&#x1057e;&#x1057f;&#x10580;&#x10581;&#x10582;&#x10583;&#x10584;&#x10585;&#x10586;&#x10587;&#x10588;&#x10589;&#x1058a;&#x1058b;&#x1058c;&#x1058d;&#x1058e;&#x1058f;&#x10590;&#x10591;&#x10592;&#x10593;&#x10594;&#x10595;&#x10596;&#x10597;&#x10598;&#x10599;&#x1059a;&#x1059b;&#x1059c;&#x1059d;&#x1059e;&#x1059f;&#x105a0;&#x105a1;&#x105a2;&#x105a3;&#x105a4;&#x105a5;&#x105a6;&#x105a7;&#x105a8;&#x105a9;&#x105aa;&#x105ab;&#x105ac;&#x105ad;&#x105ae;&#x105af;&#x105b0;&#x105b1;&#x105b2;&#x105b3;&#x105b4;&#x105b5;&#x105b6;&#x105b7;&#x105b8;&#x105b9;&#x105ba;&#x105bb;&#x105bc;&#x105bd;&#x105be;&#x105bf;&#x105c0;&#x105c1;&#x105c2;&#x105c3;&#x105c4;&#x105c5;&#x105c6;&#x105c7;&#x105c8;&#x105c9;&#x105ca;&#x105cb;&#x105cc;&#x105cd;&#x105ce;&#x105cf;&#x105d0;&#x105d1;&#x105d2;&#x105d3;&#x105d4;&#x105d5;&#x105d6;&#x105d7;&#x105d8;&#x105d9;&#x105da;&#x105db;&#x105dc;&#x105dd;&#x105de;&#x105df;&#x105e0;&#x105e1;&#x105e2;&#x105e3;&#x105e4;&#x105e5;&#x105e6;&#x105e7;&#x105e8;&#x105e9;&#x105ea;&#x105eb;&#x105ec;&#x105ed;&#x105ee;&#x105ef;&#x105f0;&#x105f1;&#x105f2;&#x105f3;&#x105f4;&#x105f5;&#x105f6;&#x105f7;&#x105f8;&#x105f9;&#x105fa;&#x105fb;&#x105fc;&#x105fd;&#x105fe;&#x105ff;&#x10600;&#x10601;&#x10602;&#x10603;&#x10604;&#x10605;&#x10606;&#x10607;&#x10608;&#x10609;&#x1060a;&#x1060b;&#x1060c;&#x1060d;&#x1060e;&#x1060f;&#x10610;&#x10611;&#x10612;&#x10613;&#x10614;&#x10615;&#x10616;&#x10617;&#x10618;&#x10619;&#x1061a;&#x1061b;&#x1061c;&#x1061d;&#x1061e;&#x1061f;&#x10620;&#x10621;&#x10622;&#x10623;&#x10624;&#x10625;&#x10626;&#x10627;&#x10628;&#x10629;&#x1062a;&#x1062b;&#x1062c;&#x1062d;&#x1062e;&#x1062f;&#x10630;&#x10631;&#x10632;&#x10633;&#x10634;&#x10635;&#x10636;&#x10637;&#x10638;&#x10639;&#x1063a;&#x1063b;&#x1063c;&#x1063d;&#x1063e;&#x1063f;&#x10640;&#x10641;&#x10642;&#x10643;&#x10644;&#x10645;&#x10646;&#x10647;&#x10648;&#x10649;&#x1064a;&#x1064b;&#x1064c;&#x1064d;&#x1064e;&#x1064f;&#x10650;&#x10651;&#x10652;&#x10653;&#x10654;&#x10655;&#x10656;&#x10657;&#x10658;&#x10659;&#x1065a;&#x1065b;&#x1065c;&#x1065d;&#x1065e;&#x1065f;&#x10660;&#x10661;&#x10662;&#x10663;&#x10664;&#x10665;&#x10666;&#x10667;&#x10668;&#x10669;&#x1066a;&#x1066b;&#x1066c;&#x1066d;&#x1066e;&#x1066f;&#x10670;&#x10671;&#x10672;&#x10673;&#x10674;&#x10675;&#x10676;&#x10677;&#x10678;&#x10679;&#x1067a;&#x1067b;&#x1067c;&#x1067d;&#x1067e;&#x1067f;&#x10680;&#x10681;&#x10682;&#x10683;&#x10684;&#x10685;&#x10686;&#x10687;&#x10688;&#x10689;&#x1068a;&#x1068b;&#x1068c;&#x1068d;&#x1068e;&#x1068f;&#x10690;&#x10691;&#x10692;&#x10693;&#x10694;&#x10695;&#x10696;&#x10697;&#x10698;&#x10699;&#x1069a;&#x1069b;&#x1069c;&#x1069d;&#x1069e;&#x1069f;&#x106a0;&#x106a1;&#x106a2;&#x106a3;&#x106a4;&#x106a5;&#x106a6;&#x106a7;&#x106a8;&#x106a9;&#x106aa;&#x106ab;&#x106ac;&#x106ad;&#x106ae;&#x106af;&#x106b0;&#x106b1;&#x106b2;&#x106b3;&#x106b4;&#x106b5;&#x106b6;&#x106b7;&#x106b8;&#x106b9;&#x106ba;&#x106bb;&#x106bc;&#x106bd;&#x106be;&#x106bf;&#x106c0;&#x106c1;&#x106c2;&#x106c3;&#x106c4;&#x106c5;&#x106c6;&#x106c7;&#x106c8;&#x106c9;&#x106ca;&#x106cb;&#x106cc;&#x106cd;&#x106ce;&#x106cf;&#x106d0;&#x106d1;&#x106d2;&#x106d3;&#x106d4;&#x106d5;&#x106d6;&#x106d7;&#x106d8;&#x106d9;&#x106da;&#x106db;&#x106dc;&#x106dd;&#x106de;&#x106df;&#x106e0;&#x106e1;&#x106e2;&#x106e3;&#x106e4;&#x106e5;&#x106e6;&#x106e7;&#x106e8;&#x106e9;&#x106ea;&#x106eb;&#x106ec;&#x106ed;&#x106ee;&#x106ef;&#x106f0;&#x106f1;&#x106f2;&#x106f3;&#x106f4;&#x106f5;&#x106f6;&#x106f7;&#x106f8;&#x106f9;&#x106fa;&#x106fb;&#x106fc;&#x106fd;&#x106fe;&#x106ff;&#x10700;&#x10701;&#x10702;&#x10703;&#x10704;&#x10705;&#x10706;&#x10707;&#x10708;&#x10709;&#x1070a;&#x1070b;&#x1070c;&#x1070d;&#x1070e;&#x1070f;&#x10710;&#x10711;&#x10712;&#x10713;&#x10714;&#x10715;&#x10716;&#x10717;&#x10718;&#x10719;&#x1071a;&#x1071b;&#x1071c;&#x1071d;&#x1071e;&#x1071f;&#x10720;&#x10721;&#x10722;&#x10723;&#x10724;&#x10725;&#x10726;&#x10727;&#x10728;&#x10729;&#x1072a;&#x1072b;&#x1072c;&#x1072d;&#x1072e;&#x1072f;&#x10730;&#x10731;&#x10732;&#x10733;&#x10734;&#x10735;&#x10736;&#x10737;&#x10738;&#x10739;&#x1073a;&#x1073b;&#x1073c;&#x1073d;&#x1073e;&#x1073f;&#x10740;&#x10741;&#x10742;&#x10743;&#x10744;&#x10745;&#x10746;&#x10747;&#x10748;&#x10749;&#x1074a;&#x1074b;&#x1074c;&#x1074d;&#x1074e;&#x1074f;&#x10750;&#x10751;&#x10752;&#x10753;&#x10754;&#x10755;&#x10756;&#x10757;&#x10758;&#x10759;&#x1075a;&#x1075b;&#x1075c;&#x1075d;&#x1075e;&#x1075f;&#x10760;&#x10761;&#x10762;&#x10763;&#x10764;&#x10765;&#x10766;&#x10767;&#x10768;&#x10769;&#x1076a;&#x1076b;&#x1076c;&#x1076d;&#x1076e;&#x1076f;&#x10770;&#x10771;&#x10772;&#x10773;&#x10774;&#x10775;&#x10776;&#x10777;&#x10778;&#x10779;&#x1077a;&#x1077b;&#x1077c;&#x1077d;&#x1077e;&#x1077f;&#x10780;&#x10781;&#x10782;&#x10783;&#x10784;&#x10785;&#x10786;&#x10787;&#x10788;&#x10789;&#x1078a;&#x1078b;&#x1078c;&#x1078d;&#x1078e;&#x1078f;&#x10790;&#x10791;&#x10792;&#x10793;&#x10794;&#x10795;&#x10796;&#x10797;&#x10798;&#x10799;&#x1079a;&#x1079b;&#x1079c;&#x1079d;&#x1079e;&#x1079f;&#x107a0;&#x107a1;&#x107a2;&#x107a3;&#x107a4;&#x107a5;&#x107a6;&#x107a7;&#x107a8;&#x107a9;&#x107aa;&#x107ab;&#x107ac;&#x107ad;&#x107ae;&#x107af;&#x107b0;&#x107b1;&#x107b2;&#x107b3;&#x107b4;&#x107b5;&#x107b6;&#x107b7;&#x107b8;&#x107b9;&#x107ba;&#x107bb;&#x107bc;&#x107bd;&#x107be;&#x107bf;&#x107c0;&#x107c1;&#x107c2;&#x107c3;&#x107c4;&#x107c5;&#x107c6;&#x107c7;&#x107c8;&#x107c9;&#x107ca;&#x107cb;&#x107cc;&#x107cd;&#x107ce;&#x107cf;&#x107d0;&#x107d1;&#x107d2;&#x107d3;&#x107d4;&#x107d5;&#x107d6;&#x107d7;&#x107d8;&#x107d9;&#x107da;&#x107db;&#x107dc;&#x107dd;&#x107de;&#x107df;&#x107e0;&#x107e1;&#x107e2;&#x107e3;&#x107e4;&#x107e5;&#x107e6;&#x107e7;&#x107e8;&#x107e9;&#x107ea;&#x107eb;&#x107ec;&#x107ed;&#x107ee;&#x107ef;&#x107f0;&#x107f1;&#x107f2;&#x107f3;&#x107f4;&#x107f5;&#x107f6;&#x107f7;&#x107f8;&#x107f9;&#x107fa;&#x107fb;&#x107fc;&#x107fd;&#x107fe;&#x107ff;&#x10800;&#x10801;&#x10802;&#x10803;&#x10804;&#x10805;&#x10806;&#x10807;&#x10808;&#x10809;&#x1080a;&#x1080b;&#x1080c;&#x1080d;&#x1080e;&#x1080f;&#x10810;&#x10811;&#x10812;&#x10813;&#x10814;&#x10815;&#x10816;&#x10817;&#x10818;&#x10819;&#x1081a;&#x1081b;&#x1081c;&#x1081d;&#x1081e;&#x1081f;&#x10820;&#x10821;&#x10822;&#x10823;&#x10824;&#x10825;&#x10826;&#x10827;&#x10828;&#x10829;&#x1082a;&#x1082b;&#x1082c;&#x1082d;&#x1082e;&#x1082f;&#x10830;&#x10831;&#x10832;&#x10833;&#x10834;&#x10835;&#x10836;&#x10837;&#x10838;&#x10839;&#x1083a;&#x1083b;&#x1083c;&#x1083d;&#x1083e;&#x1083f;&#x10840;&#x10841;&#x10842;&#x10843;&#x10844;&#x10845;&#x10846;&#x10847;&#x10848;&#x10849;&#x1084a;&#x1084b;&#x1084c;&#x1084d;&#x1084e;&#x1084f;&#x10850;&#x10851;&#x10852;&#x10853;&#x10854;&#x10855;&#x10856;&#x10857;&#x10858;&#x10859;&#x1085a;&#x1085b;&#x1085c;&#x1085d;&#x1085e;&#x1085f;&#x10860;&#x10861;&#x10862;&#x10863;&#x10864;&#x10865;&#x10866;&#x10867;&#x10868;&#x10869;&#x1086a;&#x1086b;&#x1086c;&#x1086d;&#x1086e;&#x1086f;&#x10870;&#x10871;&#x10872;&#x10873;&#x10874;&#x10875;&#x10876;&#x10877;&#x10878;&#x10879;&#x1087a;&#x1087b;&#x1087c;&#x1087d;&#x1087e;&#x1087f;&#x10880;&#x10881;&#x10882;&#x10883;&#x10884;&#x10885;&#x10886;&#x10887;&#x10888;&#x10889;&#x1088a;&#x1088b;&#x1088c;&#x1088d;&#x1088e;&#x1088f;&#x10890;&#x10891;&#x10892;&#x10893;&#x10894;&#x10895;&#x10896;&#x10897;&#x10898;&#x10899;&#x1089a;&#x1089b;&#x1089c;&#x1089d;&#x1089e;&#x1089f;&#x108a0;&#x108a1;&#x108a2;&#x108a3;&#x108a4;&#x108a5;&#x108a6;&#x108a7;&#x108a8;&#x108a9;&#x108aa;&#x108ab;&#x108ac;&#x108ad;&#x108ae;&#x108af;&#x108b0;&#x108b1;&#x108b2;&#x108b3;&#x108b4;&#x108b5;&#x108b6;&#x108b7;&#x108b8;&#x108b9;&#x108ba;&#x108bb;&#x108bc;&#x108bd;&#x108be;&#x108bf;&#x108c0;&#x108c1;&#x108c2;&#x108c3;&#x108c4;&#x108c5;&#x108c6;&#x108c7;&#x108c8;&#x108c9;&#x108ca;&#x108cb;&#x108cc;&#x108cd;&#x108ce;&#x108cf;&#x108d0;&#x108d1;&#x108d2;&#x108d3;&#x108d4;&#x108d5;&#x108d6;&#x108d7;&#x108d8;&#x108d9;&#x108da;&#x108db;&#x108dc;&#x108dd;&#x108de;&#x108df;&#x108e0;&#x108e1;&#x108e2;&#x108e3;&#x108e4;&#x108e5;&#x108e6;&#x108e7;&#x108e8;&#x108e9;&#x108ea;&#x108eb;&#x108ec;&#x108ed;&#x108ee;&#x108ef;&#x108f0;&#x108f1;&#x108f2;&#x108f3;&#x108f4;&#x108f5;&#x108f6;&#x108f7;&#x108f8;&#x108f9;&#x108fa;&#x108fb;&#x108fc;&#x108fd;&#x108fe;&#x108ff;&#x10900;&#x10901;&#x10902;&#x10903;&#x10904;&#x10905;&#x10906;&#x10907;&#x10908;&#x10909;&#x1090a;&#x1090b;&#x1090c;&#x1090d;&#x1090e;&#x1090f;&#x10910;&#x10911;&#x10912;&#x10913;&#x10914;&#x10915;&#x10916;&#x10917;&#x10918;&#x10919;&#x1091a;&#x1091b;&#x1091c;&#x1091d;&#x1091e;&#x1091f;&#x10920;&#x10921;&#x10922;&#x10923;&#x10924;&#x10925;&#x10926;&#x10927;&#x10928;&#x10929;&#x1092a;&#x1092b;&#x1092c;&#x1092d;&#x1092e;&#x1092f;&#x10930;&#x10931;&#x10932;&#x10933;&#x10934;&#x10935;&#x10936;&#x10937;&#x10938;&#x10939;&#x1093a;&#x1093b;&#x1093c;&#x1093d;&#x1093e;&#x1093f;&#x10940;&#x10941;&#x10942;&#x10943;&#x10944;&#x10945;&#x10946;&#x10947;&#x10948;&#x10949;&#x1094a;&#x1094b;&#x1094c;&#x1094d;&#x1094e;&#x1094f;&#x10950;&#x10951;&#x10952;&#x10953;&#x10954;&#x10955;&#x10956;&#x10957;&#x10958;&#x10959;&#x1095a;&#x1095b;&#x1095c;&#x1095d;&#x1095e;&#x1095f;&#x10960;&#x10961;&#x10962;&#x10963;&#x10964;&#x10965;&#x10966;&#x10967;&#x10968;&#x10969;&#x1096a;&#x1096b;&#x1096c;&#x1096d;&#x1096e;&#x1096f;&#x10970;&#x10971;&#x10972;&#x10973;&#x10974;&#x10975;&#x10976;&#x10977;&#x10978;&#x10979;&#x1097a;&#x1097b;&#x1097c;&#x1097d;&#x1097e;&#x1097f;&#x10980;&#x10981;&#x10982;&#x10983;&#x10984;&#x10985;&#x10986;&#x10987;&#x10988;&#x10989;&#x1098a;&#x1098b;&#x1098c;&#x1098d;&#x1098e;&#x1098f;&#x10990;&#x10991;&#x10992;&#x10993;&#x10994;&#x10995;&#x10996;&#x10997;&#x10998;&#x10999;&#x1099a;&#x1099b;&#x1099c;&#x1099d;&#x1099e;&#x1099f;&#x109a0;&#x109a1;&#x109a2;&#x109a3;&#x109a4;&#x109a5;&#x109a6;&#x109a7;&#x109a8;&#x109a9;&#x109aa;&#x109ab;&#x109ac;&#x109ad;&#x109ae;&#x109af;&#x109b0;&#x109b1;&#x109b2;&#x109b3;&#x109b4;&#x109b5;&#x109b6;&#x109b7;&#x109b8;&#x109b9;&#x109ba;&#x109bb;&#x109bc;&#x109bd;&#x109be;&#x109bf;&#x109c0;&#x109c1;&#x109c2;&#x109c3;&#x109c4;&#x109c5;&#x109c6;&#x109c7;&#x109c8;&#x109c9;&#x109ca;&#x109cb;&#x109cc;&#x109cd;&#x109ce;&#x109cf;&#x109d0;&#x109d1;&#x109d2;&#x109d3;&#x109d4;&#x109d5;&#x109d6;&#x109d7;&#x109d8;&#x109d9;&#x109da;&#x109db;&#x109dc;&#x109dd;&#x109de;&#x109df;&#x109e0;&#x109e1;&#x109e2;&#x109e3;&#x109e4;&#x109e5;&#x109e6;&#x109e7;&#x109e8;&#x109e9;&#x109ea;&#x109eb;&#x109ec;&#x109ed;&#x109ee;&#x109ef;&#x109f0;&#x109f1;&#x109f2;&#x109f3;&#x109f4;&#x109f5;&#x109f6;&#x109f7;&#x109f8;&#x109f9;&#x109fa;&#x109fb;&#x109fc;&#x109fd;&#x109fe;&#x109ff;&#x10a00;&#x10a01;&#x10a02;&#x10a03;&#x10a04;&#x10a05;&#x10a06;&#x10a07;&#x10a08;&#x10a09;&#x10a0a;&#x10a0b;&#x10a0c;&#x10a0d;&#x10a0e;&#x10a0f;&#x10a10;&#x10a11;&#x10a12;&#x10a13;&#x10a14;&#x10a15;&#x10a16;&#x10a17;&#x10a18;&#x10a19;&#x10a1a;&#x10a1b;&#x10a1c;&#x10a1d;&#x10a1e;&#x10a1f;&#x10a20;&#x10a21;&#x10a22;&#x10a23;&#x10a24;&#x10a25;&#x10a26;&#x10a27;&#x10a28;&#x10a29;&#x10a2a;&#x10a2b;&#x10a2c;&#x10a2d;&#x10a2e;&#x10a2f;&#x10a30;&#x10a31;&#x10a32;&#x10a33;&#x10a34;&#x10a35;&#x10a36;&#x10a37;&#x10a38;&#x10a39;&#x10a3a;&#x10a3b;&#x10a3c;&#x10a3d;&#x10a3e;&#x10a3f;&#x10a40;&#x10a41;&#x10a42;&#x10a43;&#x10a44;&#x10a45;&#x10a46;&#x10a47;&#x10a48;&#x10a49;&#x10a4a;&#x10a4b;&#x10a4c;&#x10a4d;&#x10a4e;&#x10a4f;&#x10a50;&#x10a51;&#x10a52;&#x10a53;&#x10a54;&#x10a55;&#x10a56;&#x10a57;&#x10a58;&#x10a59;&#x10a5a;&#x10a5b;&#x10a5c;&#x10a5d;&#x10a5e;&#x10a5f;&#x10a60;&#x10a61;&#x10a62;&#x10a63;&#x10a64;&#x10a65;&#x10a66;&#x10a67;&#x10a68;&#x10a69;&#x10a6a;&#x10a6b;&#x10a6c;&#x10a6d;&#x10a6e;&#x10a6f;&#x10a70;&#x10a71;&#x10a72;&#x10a73;&#x10a74;&#x10a75;&#x10a76;&#x10a77;&#x10a78;&#x10a79;&#x10a7a;&#x10a7b;&#x10a7c;&#x10a7d;&#x10a7e;&#x10a7f;&#x10a80;&#x10a81;&#x10a82;&#x10a83;&#x10a84;&#x10a85;&#x10a86;&#x10a87;&#x10a88;&#x10a89;&#x10a8a;&#x10a8b;&#x10a8c;&#x10a8d;&#x10a8e;&#x10a8f;&#x10a90;&#x10a91;&#x10a92;&#x10a93;&#x10a94;&#x10a95;&#x10a96;&#x10a97;&#x10a98;&#x10a99;&#x10a9a;&#x10a9b;&#x10a9c;&#x10a9d;&#x10a9e;&#x10a9f;&#x10aa0;&#x10aa1;&#x10aa2;&#x10aa3;&#x10aa4;&#x10aa5;&#x10aa6;&#x10aa7;&#x10aa8;&#x10aa9;&#x10aaa;&#x10aab;&#x10aac;&#x10aad;&#x10aae;&#x10aaf;&#x10ab0;&#x10ab1;&#x10ab2;&#x10ab3;&#x10ab4;&#x10ab5;&#x10ab6;&#x10ab7;&#x10ab8;&#x10ab9;&#x10aba;&#x10abb;&#x10abc;&#x10abd;&#x10abe;&#x10abf;&#x10ac0;&#x10ac1;&#x10ac2;&#x10ac3;&#x10ac4;&#x10ac5;&#x10ac6;&#x10ac7;&#x10ac8;&#x10ac9;&#x10aca;&#x10acb;&#x10acc;&#x10acd;&#x10ace;&#x10acf;&#x10ad0;&#x10ad1;&#x10ad2;&#x10ad3;&#x10ad4;&#x10ad5;&#x10ad6;&#x10ad7;&#x10ad8;&#x10ad9;&#x10ada;&#x10adb;&#x10adc;&#x10add;&#x10ade;&#x10adf;&#x10ae0;&#x10ae1;&#x10ae2;&#x10ae3;&#x10ae4;&#x10ae5;&#x10ae6;&#x10ae7;&#x10ae8;&#x10ae9;&#x10aea;&#x10aeb;&#x10aec;&#x10aed;&#x10aee;&#x10aef;&#x10af0;&#x10af1;&#x10af2;&#x10af3;&#x10af4;&#x10af5;&#x10af6;&#x10af7;&#x10af8;&#x10af9;&#x10afa;&#x10afb;&#x10afc;&#x10afd;&#x10afe;&#x10aff;&#x10b00;&#x10b01;&#x10b02;&#x10b03;&#x10b04;&#x10b05;&#x10b06;&#x10b07;&#x10b08;&#x10b09;&#x10b0a;&#x10b0b;&#x10b0c;&#x10b0d;&#x10b0e;&#x10b0f;&#x10b10;&#x10b11;&#x10b12;&#x10b13;&#x10b14;&#x10b15;&#x10b16;&#x10b17;&#x10b18;&#x10b19;&#x10b1a;&#x10b1b;&#x10b1c;&#x10b1d;&#x10b1e;&#x10b1f;&#x10b20;&#x10b21;&#x10b22;&#x10b23;&#x10b24;&#x10b25;&#x10b26;&#x10b27;&#x10b28;&#x10b29;&#x10b2a;&#x10b2b;&#x10b2c;&#x10b2d;&#x10b2e;&#x10b2f;&#x10b30;&#x10b31;&#x10b32;&#x10b33;&#x10b34;&#x10b35;&#x10b36;&#x10b37;&#x10b38;&#x10b39;&#x10b3a;&#x10b3b;&#x10b3c;&#x10b3d;&#x10b3e;&#x10b3f;&#x10b40;&#x10b41;&#x10b42;&#x10b43;&#x10b44;&#x10b45;&#x10b46;&#x10b47;&#x10b48;&#x10b49;&#x10b4a;&#x10b4b;&#x10b4c;&#x10b4d;&#x10b4e;&#x10b4f;&#x10b50;&#x10b51;&#x10b52;&#x10b53;&#x10b54;&#x10b55;&#x10b56;&#x10b57;&#x10b58;&#x10b59;&#x10b5a;&#x10b5b;&#x10b5c;&#x10b5d;&#x10b5e;&#x10b5f;&#x10b60;&#x10b61;&#x10b62;&#x10b63;&#x10b64;&#x10b65;&#x10b66;&#x10b67;&#x10b68;&#x10b69;&#x10b6a;&#x10b6b;&#x10b6c;&#x10b6d;&#x10b6e;&#x10b6f;&#x10b70;&#x10b71;&#x10b72;&#x10b73;&#x10b74;&#x10b75;&#x10b76;&#x10b77;&#x10b78;&#x10b79;&#x10b7a;&#x10b7b;&#x10b7c;&#x10b7d;&#x10b7e;&#x10b7f;&#x10b80;&#x10b81;&#x10b82;&#x10b83;&#x10b84;&#x10b85;&#x10b86;&#x10b87;&#x10b88;&#x10b89;&#x10b8a;&#x10b8b;&#x10b8c;&#x10b8d;&#x10b8e;&#x10b8f;&#x10b90;&#x10b91;&#x10b92;&#x10b93;&#x10b94;&#x10b95;&#x10b96;&#x10b97;&#x10b98;&#x10b99;&#x10b9a;&#x10b9b;&#x10b9c;&#x10b9d;&#x10b9e;&#x10b9f;&#x10ba0;&#x10ba1;&#x10ba2;&#x10ba3;&#x10ba4;&#x10ba5;&#x10ba6;&#x10ba7;&#x10ba8;&#x10ba9;&#x10baa;&#x10bab;&#x10bac;&#x10bad;&#x10bae;&#x10baf;&#x10bb0;&#x10bb1;&#x10bb2;&#x10bb3;&#x10bb4;&#x10bb5;&#x10bb6;&#x10bb7;&#x10bb8;&#x10bb9;&#x10bba;&#x10bbb;&#x10bbc;&#x10bbd;&#x10bbe;&#x10bbf;&#x10bc0;&#x10bc1;&#x10bc2;&#x10bc3;&#x10bc4;&#x10bc5;&#x10bc6;&#x10bc7;&#x10bc8;&#x10bc9;&#x10bca;&#x10bcb;&#x10bcc;&#x10bcd;&#x10bce;&#x10bcf;&#x10bd0;&#x10bd1;&#x10bd2;&#x10bd3;&#x10bd4;&#x10bd5;&#x10bd6;&#x10bd7;&#x10bd8;&#x10bd9;&#x10bda;&#x10bdb;&#x10bdc;&#x10bdd;&#x10bde;&#x10bdf;&#x10be0;&#x10be1;&#x10be2;&#x10be3;&#x10be4;&#x10be5;&#x10be6;&#x10be7;&#x10be8;&#x10be9;&#x10bea;&#x10beb;&#x10bec;&#x10bed;&#x10bee;&#x10bef;&#x10bf0;&#x10bf1;&#x10bf2;&#x10bf3;&#x10bf4;&#x10bf5;&#x10bf6;&#x10bf7;&#x10bf8;&#x10bf9;&#x10bfa;&#x10bfb;&#x10bfc;&#x10bfd;&#x10bfe;&#x10bff;&#x10c00;&#x10c01;&#x10c02;&#x10c03;&#x10c04;&#x10c05;&#x10c06;&#x10c07;&#x10c08;&#x10c09;&#x10c0a;&#x10c0b;&#x10c0c;&#x10c0d;&#x10c0e;&#x10c0f;&#x10c10;&#x10c11;&#x10c12;&#x10c13;&#x10c14;&#x10c15;&#x10c16;&#x10c17;&#x10c18;&#x10c19;&#x10c1a;&#x10c1b;&#x10c1c;&#x10c1d;&#x10c1e;&#x10c1f;&#x10c20;&#x10c21;&#x10c22;&#x10c23;&#x10c24;&#x10c25;&#x10c26;&#x10c27;&#x10c28;&#x10c29;&#x10c2a;&#x10c2b;&#x10c2c;&#x10c2d;&#x10c2e;&#x10c2f;&#x10c30;&#x10c31;&#x10c32;&#x10c33;&#x10c34;&#x10c35;&#x10c36;&#x10c37;&#x10c38;&#x10c39;&#x10c3a;&#x10c3b;&#x10c3c;&#x10c3d;&#x10c3e;&#x10c3f;&#x10c40;&#x10c41;&#x10c42;&#x10c43;&#x10c44;&#x10c45;&#x10c46;&#x10c47;&#x10c48;&#x10c49;&#x10c4a;&#x10c4b;&#x10c4c;&#x10c4d;&#x10c4e;&#x10c4f;&#x10c50;&#x10c51;&#x10c52;&#x10c53;&#x10c54;&#x10c55;&#x10c56;&#x10c57;&#x10c58;&#x10c59;&#x10c5a;&#x10c5b;&#x10c5c;&#x10c5d;&#x10c5e;&#x10c5f;&#x10c60;&#x10c61;&#x10c62;&#x10c63;&#x10c64;&#x10c65;&#x10c66;&#x10c67;&#x10c68;&#x10c69;&#x10c6a;&#x10c6b;&#x10c6c;&#x10c6d;&#x10c6e;&#x10c6f;&#x10c70;&#x10c71;&#x10c72;&#x10c73;&#x10c74;&#x10c75;&#x10c76;&#x10c77;&#x10c78;&#x10c79;&#x10c7a;&#x10c7b;&#x10c7c;&#x10c7d;&#x10c7e;&#x10c7f;&#x10c80;&#x10c81;&#x10c82;&#x10c83;&#x10c84;&#x10c85;&#x10c86;&#x10c87;&#x10c88;&#x10c89;&#x10c8a;&#x10c8b;&#x10c8c;&#x10c8d;&#x10c8e;&#x10c8f;&#x10c90;&#x10c91;&#x10c92;&#x10c93;&#x10c94;&#x10c95;&#x10c96;&#x10c97;&#x10c98;&#x10c99;&#x10c9a;&#x10c9b;&#x10c9c;&#x10c9d;&#x10c9e;&#x10c9f;&#x10ca0;&#x10ca1;&#x10ca2;&#x10ca3;&#x10ca4;&#x10ca5;&#x10ca6;&#x10ca7;&#x10ca8;&#x10ca9;&#x10caa;&#x10cab;&#x10cac;&#x10cad;&#x10cae;&#x10caf;&#x10cb0;&#x10cb1;&#x10cb2;&#x10cb3;&#x10cb4;&#x10cb5;&#x10cb6;&#x10cb7;&#x10cb8;&#x10cb9;&#x10cba;&#x10cbb;&#x10cbc;&#x10cbd;&#x10cbe;&#x10cbf;&#x10cc0;&#x10cc1;&#x10cc2;&#x10cc3;&#x10cc4;&#x10cc5;&#x10cc6;&#x10cc7;&#x10cc8;&#x10cc9;&#x10cca;&#x10ccb;&#x10ccc;&#x10ccd;&#x10cce;&#x10ccf;&#x10cd0;&#x10cd1;&#x10cd2;&#x10cd3;&#x10cd4;&#x10cd5;&#x10cd6;&#x10cd7;&#x10cd8;&#x10cd9;&#x10cda;&#x10cdb;&#x10cdc;&#x10cdd;&#x10cde;&#x10cdf;&#x10ce0;&#x10ce1;&#x10ce2;&#x10ce3;&#x10ce4;&#x10ce5;&#x10ce6;&#x10ce7;&#x10ce8;&#x10ce9;&#x10cea;&#x10ceb;&#x10cec;&#x10ced;&#x10cee;&#x10cef;&#x10cf0;&#x10cf1;&#x10cf2;&#x10cf3;&#x10cf4;&#x10cf5;&#x10cf6;&#x10cf7;&#x10cf8;&#x10cf9;&#x10cfa;&#x10cfb;&#x10cfc;&#x10cfd;&#x10cfe;&#x10cff;&#x10d00;&#x10d01;&#x10d02;&#x10d03;&#x10d04;&#x10d05;&#x10d06;&#x10d07;&#x10d08;&#x10d09;&#x10d0a;&#x10d0b;&#x10d0c;&#x10d0d;&#x10d0e;&#x10d0f;&#x10d10;&#x10d11;&#x10d12;&#x10d13;&#x10d14;&#x10d15;&#x10d16;&#x10d17;&#x10d18;&#x10d19;&#x10d1a;&#x10d1b;&#x10d1c;&#x10d1d;&#x10d1e;&#x10d1f;&#x10d20;&#x10d21;&#x10d22;&#x10d23;&#x10d24;&#x10d25;&#x10d26;&#x10d27;&#x10d28;&#x10d29;&#x10d2a;&#x10d2b;&#x10d2c;&#x10d2d;&#x10d2e;&#x10d2f;&#x10d30;&#x10d31;&#x10d32;&#x10d33;&#x10d34;&#x10d35;&#x10d36;&#x10d37;&#x10d38;&#x10d39;&#x10d3a;&#x10d3b;&#x10d3c;&#x10d3d;&#x10d3e;&#x10d3f;&#x10d40;&#x10d41;&#x10d42;&#x10d43;&#x10d44;&#x10d45;&#x10d46;&#x10d47;&#x10d48;&#x10d49;&#x10d4a;&#x10d4b;&#x10d4c;&#x10d4d;&#x10d4e;&#x10d4f;&#x10d50;&#x10d51;&#x10d52;&#x10d53;&#x10d54;&#x10d55;&#x10d56;&#x10d57;&#x10d58;&#x10d59;&#x10d5a;&#x10d5b;&#x10d5c;&#x10d5d;&#x10d5e;&#x10d5f;&#x10d60;&#x10d61;&#x10d62;&#x10d63;&#x10d64;&#x10d65;&#x10d66;&#x10d67;&#x10d68;&#x10d69;&#x10d6a;&#x10d6b;&#x10d6c;&#x10d6d;&#x10d6e;&#x10d6f;&#x10d70;&#x10d71;&#x10d72;&#x10d73;&#x10d74;&#x10d75;&#x10d76;&#x10d77;&#x10d78;&#x10d79;&#x10d7a;&#x10d7b;&#x10d7c;&#x10d7d;&#x10d7e;&#x10d7f;&#x10d80;&#x10d81;&#x10d82;&#x10d83;&#x10d84;&#x10d85;&#x10d86;&#x10d87;&#x10d88;&#x10d89;&#x10d8a;&#x10d8b;&#x10d8c;&#x10d8d;&#x10d8e;&#x10d8f;&#x10d90;&#x10d91;&#x10d92;&#x10d93;&#x10d94;&#x10d95;&#x10d96;&#x10d97;&#x10d98;&#x10d99;&#x10d9a;&#x10d9b;&#x10d9c;&#x10d9d;&#x10d9e;&#x10d9f;&#x10da0;&#x10da1;&#x10da2;&#x10da3;&#x10da4;&#x10da5;&#x10da6;&#x10da7;&#x10da8;&#x10da9;&#x10daa;&#x10dab;&#x10dac;&#x10dad;&#x10dae;&#x10daf;&#x10db0;&#x10db1;&#x10db2;&#x10db3;&#x10db4;&#x10db5;&#x10db6;&#x10db7;&#x10db8;&#x10db9;&#x10dba;&#x10dbb;&#x10dbc;&#x10dbd;&#x10dbe;&#x10dbf;&#x10dc0;&#x10dc1;&#x10dc2;&#x10dc3;&#x10dc4;&#x10dc5;&#x10dc6;&#x10dc7;&#x10dc8;&#x10dc9;&#x10dca;&#x10dcb;&#x10dcc;&#x10dcd;&#x10dce;&#x10dcf;&#x10dd0;&#x10dd1;&#x10dd2;&#x10dd3;&#x10dd4;&#x10dd5;&#x10dd6;&#x10dd7;&#x10dd8;&#x10dd9;&#x10dda;&#x10ddb;&#x10ddc;&#x10ddd;&#x10dde;&#x10ddf;&#x10de0;&#x10de1;&#x10de2;&#x10de3;&#x10de4;&#x10de5;&#x10de6;&#x10de7;&#x10de8;&#x10de9;&#x10dea;&#x10deb;&#x10dec;&#x10ded;&#x10dee;&#x10def;&#x10df0;&#x10df1;&#x10df2;&#x10df3;&#x10df4;&#x10df5;&#x10df6;&#x10df7;&#x10df8;&#x10df9;&#x10dfa;&#x10dfb;&#x10dfc;&#x10dfd;&#x10dfe;&#x10dff;&#x10e00;&#x10e01;&#x10e02;&#x10e03;&#x10e04;&#x10e05;&#x10e06;&#x10e07;&#x10e08;&#x10e09;&#x10e0a;&#x10e0b;&#x10e0c;&#x10e0d;&#x10e0e;&#x10e0f;&#x10e10;&#x10e11;&#x10e12;&#x10e13;&#x10e14;&#x10e15;&#x10e16;&#x10e17;&#x10e18;&#x10e19;&#x10e1a;&#x10e1b;&#x10e1c;&#x10e1d;&#x10e1e;&#x10e1f;&#x10e20;&#x10e21;&#x10e22;&#x10e23;&#x10e24;&#x10e25;&#x10e26;&#x10e27;&#x10e28;&#x10e29;&#x10e2a;&#x10e2b;&#x10e2c;&#x10e2d;&#x10e2e;&#x10e2f;&#x10e30;&#x10e31;&#x10e32;&#x10e33;&#x10e34;&#x10e35;&#x10e36;&#x10e37;&#x10e38;&#x10e39;&#x10e3a;&#x10e3b;&#x10e3c;&#x10e3d;&#x10e3e;&#x10e3f;&#x10e40;&#x10e41;&#x10e42;&#x10e43;&#x10e44;&#x10e45;&#x10e46;&#x10e47;&#x10e48;&#x10e49;&#x10e4a;&#x10e4b;&#x10e4c;&#x10e4d;&#x10e4e;&#x10e4f;&#x10e50;&#x10e51;&#x10e52;&#x10e53;&#x10e54;&#x10e55;&#x10e56;&#x10e57;&#x10e58;&#x10e59;&#x10e5a;&#x10e5b;&#x10e5c;&#x10e5d;&#x10e5e;&#x10e5f;&#x10e60;&#x10e61;&#x10e62;&#x10e63;&#x10e64;&#x10e65;&#x10e66;&#x10e67;&#x10e68;&#x10e69;&#x10e6a;&#x10e6b;&#x10e6c;&#x10e6d;&#x10e6e;&#x10e6f;&#x10e70;&#x10e71;&#x10e72;&#x10e73;&#x10e74;&#x10e75;&#x10e76;&#x10e77;&#x10e78;&#x10e79;&#x10e7a;&#x10e7b;&#x10e7c;&#x10e7d;&#x10e7e;&#x10e7f;&#x10e80;&#x10e81;&#x10e82;&#x10e83;&#x10e84;&#x10e85;&#x10e86;&#x10e87;&#x10e88;&#x10e89;&#x10e8a;&#x10e8b;&#x10e8c;&#x10e8d;&#x10e8e;&#x10e8f;&#x10e90;&#x10e91;&#x10e92;&#x10e93;&#x10e94;&#x10e95;&#x10e96;&#x10e97;&#x10e98;&#x10e99;&#x10e9a;&#x10e9b;&#x10e9c;&#x10e9d;&#x10e9e;&#x10e9f;&#x10ea0;&#x10ea1;&#x10ea2;&#x10ea3;&#x10ea4;&#x10ea5;&#x10ea6;&#x10ea7;&#x10ea8;&#x10ea9;&#x10eaa;&#x10eab;&#x10eac;&#x10ead;&#x10eae;&#x10eaf;&#x10eb0;&#x10eb1;&#x10eb2;&#x10eb3;&#x10eb4;&#x10eb5;&#x10eb6;&#x10eb7;&#x10eb8;&#x10eb9;&#x10eba;&#x10ebb;&#x10ebc;&#x10ebd;&#x10ebe;&#x10ebf;&#x10ec0;&#x10ec1;&#x10ec2;&#x10ec3;&#x10ec4;&#x10ec5;&#x10ec6;&#x10ec7;&#x10ec8;&#x10ec9;&#x10eca;&#x10ecb;&#x10ecc;&#x10ecd;&#x10ece;&#x10ecf;&#x10ed0;&#x10ed1;&#x10ed2;&#x10ed3;&#x10ed4;&#x10ed5;&#x10ed6;&#x10ed7;&#x10ed8;&#x10ed9;&#x10eda;&#x10edb;&#x10edc;&#x10edd;&#x10ede;&#x10edf;&#x10ee0;&#x10ee1;&#x10ee2;&#x10ee3;&#x10ee4;&#x10ee5;&#x10ee6;&#x10ee7;&#x10ee8;&#x10ee9;&#x10eea;&#x10eeb;&#x10eec;&#x10eed;&#x10eee;&#x10eef;&#x10ef0;&#x10ef1;&#x10ef2;&#x10ef3;&#x10ef4;&#x10ef5;&#x10ef6;&#x10ef7;&#x10ef8;&#x10ef9;&#x10efa;&#x10efb;&#x10efc;&#x10efd;&#x10efe;&#x10eff;&#x10f00;&#x10f01;&#x10f02;&#x10f03;&#x10f04;&#x10f05;&#x10f06;&#x10f07;&#x10f08;&#x10f09;&#x10f0a;&#x10f0b;&#x10f0c;&#x10f0d;&#x10f0e;&#x10f0f;&#x10f10;&#x10f11;&#x10f12;&#x10f13;&#x10f14;&#x10f15;&#x10f16;&#x10f17;&#x10f18;&#x10f19;&#x10f1a;&#x10f1b;&#x10f1c;&#x10f1d;&#x10f1e;&#x10f1f;&#x10f20;&#x10f21;&#x10f22;&#x10f23;&#x10f24;&#x10f25;&#x10f26;&#x10f27;&#x10f28;&#x10f29;&#x10f2a;&#x10f2b;&#x10f2c;&#x10f2d;&#x10f2e;&#x10f2f;&#x10f30;&#x10f31;&#x10f32;&#x10f33;&#x10f34;&#x10f35;&#x10f36;&#x10f37;&#x10f38;&#x10f39;&#x10f3a;&#x10f3b;&#x10f3c;&#x10f3d;&#x10f3e;&#x10f3f;&#x10f40;&#x10f41;&#x10f42;&#x10f43;&#x10f44;&#x10f45;&#x10f46;&#x10f47;&#x10f48;&#x10f49;&#x10f4a;&#x10f4b;&#x10f4c;&#x10f4d;&#x10f4e;&#x10f4f;&#x10f50;&#x10f51;&#x10f52;&#x10f53;&#x10f54;&#x10f55;&#x10f56;&#x10f57;&#x10f58;&#x10f59;&#x10f5a;&#x10f5b;&#x10f5c;&#x10f5d;&#x10f5e;&#x10f5f;&#x10f60;&#x10f61;&#x10f62;&#x10f63;&#x10f64;&#x10f65;&#x10f66;&#x10f67;&#x10f68;&#x10f69;&#x10f6a;&#x10f6b;&#x10f6c;&#x10f6d;&#x10f6e;&#x10f6f;&#x10f70;&#x10f71;&#x10f72;&#x10f73;&#x10f74;&#x10f75;&#x10f76;&#x10f77;&#x10f78;&#x10f79;&#x10f7a;&#x10f7b;&#x10f7c;&#x10f7d;&#x10f7e;&#x10f7f;&#x10f80;&#x10f81;&#x10f82;&#x10f83;&#x10f84;&#x10f85;&#x10f86;&#x10f87;&#x10f88;&#x10f89;&#x10f8a;&#x10f8b;&#x10f8c;&#x10f8d;&#x10f8e;&#x10f8f;&#x10f90;&#x10f91;&#x10f92;&#x10f93;&#x10f94;&#x10f95;&#x10f96;&#x10f97;&#x10f98;&#x10f99;&#x10f9a;&#x10f9b;&#x10f9c;&#x10f9d;&#x10f9e;&#x10f9f;&#x10fa0;&#x10fa1;&#x10fa2;&#x10fa3;&#x10fa4;&#x10fa5;&#x10fa6;&#x10fa7;&#x10fa8;&#x10fa9;&#x10faa;&#x10fab;&#x10fac;&#x10fad;&#x10fae;&#x10faf;&#x10fb0;&#x10fb1;&#x10fb2;&#x10fb3;&#x10fb4;&#x10fb5;&#x10fb6;&#x10fb7;&#x10fb8;&#x10fb9;&#x10fba;&#x10fbb;&#x10fbc;&#x10fbd;&#x10fbe;&#x10fbf;&#x10fc0;&#x10fc1;&#x10fc2;&#x10fc3;&#x10fc4;&#x10fc5;&#x10fc6;&#x10fc7;&#x10fc8;&#x10fc9;&#x10fca;&#x10fcb;&#x10fcc;&#x10fcd;&#x10fce;&#x10fcf;&#x10fd0;&#x10fd1;&#x10fd2;&#x10fd3;</tspan>
   </text>
-  <path class="linec" d="M 2682,847 V 1028.5 C 2682,1036.5 2682,1036.5 2690,1036.5 H 3475" />
+  <path class="linec" d="M 2682,881 V 1062.5 C 2682,1070.5 2682,1070.5 2690,1070.5 H 3475" />
   <!-- RUNR -->
-  <a href="https://en.wikipedia.org/wiki/Runes" target="_blank"><rect class="rectalph" x="3475" y="1022" width="1050" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3485,1038) scale(1.0)">RUNR Runic
+  <a href="https://en.wikipedia.org/wiki/Runes" target="_blank"><rect class="rectalph" x="3475" y="1056" width="1050" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3485,1072) scale(1.0)">RUNR Runic
     <tspan>&#x16a0;&#x16a1;&#x16a2;&#x16a3;&#x16a4;&#x16a5;&#x16a6;&#x16a7;&#x16a8;&#x16a9;&#x16aa;&#x16ab;&#x16ac;&#x16ad;&#x16ae;&#x16af;&#x16b0;&#x16b1;&#x16b2;&#x16b3;&#x16b4;&#x16b5;&#x16b6;&#x16b7;&#x16b8;&#x16b9;&#x16ba;&#x16bb;&#x16bc;&#x16bd;&#x16be;&#x16bf;&#x16c0;&#x16c1;&#x16c2;&#x16c3;&#x16c4;&#x16c5;&#x16c6;&#x16c7;&#x16c8;&#x16c9;&#x16ca;&#x16cb;&#x16cc;&#x16cd;&#x16ce;&#x16cf;&#x16d0;&#x16d1;&#x16d2;&#x16d3;&#x16d4;&#x16d5;&#x16d6;&#x16d7;&#x16d8;&#x16d9;&#x16da;&#x16db;&#x16dc;&#x16dd;&#x16de;&#x16df;&#x16e0;&#x16e1;&#x16e2;&#x16e3;&#x16e4;&#x16e5;&#x16e6;&#x16e7;&#x16e8;&#x16e9;&#x16ea;</tspan>
   </text>
-  <path class="linec" d="M 2682,847 V 1062.5 C 2682,1070.5 2682,1070.5 2690,1070.5 H 3475" />
+  <path class="linec" d="M 2682,881 V 1096.5 C 2682,1104.5 2682,1104.5 2690,1104.5 H 3475" />
   <!-- ELDF -->
-  <a href="https://en.wikipedia.org/wiki/Elder_Futhark" target="_blank"><rect class="rectalph" x="3475" y="1056" width="700" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3485,1072) scale(1.0)">ELDF Elder Futhark
+  <a href="https://en.wikipedia.org/wiki/Elder_Futhark" target="_blank"><rect class="rectalph" x="3475" y="1090" width="700" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3485,1106) scale(1.0)">ELDF Elder Futhark
     <tspan>&#x16a0; &#x16a2; &#x16a6; &#x16a8; &#x16b1; &#x16b2; &#x16b7; &#x16b9; &#x16ba; &#x16be; &#x16c1; &#x16c3; &#x16c8; &#x16c7; &#x16c9; &#x16ca; &#x16cf; &#x16d2; &#x16d6; &#x16d7; &#x16da; &#x16dc; &#x16de; &#x16df;</tspan>
   </text>
-  <path class="linec" d="M 3482,1085 V 1096.5 C 3482,1104.5 3482,1104.5 3490,1104.5 H 3875" />
+  <path class="linec" d="M 3482,1119 V 1130.5 C 3482,1138.5 3482,1138.5 3490,1138.5 H 3875" />
   <!-- ANGS -->
-  <a href="https://en.wikipedia.org/wiki/Anglo-Saxon_runes" target="_blank"><rect class="rectalph" x="3875" y="1090" width="600" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3885,1106) scale(1.0)">ANGS Anglo-Saxon runes
+  <a href="https://en.wikipedia.org/wiki/Anglo-Saxon_runes" target="_blank"><rect class="rectalph" x="3875" y="1124" width="600" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3885,1140) scale(1.0)">ANGS Anglo-Saxon runes
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3482,1085 V 1130.5 C 3482,1138.5 3482,1138.5 3490,1138.5 H 4175" />
+  <path class="linec" d="M 3482,1119 V 1164.5 C 3482,1172.5 3482,1172.5 3490,1172.5 H 4175" />
   <!-- YNGF -->
-  <a href="https://en.wikipedia.org/wiki/Younger_Futhark" target="_blank"><rect class="rectalph" x="4175" y="1124" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4185,1140) scale(1.0)">YNGF Younger Futhark
+  <a href="https://en.wikipedia.org/wiki/Younger_Futhark" target="_blank"><rect class="rectalph" x="4175" y="1158" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4185,1174) scale(1.0)">YNGF Younger Futhark
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4182,1153 V 1164.5 C 4182,1172.5 4182,1172.5 4190,1172.5 H 4575" />
+  <path class="linec" d="M 4182,1187 V 1198.5 C 4182,1206.5 4182,1206.5 4190,1206.5 H 4575" />
   <!-- MEDR -->
-  <a href="https://en.wikipedia.org/wiki/Medieval_runes" target="_blank"><rect class="rectalph" x="4575" y="1158" width="500" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4585,1174) scale(1.0)" textLength="162px">MEDR Medieval runes</text>
-  <image x="4752" y="1160" height="17" href="medr.svg" />
-  <path class="linec" d="M 4582,1187 V 1198.5 C 4582,1206.5 4582,1206.5 4590,1206.5 H 4975" />
+  <a href="https://en.wikipedia.org/wiki/Medieval_runes" target="_blank"><rect class="rectalph" x="4575" y="1192" width="500" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4585,1208) scale(1.0)" textLength="162px">MEDR Medieval runes</text>
+  <image x="4752" y="1194" height="17" href="medr.svg" />
+  <path class="linec" d="M 4582,1221 V 1232.5 C 4582,1240.5 4582,1240.5 4590,1240.5 H 4975" />
   <!-- DALE -->
-  <a href="https://en.wikipedia.org/wiki/Dalecarlian_runes" target="_blank"><rect class="rectalph" x="4975" y="1192" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4985,1208) scale(1.0)" textLength="186px">DALE Dalecarlian runes</text>
-  <image x="5176" y="1194" height="17" href="dale.svg" />
-  <path class="linec" d="M 2632,813 V 1232.5 C 2632,1240.5 2632,1240.5 2640,1240.5 H 2675" />
+  <a href="https://en.wikipedia.org/wiki/Dalecarlian_runes" target="_blank"><rect class="rectalph" x="4975" y="1226" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4985,1242) scale(1.0)" textLength="186px">DALE Dalecarlian runes</text>
+  <image x="5176" y="1228" height="17" href="dale.svg" />
+  <path class="linec" d="M 2632,847 V 1266.5 C 2632,1274.5 2632,1274.5 2640,1274.5 H 2675" />
   <!-- ANAA -->
-  <a href="https://en.wikipedia.org/wiki/Alphabets_of_Anatolia" target="_blank"><rect class="rectalph" x="2675" y="1226" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2685,1242) scale(1.0)">ANAA Anatolian
+  <a href="https://en.wikipedia.org/wiki/Alphabets_of_Anatolia" target="_blank"><rect class="rectalph" x="2675" y="1260" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2685,1276) scale(1.0)">ANAA Anatolian
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2682,1255 V 1266.5 C 2682,1274.5 2682,1274.5 2690,1274.5 H 2725" />
+  <path class="linec" d="M 2682,1289 V 1300.5 C 2682,1308.5 2682,1308.5 2690,1308.5 H 2725" />
   <!-- LYDI -->
-  <a href="https://en.wikipedia.org/wiki/Lydian_alphabet" target="_blank"><rect class="rectalph" x="2725" y="1260" width="500" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2735,1276) scale(1.0)">LYDI Lydian
+  <a href="https://en.wikipedia.org/wiki/Lydian_alphabet" target="_blank"><rect class="rectalph" x="2725" y="1294" width="500" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2735,1310) scale(1.0)">LYDI Lydian
     <tspan>&#x10939;&#x10938;&#x10937;&#x10936;&#x10935;&#x10934;&#x10933;&#x10932;&#x10931;&#x10930;&#x1092f;&#x1092e;&#x1092d;&#x1092c;&#x1092b;&#x1092a;&#x10929;&#x10928;&#x10927;&#x10926;&#x10925;&#x10924;&#x10923;&#x10922;&#x10921;&#x10920;</tspan>
   </text>
-  <path class="linec" d="M 2632,813 V 1300.5 C 2632,1308.5 2632,1308.5 2640,1308.5 H 2675" />
+  <path class="linec" d="M 2632,847 V 1334.5 C 2632,1342.5 2632,1342.5 2640,1342.5 H 2675" />
   <!-- PHRY -->
-  <a href="https://en.wikipedia.org/wiki/Phrygian_alphabet" target="_blank"><rect class="rectalph" x="2675" y="1294" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2685,1310) scale(1.0)">PHRY Phrygian alphabet
+  <a href="https://en.wikipedia.org/wiki/Phrygian_alphabet" target="_blank"><rect class="rectalph" x="2675" y="1328" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2685,1344) scale(1.0)">PHRY Phrygian alphabet
     <tspan>&#x10939;&#x10938;&#x10937;&#x10936;&#x10935;&#x10934;&#x10933;&#x10932;&#x10931;&#x10930;&#x1092f;&#x1092e;&#x1092d;&#x1092c;&#x1092b;&#x1092a;&#x10929;&#x10928;&#x10927;&#x10926;&#x10925;&#x10924;&#x10923;&#x10922;&#x10921;&#x10920;</tspan>
   </text>
-  <path class="linec" d="M 2632,813 V 1334.5 C 2632,1342.5 2632,1342.5 2640,1342.5 H 2725" />
+  <path class="linec" d="M 2632,847 V 1368.5 C 2632,1376.5 2632,1376.5 2640,1376.5 H 2725" />
   <!-- CARI -->
-  <a href="https://en.wikipedia.org/wiki/Carian_alphabets" target="_blank"><rect class="rectalph" x="2725" y="1328" width="500" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2735,1344) scale(1.0)">CARI Carian
+  <a href="https://en.wikipedia.org/wiki/Carian_alphabets" target="_blank"><rect class="rectalph" x="2725" y="1362" width="500" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2735,1378) scale(1.0)">CARI Carian
     <tspan>&#x102a0;&#x102a1;&#x102a2;&#x102a3;&#x102a4;&#x102a5;&#x102a6;&#x102a7;&#x102a8;&#x102a9;&#x102aa;&#x102ab;&#x102ac;&#x102ad;&#x102ae;&#x102af;&#x102b0;&#x102b1;&#x102b2;&#x102b3;&#x102b4;&#x102b5;&#x102b6;&#x102b7;&#x102b8;&#x102b9;&#x102ba;&#x102bb;&#x102bc;&#x102bd;&#x102be;&#x102bf;&#x102c0;&#x102c1;&#x102c2;&#x102c3;&#x102c4;&#x102c5;&#x102c6;&#x102c7;&#x102c8;&#x102c9;&#x102ca;&#x102cb;&#x102cc;&#x102cd;&#x102ce;&#x102cf;&#x102d0;</tspan>
   </text>
-  <path class="linec" d="M 2632,813 V 1368.5 C 2632,1376.5 2632,1376.5 2640,1376.5 H 2925" />
+  <path class="linec" d="M 2632,847 V 1402.5 C 2632,1410.5 2632,1410.5 2640,1410.5 H 2925" />
   <!-- LYCI -->
-  <a href="https://en.wikipedia.org/wiki/Lycian_alphabet" target="_blank"><rect class="rectalph" x="2925" y="1362" width="170" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2935,1378) scale(1.0)">LYCI Lycian
+  <a href="https://en.wikipedia.org/wiki/Lycian_alphabet" target="_blank"><rect class="rectalph" x="2925" y="1396" width="170" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2935,1412) scale(1.0)">LYCI Lycian
     <tspan>&#x10280;&#x10281;&#x10282;&#x10283;&#x10284;&#x10285;&#x10286;&#x10287;&#x10288;&#x10289;&#x1028a;&#x1028b;&#x1028c;&#x1028d;&#x1028e;&#x1028f;&#x10290;&#x10291;&#x10292;&#x10293;&#x10294;&#x10295;&#x10296;&#x10297;&#x10298;&#x10299;&#x1029a;&#x1029b;&#x1029c;</tspan>
   </text>
-  <path class="linec" d="M 2632,813 V 1402.5 C 2632,1410.5 2632,1410.5 2640,1410.5 H 2975" />
+  <path class="linec" d="M 2632,847 V 1436.5 C 2632,1444.5 2632,1444.5 2640,1444.5 H 2975" />
   <!-- SIDE -->
-  <a href="https://en.wikipedia.org/wiki/Sidetic_language#The_Sidetic_script" target="_blank"><rect class="rectalph" x="2975" y="1396" width="250" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2985,1412) scale(1.0)" textLength="106px">SIDE Sidetic</text>
-  <image x="3096" y="1398" height="17" href="side.svg" />
-  <path class="linec" d="M 2632,813 V 1436.5 C 2632,1444.5 2632,1444.5 2640,1444.5 H 3775" />
+  <a href="https://en.wikipedia.org/wiki/Sidetic_language#The_Sidetic_script" target="_blank"><rect class="rectalph" x="2975" y="1430" width="250" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2985,1446) scale(1.0)" textLength="106px">SIDE Sidetic</text>
+  <image x="3096" y="1432" height="17" href="side.svg" />
+  <path class="linec" d="M 2632,847 V 1470.5 C 2632,1478.5 2632,1478.5 2640,1478.5 H 3775" />
   <!-- GOTH -->
-  <a href="https://en.wikipedia.org/wiki/Gothic_alphabet" target="_blank"><rect class="rectalph" x="3775" y="1430" width="250" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3785,1446) scale(1.0)">GOTH Gothic alphabet
+  <a href="https://en.wikipedia.org/wiki/Gothic_alphabet" target="_blank"><rect class="rectalph" x="3775" y="1464" width="250" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3785,1480) scale(1.0)">GOTH Gothic alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,813 V 1470.5 C 2632,1478.5 2632,1478.5 2640,1478.5 H 3830" />
+  <path class="linec" d="M 2632,847 V 1504.5 C 2632,1512.5 2632,1512.5 2640,1512.5 H 3830" />
   <!-- ARMN -->
-  <a href="https://en.wikipedia.org/wiki/Armenian_script" target="_blank"><rect class="rectalph" x="3830" y="1464" width="1620" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3840,1480) scale(1.0)">ARMN Armenian
+  <a href="https://en.wikipedia.org/wiki/Armenian_script" target="_blank"><rect class="rectalph" x="3830" y="1498" width="1620" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3840,1514) scale(1.0)">ARMN Armenian
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,813 V 1504.5 C 2632,1512.5 2632,1512.5 2640,1512.5 H 3855" />
+  <path class="linec" d="M 2632,847 V 1538.5 C 2632,1546.5 2632,1546.5 2640,1546.5 H 3855" />
   <!-- GEOR -->
-  <a href="https://en.wikipedia.org/wiki/Georgian_script" target="_blank"><rect class="rectalph" x="3855" y="1498" width="1595" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3865,1514) scale(1.0)">GEOR Georgian
-    <tspan></tspan>
-  </text>
-  <path class="linec" d="M 2632,813 V 1538.5 C 2632,1546.5 2632,1546.5 2640,1546.5 H 3855" />
-  <!-- GEOK -->
   <a href="https://en.wikipedia.org/wiki/Georgian_script" target="_blank"><rect class="rectalph" x="3855" y="1532" width="1595" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3865,1548) scale(1.0)">GEOK Georgian Khutsuri
+  <text class="langtextb" transform="translate(3865,1548) scale(1.0)">GEOR Georgian
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,813 V 1572.5 C 2632,1580.5 2632,1580.5 2640,1580.5 H 4287" />
+  <path class="linec" d="M 2632,847 V 1572.5 C 2632,1580.5 2632,1580.5 2640,1580.5 H 3855" />
+  <!-- GEOK -->
+  <a href="https://en.wikipedia.org/wiki/Georgian_script" target="_blank"><rect class="rectalph" x="3855" y="1566" width="1595" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3865,1582) scale(1.0)">GEOK Georgian Khutsuri
+    <tspan></tspan>
+  </text>
+  <path class="linec" d="M 2632,847 V 1606.5 C 2632,1614.5 2632,1614.5 2640,1614.5 H 4287" />
   <!-- GLAG -->
-  <a href="https://en.wikipedia.org/wiki/Glagolitic_script" target="_blank"><rect class="rectalph" x="4287" y="1566" width="538" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4297,1582) scale(1.0)">GLAG Glagolitic script
+  <a href="https://en.wikipedia.org/wiki/Glagolitic_script" target="_blank"><rect class="rectalph" x="4287" y="1600" width="538" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4297,1616) scale(1.0)">GLAG Glagolitic script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,813 V 1606.5 C 2632,1614.5 2632,1614.5 2640,1614.5 H 4318" />
+  <path class="linec" d="M 2632,847 V 1640.5 C 2632,1648.5 2632,1648.5 2640,1648.5 H 4318" />
   <!-- CYRS -->
-  <a href="https://en.wikipedia.org/wiki/Early_Cyrillic_script" target="_blank"><rect class="rectalph" x="4318" y="1600" width="1132" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4328,1616) scale(1.0)">CYRS Early Cyrillic
+  <a href="https://en.wikipedia.org/wiki/Early_Cyrillic_script" target="_blank"><rect class="rectalph" x="4318" y="1634" width="1132" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4328,1650) scale(1.0)">CYRS Early Cyrillic
     <tspan>&#x410; &#x411; &#x412; &#x413; &#x414; &#x404; &#x416; &#x405; &#x417; &#x418; &#x406; &#xa648; &#x41a; &#x41b; &#x41c; &#x41d; &#x41e; &#x41f; &#x420; &#x421; &#x422; &#xa64a; &#x424; &#x425; &#x460; &#x426; &#x427; &#x428; &#x429; &#x42a; &#x42b; &#x42c; &#x462; &#xa656; &#x464; &#x42e; &#x46a; &#x46c; &#x466; &#x468; &#x46e; &#x470; &#x472; &#x474; &#x480;</tspan>
   </text>
-  <path class="linec" d="M 4325,1629 V 1640.5 C 4325,1648.5 4325,1648.5 4333,1648.5 H 4345" />
+  <path class="linec" d="M 4325,1663 V 1674.5 C 4325,1682.5 4325,1682.5 4333,1682.5 H 4345" />
   <!-- CYRL -->
-  <a href="https://en.wikipedia.org/wiki/Cyrillic_script" target="_blank"><rect class="rectalph" x="4345" y="1634" width="1105" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4355,1650) scale(1.0)">CYRL Cyrillic
+  <a href="https://en.wikipedia.org/wiki/Cyrillic_script" target="_blank"><rect class="rectalph" x="4345" y="1668" width="1105" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4355,1684) scale(1.0)">CYRL Cyrillic
     <tspan>&#x410;&#x411;&#x412;&#x413;&#x414;&#x415;&#x416;&#x417;&#x418;&#x419;&#x41a;&#x41b;&#x41c;&#x41d;&#x41e;&#x41f;&#x420;&#x421;&#x422;&#x423;&#x424;&#x425;&#x426;&#x427;&#x428;&#x429;&#x42c;&#x42d;&#x42e;&#x42f; &#x430;&#x431;&#x432;&#x433;&#x434;&#x435;&#x436;&#x437;&#x438;&#x439;&#x43a;&#x43b;&#x43c;&#x43d;&#x43e;&#x43f;&#x440;&#x441;&#x442;&#x443;&#x444;&#x445;&#x446;&#x447;&#x448;&#x449;&#x44c;&#x44d;&#x44e;&#x44f;</tspan>
   </text>
-  <path class="linec" d="M 2382,779 V 1674.5 C 2382,1682.5 2382,1682.5 2390,1682.5 H 2625" />
+  <path class="linec" d="M 2382,813 V 1708.5 C 2382,1716.5 2382,1716.5 2390,1716.5 H 2625" />
   <!-- ARMI -->
-  <a href="https://en.wikipedia.org/wiki/Aramaic_alphabet" target="_blank"><rect class="rectabjd" x="2625" y="1668" width="1400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2635,1684) scale(1.0)">ARMI Aramaic
+  <a href="https://en.wikipedia.org/wiki/Aramaic_alphabet" target="_blank"><rect class="rectabjd" x="2625" y="1702" width="1400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2635,1718) scale(1.0)">ARMI Aramaic
     <tspan>&#x10855;&#x10854;&#x10853;&#x10852;&#x10851;&#x10850;&#x1084f;&#x1084e;&#x1084d;&#x1084c;&#x1084b;&#x1084a;&#x10849;&#x10848;&#x10847;&#x10846;&#x10845;&#x10844;&#x10843;&#x10842;&#x10841;&#x10840;</tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 1708.5 C 2632,1716.5 2632,1716.5 2640,1716.5 H 3075" />
+  <path class="linec" d="M 2632,1731 V 1742.5 C 2632,1750.5 2632,1750.5 2640,1750.5 H 3075" />
   <!-- KHAR -->
-  <a href="https://en.wikipedia.org/wiki/Kharosthi" target="_blank"><rect class="rectabug" x="3075" y="1702" width="600" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3085,1718) scale(1.0)">KHAR Kharosthi
+  <a href="https://en.wikipedia.org/wiki/Kharosthi" target="_blank"><rect class="rectabug" x="3075" y="1736" width="600" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3085,1752) scale(1.0)">KHAR Kharosthi
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 1742.5 C 2632,1750.5 2632,1750.5 2640,1750.5 H 3125" />
+  <path class="linec" d="M 2632,1731 V 1776.5 C 2632,1784.5 2632,1784.5 2640,1784.5 H 3125" />
   <!-- BRAH -->
-  <a href="https://en.wikipedia.org/wiki/Brahmi_script" target="_blank"><rect class="rectabug" x="3125" y="1736" width="750" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3135,1752) scale(1.0)">BRAH Brahmi
+  <a href="https://en.wikipedia.org/wiki/Brahmi_script" target="_blank"><rect class="rectabug" x="3125" y="1770" width="750" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3135,1786) scale(1.0)">BRAH Brahmi
     <tspan>&#x11013;&#x11014;&#x11015;&#x11016;&#x11017;&#x11018;&#x11019;&#x1101a;&#x1101b;&#x1101c;&#x1101d;&#x1101e;&#x1101f;&#x11020;&#x11021;&#x11022;&#x11023;&#x11024;&#x11025;&#x11026;&#x11027;&#x11028;&#x11029;&#x1102a;&#x1102b;&#x1102c;&#x1102d;&#x1102e;&#x1102f;&#x11030;&#x11031;&#x11032;&#x11033;&#x11034;&#x11005;&#x11007;&#x11009;&#x1100b;&#x1100d;&#x1100f;&#x11010;&#x11011;&#x11012;</tspan>
   </text>
-  <path class="linec" d="M 3132,1765 V 1776.5 C 3132,1784.5 3132,1784.5 3140,1784.5 H 3175" />
+  <path class="linec" d="M 3132,1799 V 1810.5 C 3132,1818.5 3132,1818.5 3140,1818.5 H 3175" />
   <!-- BHTI -->
-  <a href="https://en.wikipedia.org/wiki/Bhattiprolu_script" target="_blank"><rect class="rectabug" x="3175" y="1770" width="200" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3185,1786) scale(1.0)">BHTI Bhattiprolu
+  <a href="https://en.wikipedia.org/wiki/Bhattiprolu_script" target="_blank"><rect class="rectabug" x="3175" y="1804" width="200" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3185,1820) scale(1.0)">BHTI Bhattiprolu
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3182,1799 V 1810.5 C 3182,1818.5 3182,1818.5 3190,1818.5 H 3625" />
+  <path class="linec" d="M 3182,1833 V 1844.5 C 3182,1852.5 3182,1852.5 3190,1852.5 H 3625" />
   <!-- PYUO -->
-  <a href="https://en.wikipedia.org/wiki/Pyu_script" target="_blank"><rect class="rectabug" x="3625" y="1804" width="1000" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3635,1820) scale(1.0)">PYUO Pyu
+  <a href="https://en.wikipedia.org/wiki/Pyu_script" target="_blank"><rect class="rectabug" x="3625" y="1838" width="1000" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3635,1854) scale(1.0)">PYUO Pyu
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3632,1833 V 1844.5 C 3632,1852.5 3632,1852.5 3640,1852.5 H 4075" />
+  <path class="linec" d="M 3632,1867 V 1878.5 C 3632,1886.5 3632,1886.5 3640,1886.5 H 4075" />
   <!-- MYMR -->
-  <a href="https://en.wikipedia.org/wiki/Burmese_script" target="_blank"><rect class="rectabug" x="4075" y="1838" width="1375" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4085,1854) scale(1.0)">MYMR Mon-Burmese
+  <a href="https://en.wikipedia.org/wiki/Burmese_script" target="_blank"><rect class="rectabug" x="4075" y="1872" width="1375" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4085,1888) scale(1.0)">MYMR Mon-Burmese
     <tspan>&#x1000;&#x1001;&#x1002;&#x1003;&#x1004;&#x1005;&#x1006;&#x1007;&#x1008;&#x1009;&#x100a;&#x100b;&#x100c;&#x100d;&#x100e;&#x100f;&#x1010;&#x1011;&#x1012;&#x1013;&#x1014;&#x1015;&#x1016;&#x1017;&#x1018;&#x1019;&#x101a;&#x101b;&#x101c;&#x101d;&#x101e;&#x101f;&#x1020;</tspan>
   </text>
-  <path class="linec" d="M 4082,1867 V 1878.5 C 4082,1886.5 4082,1886.5 4090,1886.5 H 4175" />
+  <path class="linec" d="M 4082,1901 V 1912.5 C 4082,1920.5 4082,1920.5 4090,1920.5 H 4175" />
   <!-- CAKM -->
-  <a href="https://en.wikipedia.org/wiki/Chakma_script" target="_blank"><rect class="rectabug" x="4175" y="1872" width="1275" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4185,1888) scale(1.0)">CAKM Chakma script
+  <a href="https://en.wikipedia.org/wiki/Chakma_script" target="_blank"><rect class="rectabug" x="4175" y="1906" width="1275" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4185,1922) scale(1.0)">CAKM Chakma script
     <tspan>&#x11107;&#x11108;&#x11109;&#x1110a;&#x1110b;&#x1110c;&#x1110d;&#x1110e;&#x1110f;&#x11110;&#x11111;&#x11112;&#x11113;&#x11114;&#x11115;&#x11116;&#x11117;&#x11118;&#x11119;&#x1111a;&#x1111b;&#x1111c;&#x1111d;&#x1111e;&#x1111f;&#x11120;&#x11121;&#x11122;&#x11123;&#x11124;&#x11125;&#x11126;</tspan>
   </text>
-  <path class="linec" d="M 4082,1867 V 1912.5 C 4082,1920.5 4082,1920.5 4090,1920.5 H 4409" />
+  <path class="linec" d="M 4082,1901 V 1946.5 C 4082,1954.5 4082,1954.5 4090,1954.5 H 4409" />
   <!-- BURM -->
-  <a href="https://en.wikipedia.org/wiki/Burmese_alphabet" target="_blank"><rect class="rectabug" x="4409" y="1906" width="1041" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4419,1922) scale(1.0)">BURM Burmese
+  <a href="https://en.wikipedia.org/wiki/Burmese_alphabet" target="_blank"><rect class="rectabug" x="4409" y="1940" width="1041" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4419,1956) scale(1.0)">BURM Burmese
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,1867 V 1946.5 C 4082,1954.5 4082,1954.5 4090,1954.5 H 4475" />
+  <path class="linec" d="M 4082,1901 V 1980.5 C 4082,1988.5 4082,1988.5 4090,1988.5 H 4475" />
   <!-- MONA -->
-  <a href="https://en.wikipedia.org/wiki/Mon_alphabet" target="_blank"><rect class="rectabug" x="4475" y="1940" width="975" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4485,1956) scale(1.0)">MONA Mon alphabet
+  <a href="https://en.wikipedia.org/wiki/Mon_alphabet" target="_blank"><rect class="rectabug" x="4475" y="1974" width="975" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4485,1990) scale(1.0)">MONA Mon alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,1867 V 1980.5 C 4082,1988.5 4082,1988.5 4090,1988.5 H 4575" />
+  <path class="linec" d="M 4082,1901 V 2014.5 C 4082,2022.5 4082,2022.5 4090,2022.5 H 4575" />
   <!-- LIKT -->
-  <a href="https://en.wikipedia.org/wiki/Khamti_language#Writing_system" target="_blank"><rect class="rectabug" x="4575" y="1974" width="875" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4585,1990) scale(1.0)">LIKT Lik-Tai
+  <a href="https://en.wikipedia.org/wiki/Khamti_language#Writing_system" target="_blank"><rect class="rectabug" x="4575" y="2008" width="875" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4585,2024) scale(1.0)">LIKT Lik-Tai
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4582,2003 V 2014.5 C 4582,2022.5 4582,2022.5 4590,2022.5 H 4625" />
+  <path class="linec" d="M 4582,2037 V 2048.5 C 4582,2056.5 4582,2056.5 4590,2056.5 H 4625" />
   <!-- TALE -->
-  <a href="https://en.wikipedia.org/wiki/Tai_Le_script" target="_blank"><rect class="rectabug" x="4625" y="2008" width="825" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4635,2024) scale(1.0)">TALE Tai Le script
+  <a href="https://en.wikipedia.org/wiki/Tai_Le_script" target="_blank"><rect class="rectabug" x="4625" y="2042" width="825" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4635,2058) scale(1.0)">TALE Tai Le script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4582,2003 V 2048.5 C 4582,2056.5 4582,2056.5 4590,2056.5 H 4675" />
+  <path class="linec" d="M 4582,2037 V 2082.5 C 4582,2090.5 4582,2090.5 4590,2090.5 H 4675" />
   <!-- AHOM -->
-  <a href="https://en.wikipedia.org/wiki/Ahom_script" target="_blank"><rect class="rectabug" x="4675" y="2042" width="600" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4685,2058) scale(1.0)">AHOM Ahom script
+  <a href="https://en.wikipedia.org/wiki/Ahom_script" target="_blank"><rect class="rectabug" x="4675" y="2076" width="600" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4685,2092) scale(1.0)">AHOM Ahom script
     <tspan>&#x11700;&#x11701;&#x11702;&#x11703;&#x11704;&#x11705;&#x11706;&#x11707;&#x11708;&#x11709;&#x1170a;&#x1170b;&#x1170c;&#x1170d;&#x1170e;&#x1170f;&#x11710;&#x11711;&#x11712;&#x11713;&#x11714;&#x11715;&#x11716;&#x11717;&#x11718;&#x11719;</tspan>
   </text>
-  <path class="linec" d="M 4082,1867 V 2082.5 C 4082,2090.5 4082,2090.5 4090,2090.5 H 4725" />
+  <path class="linec" d="M 4082,1901 V 2116.5 C 4082,2124.5 4082,2124.5 4090,2124.5 H 4725" />
   <!-- LANA -->
-  <a href="https://en.wikipedia.org/wiki/Tai_Tham_script" target="_blank"><rect class="rectabug" x="4725" y="2076" width="725" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4735,2092) scale(1.0)">LANA Tai Tham script
+  <a href="https://en.wikipedia.org/wiki/Tai_Tham_script" target="_blank"><rect class="rectabug" x="4725" y="2110" width="725" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4735,2126) scale(1.0)">LANA Tai Tham script
     <tspan>&#x1a20;&#x1a21;&#x1a22;&#x1a23;&#x1a24;&#x1a25;&#x1a26;&#x1a27;&#x1a28;&#x1a29;&#x1a2a;&#x1a2b;&#x1a2c;&#x1a2d;&#x1a2e;&#x1a2f;&#x1a30;&#x1a31;&#x1a32;&#x1a33;&#x1a34;&#x1a35;&#x1a36;&#x1a37;&#x1a38;&#x1a39;&#x1a3a;&#x1a3b;&#x1a3c;&#x1a3d;&#x1a3e;&#x1a3f;&#x1a40;&#x1a41;&#x1a42;&#x1a43;&#x1a44;&#x1a45;&#x1a46;&#x1a47;&#x1a48;&#x1a49;&#x1a4a;&#x1a4b;&#x1a4c;</tspan>
   </text>
-  <path class="linec" d="M 4082,1867 V 2116.5 C 4082,2124.5 4082,2124.5 4090,2124.5 H 4925" />
+  <path class="linec" d="M 4082,1901 V 2150.5 C 4082,2158.5 4082,2158.5 4090,2158.5 H 4925" />
   <!-- SHAN -->
-  <a href="https://en.wikipedia.org/wiki/Shan_alphabet" target="_blank"><rect class="rectabug" x="4925" y="2110" width="525" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4935,2126) scale(1.0)">SHAN Shan alphabet
+  <a href="https://en.wikipedia.org/wiki/Shan_alphabet" target="_blank"><rect class="rectabug" x="4925" y="2144" width="525" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4935,2160) scale(1.0)">SHAN Shan alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,1867 V 2150.5 C 4082,2158.5 4082,2158.5 4090,2158.5 H 5255" />
+  <path class="linec" d="M 4082,1901 V 2184.5 C 4082,2192.5 4082,2192.5 4090,2192.5 H 5255" />
   <!-- SGAW -->
-  <a href="https://en.wikipedia.org/wiki/S%27gaw_Karen_alphabet" target="_blank"><rect class="rectabug" x="5255" y="2144" width="195" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5265,2160) scale(1.0)">SGAW S'gaw Karen alphabet
+  <a href="https://en.wikipedia.org/wiki/S%27gaw_Karen_alphabet" target="_blank"><rect class="rectabug" x="5255" y="2178" width="195" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5265,2194) scale(1.0)">SGAW S'gaw Karen alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3182,1799 V 2184.5 C 3182,2192.5 3182,2192.5 3190,2192.5 H 3875" />
+  <path class="linec" d="M 3182,1833 V 2218.5 C 3182,2226.5 3182,2226.5 3190,2226.5 H 3875" />
   <!-- KADA -->
-  <a href="https://en.wikipedia.org/wiki/Kadamba_script" target="_blank"><rect class="rectabug" x="3875" y="2178" width="250" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3885,2194) scale(1.0)">KADA Kadamba
+  <a href="https://en.wikipedia.org/wiki/Kadamba_script" target="_blank"><rect class="rectabug" x="3875" y="2212" width="250" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3885,2228) scale(1.0)">KADA Kadamba
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3882,2207 V 2218.5 C 3882,2226.5 3882,2226.5 3890,2226.5 H 4125" />
+  <path class="linec" d="M 3882,2241 V 2252.5 C 3882,2260.5 3882,2260.5 3890,2260.5 H 4125" />
   <!-- TEKA -->
-  <a href="https://en.wikipedia.org/wiki/Telugu-Kannada_alphabet" target="_blank"><rect class="rectabug" x="4125" y="2212" width="650" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4135,2228) scale(1.0)">TEKA Telugu-Kannada
+  <a href="https://en.wikipedia.org/wiki/Telugu-Kannada_alphabet" target="_blank"><rect class="rectabug" x="4125" y="2246" width="650" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4135,2262) scale(1.0)">TEKA Telugu-Kannada
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4132,2241 V 2252.5 C 4132,2260.5 4132,2260.5 4140,2260.5 H 4725" />
+  <path class="linec" d="M 4132,2275 V 2286.5 C 4132,2294.5 4132,2294.5 4140,2294.5 H 4725" />
   <!-- TELU -->
-  <a href="https://en.wikipedia.org/wiki/Telugu_script" target="_blank"><rect class="rectabug" x="4725" y="2246" width="725" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4735,2262) scale(1.0)">TELU Telugu
+  <a href="https://en.wikipedia.org/wiki/Telugu_script" target="_blank"><rect class="rectabug" x="4725" y="2280" width="725" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4735,2296) scale(1.0)">TELU Telugu
     <tspan>&#xc15;&#xc16;&#xc17;&#xc18;&#xc19;&#xc1a;&#xc1b;&#xc1c;&#xc1d;&#xc1e;&#xc1f;&#xc20;&#xc21;&#xc22;&#xc23;&#xc24;&#xc25;&#xc26;&#xc27;&#xc28;&#xc2a;&#xc2b;&#xc2c;&#xc2d;&#xc2e;&#xc2f;&#xc30;&#xc31;&#xc32;&#xc33;&#xc34;&#xc35;&#xc36;&#xc37;&#xc38;&#xc39;&#xc05;&#xc06;&#xc07;&#xc08;&#xc09;&#xc0a;&#xc0b;&#xc0c;&#xc0e;&#xc0f;&#xc10;&#xc12;&#xc13;&#xc14;</tspan>
   </text>
-  <path class="linec" d="M 4132,2241 V 2286.5 C 4132,2294.5 4132,2294.5 4140,2294.5 H 4725" />
+  <path class="linec" d="M 4132,2275 V 2320.5 C 4132,2328.5 4132,2328.5 4140,2328.5 H 4725" />
   <!-- KNDA -->
-  <a href="https://en.wikipedia.org/wiki/Kannada_script" target="_blank"><rect class="rectabug" x="4725" y="2280" width="725" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4735,2296) scale(1.0)">KNDA Kannada
+  <a href="https://en.wikipedia.org/wiki/Kannada_script" target="_blank"><rect class="rectabug" x="4725" y="2314" width="725" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4735,2330) scale(1.0)">KNDA Kannada
     <tspan>&#xc95;&#xc96;&#xc97;&#xc98;&#xc99;&#xc9a;&#xc9b;&#xc9c;&#xc9d;&#xc9e;&#xc9f;&#xca0;&#xca1;&#xca2;&#xca3;&#xca4;&#xca5;&#xca6;&#xca7;&#xca8;&#xcaa;&#xcab;&#xcac;&#xcad;&#xcae;&#xcaf;&#xcb0;&#xcb1;&#xcb2;&#xcb3;&#xcb5;&#xcb6;&#xcb7;&#xcb8;&#xcb9;&#xc85;&#xc86;&#xc87;&#xc88;&#xc89;&#xc8a;&#xc8b;&#xc8c;&#xc8e;&#xc8f;&#xc90;&#xc92;&#xc93;&#xc94;</tspan>
   </text>
-  <path class="linec" d="M 3132,1765 V 2320.5 C 3132,2328.5 3132,2328.5 3140,2328.5 H 3175" />
+  <path class="linec" d="M 3132,1799 V 2354.5 C 3132,2362.5 3132,2362.5 3140,2362.5 H 3175" />
   <!-- TABR -->
-  <a href="https://en.wikipedia.org/wiki/Tamil-Brahmi" target="_blank"><rect class="rectabug" x="3175" y="2314" width="750" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3185,2330) scale(1.0)">TABR Tamil Brahmi
+  <a href="https://en.wikipedia.org/wiki/Tamil-Brahmi" target="_blank"><rect class="rectabug" x="3175" y="2348" width="750" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3185,2364) scale(1.0)">TABR Tamil Brahmi
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3182,2343 V 2354.5 C 3182,2362.5 3182,2362.5 3190,2362.5 H 3725" />
+  <path class="linec" d="M 3182,2377 V 2388.5 C 3182,2396.5 3182,2396.5 3190,2396.5 H 3725" />
   <!-- PALL -->
-  <a href="https://en.wikipedia.org/wiki/Pallava_script" target="_blank"><rect class="rectabug" x="3725" y="2348" width="450" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3735,2364) scale(1.0)">PALL Pallava
+  <a href="https://en.wikipedia.org/wiki/Pallava_script" target="_blank"><rect class="rectabug" x="3725" y="2382" width="450" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3735,2398) scale(1.0)">PALL Pallava
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3732,2377 V 2388.5 C 3732,2396.5 3732,2396.5 3740,2396.5 H 3775" />
+  <path class="linec" d="M 3732,2411 V 2422.5 C 3732,2430.5 3732,2430.5 3740,2430.5 H 3775" />
   <!-- CHAM -->
-  <a href="https://en.wikipedia.org/wiki/Cham_script" target="_blank"><rect class="rectabug" x="3775" y="2382" width="1675" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3785,2398) scale(1.0)">CHAM Cham script
+  <a href="https://en.wikipedia.org/wiki/Cham_script" target="_blank"><rect class="rectabug" x="3775" y="2416" width="1675" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3785,2432) scale(1.0)">CHAM Cham script
     <tspan>&#xaa06;&#xaa07;&#xaa08;&#xaa09;&#xaa0a;&#xaa0b;&#xaa0c;&#xaa0d;&#xaa0e;&#xaa0f;&#xaa10;&#xaa11;&#xaa12;&#xaa13;&#xaa14;&#xaa15;&#xaa16;&#xaa17;&#xaa18;&#xaa19;&#xaa1a;&#xaa1b;&#xaa1c;&#xaa1d;&#xaa1e;&#xaa1f;&#xaa20;&#xaa21;&#xaa22;&#xaa23;&#xaa24;&#xaa25;&#xaa26;&#xaa27;&#xaa28;&#xaa00;&#xaa01;&#xaa02;&#xaa03;&#xaa04;&#xaa05;</tspan>
   </text>
-  <path class="linec" d="M 3732,2377 V 2422.5 C 3732,2430.5 3732,2430.5 3740,2430.5 H 3825" />
+  <path class="linec" d="M 3732,2411 V 2456.5 C 3732,2464.5 3732,2464.5 3740,2464.5 H 3825" />
   <!-- TAML -->
-  <a href="https://en.wikipedia.org/wiki/Tamil_script" target="_blank"><rect class="rectabug" x="3825" y="2416" width="1625" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3835,2432) scale(1.0)">TAML Tamil
+  <a href="https://en.wikipedia.org/wiki/Tamil_script" target="_blank"><rect class="rectabug" x="3825" y="2450" width="1625" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3835,2466) scale(1.0)">TAML Tamil
     <tspan>&#xb95;&#xb99;&#xb9a;&#xb9c;&#xb9e;&#xb9f;&#xba3;&#xba4;&#xba8;&#xba9;&#xbaa;&#xbae;&#xbaf;&#xbb0;&#xbb1;&#xbb2;&#xbb3;&#xbb4;&#xbb5;&#xbb6;&#xbb7;&#xbb8;&#xbb9;&#xb85;&#xb86;&#xb87;&#xb88;&#xb89;&#xb8a;&#xb8e;&#xb8f;&#xb90;&#xb92;&#xb93;&#xb94;</tspan>
   </text>
-  <path class="linec" d="M 3732,2377 V 2456.5 C 3732,2464.5 3732,2464.5 3740,2464.5 H 4036" />
+  <path class="linec" d="M 3732,2411 V 2490.5 C 3732,2498.5 3732,2498.5 3740,2498.5 H 4036" />
   <!-- KHMR -->
-  <a href="https://en.wikipedia.org/wiki/Khmer_script" target="_blank"><rect class="rectabug" x="4036" y="2450" width="1414" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4046,2466) scale(1.0)">KHMR Khmer
+  <a href="https://en.wikipedia.org/wiki/Khmer_script" target="_blank"><rect class="rectabug" x="4036" y="2484" width="1414" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4046,2500) scale(1.0)">KHMR Khmer
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4043,2479 V 2490.5 C 4043,2498.5 4043,2498.5 4051,2498.5 H 4708" />
+  <path class="linec" d="M 4043,2513 V 2524.5 C 4043,2532.5 4043,2532.5 4051,2532.5 H 4708" />
   <!-- SUKH -->
-  <a href="https://en.wikipedia.org/wiki/Sukhothai_script" target="_blank"><rect class="rectabug" x="4708" y="2484" width="167" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4718,2500) scale(1.0)">SUKH Sukhothai
+  <a href="https://en.wikipedia.org/wiki/Sukhothai_script" target="_blank"><rect class="rectabug" x="4708" y="2518" width="167" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4718,2534) scale(1.0)">SUKH Sukhothai
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4715,2513 V 2524.5 C 4715,2532.5 4715,2532.5 4723,2532.5 H 4745" />
+  <path class="linec" d="M 4715,2547 V 2558.5 C 4715,2566.5 4715,2566.5 4723,2566.5 H 4745" />
   <!-- THAI -->
-  <a href="https://en.wikipedia.org/wiki/Thai_script" target="_blank"><rect class="rectabug" x="4745" y="2518" width="705" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4755,2534) scale(1.0)">THAI Thai
+  <a href="https://en.wikipedia.org/wiki/Thai_script" target="_blank"><rect class="rectabug" x="4745" y="2552" width="705" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4755,2568) scale(1.0)">THAI Thai
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4715,2513 V 2558.5 C 4715,2566.5 4715,2566.5 4723,2566.5 H 4775" />
+  <path class="linec" d="M 4715,2547 V 2592.5 C 4715,2600.5 4715,2600.5 4723,2600.5 H 4775" />
   <!-- FAKK -->
-  <a href="https://en.wikipedia.org/wiki/Fakkham_script" target="_blank"><rect class="rectabug" x="4775" y="2552" width="250" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4785,2568) scale(1.0)">FAKK Fakkham
+  <a href="https://en.wikipedia.org/wiki/Fakkham_script" target="_blank"><rect class="rectabug" x="4775" y="2586" width="250" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4785,2602) scale(1.0)">FAKK Fakkham
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4782,2581 V 2592.5 C 4782,2600.5 4782,2600.5 4790,2600.5 H 4875" />
+  <path class="linec" d="M 4782,2615 V 2626.5 C 4782,2634.5 4782,2634.5 4790,2634.5 H 4875" />
   <!-- TAIN -->
-  <a href="https://en.wikipedia.org/wiki/Tai_Noi_script" target="_blank"><rect class="rectabug" x="4875" y="2586" width="480" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4885,2602) scale(1.0)">TAIN Tai Noi
+  <a href="https://en.wikipedia.org/wiki/Tai_Noi_script" target="_blank"><rect class="rectabug" x="4875" y="2620" width="480" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4885,2636) scale(1.0)">TAIN Tai Noi
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4882,2615 V 2626.5 C 4882,2634.5 4882,2634.5 4890,2634.5 H 4925" />
+  <path class="linec" d="M 4882,2649 V 2660.5 C 4882,2668.5 4882,2668.5 4890,2668.5 H 4925" />
   <!-- LAOO -->
-  <a href="https://en.wikipedia.org/wiki/Lao_script" target="_blank"><rect class="rectabug" x="4925" y="2620" width="525" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4935,2636) scale(1.0)">LAOO Lao
+  <a href="https://en.wikipedia.org/wiki/Lao_script" target="_blank"><rect class="rectabug" x="4925" y="2654" width="525" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4935,2670) scale(1.0)">LAOO Lao
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3732,2377 V 2660.5 C 3732,2668.5 3732,2668.5 3740,2668.5 H 4075" />
+  <path class="linec" d="M 3732,2411 V 2694.5 C 3732,2702.5 3732,2702.5 3740,2702.5 H 4075" />
   <!-- GRAN -->
-  <a href="https://en.wikipedia.org/wiki/Grantha_script" target="_blank"><rect class="rectabug" x="4075" y="2654" width="1375" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4085,2670) scale(1.0)">GRAN Grantha
+  <a href="https://en.wikipedia.org/wiki/Grantha_script" target="_blank"><rect class="rectabug" x="4075" y="2688" width="1375" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4085,2704) scale(1.0)">GRAN Grantha
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,2683 V 2694.5 C 4082,2702.5 4082,2702.5 4090,2702.5 H 4125" />
+  <path class="linec" d="M 4082,2717 V 2728.5 C 4082,2736.5 4082,2736.5 4090,2736.5 H 4125" />
   <!-- DIAK -->
-  <a href="https://en.wikipedia.org/wiki/Dhives_Akuru" target="_blank"><rect class="rectabug" x="4125" y="2688" width="1175" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4135,2704) scale(1.0)">DIAK Dhives Akuru
+  <a href="https://en.wikipedia.org/wiki/Dhives_Akuru" target="_blank"><rect class="rectabug" x="4125" y="2722" width="1175" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4135,2738) scale(1.0)">DIAK Dhives Akuru
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,2683 V 2728.5 C 4082,2736.5 4082,2736.5 4090,2736.5 H 4255" />
+  <path class="linec" d="M 4082,2717 V 2762.5 C 4082,2770.5 4082,2770.5 4090,2770.5 H 4255" />
   <!-- MLYM -->
-  <a href="https://en.wikipedia.org/wiki/Malayalam_script" target="_blank"><rect class="rectabug" x="4255" y="2722" width="1195" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4265,2738) scale(1.0)">MLYM Malayalam
+  <a href="https://en.wikipedia.org/wiki/Malayalam_script" target="_blank"><rect class="rectabug" x="4255" y="2756" width="1195" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4265,2772) scale(1.0)">MLYM Malayalam
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,2683 V 2762.5 C 4082,2770.5 4082,2770.5 4090,2770.5 H 4275" />
+  <path class="linec" d="M 4082,2717 V 2796.5 C 4082,2804.5 4082,2804.5 4090,2804.5 H 4275" />
   <!-- TIGA -->
-  <a href="https://en.wikipedia.org/wiki/Tigalari_script" target="_blank"><rect class="rectabug" x="4275" y="2756" width="1175" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4285,2772) scale(1.0)">TIGA Tigalari script
+  <a href="https://en.wikipedia.org/wiki/Tigalari_script" target="_blank"><rect class="rectabug" x="4275" y="2790" width="1175" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4285,2806) scale(1.0)">TIGA Tigalari script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,2683 V 2796.5 C 4082,2804.5 4082,2804.5 4090,2804.5 H 5275" />
+  <path class="linec" d="M 4082,2717 V 2830.5 C 4082,2838.5 4082,2838.5 4090,2838.5 H 5275" />
   <!-- SAUR -->
-  <a href="https://en.wikipedia.org/wiki/Saurashtra_script" target="_blank"><rect class="rectabug" x="5275" y="2790" width="175" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5285,2806) scale(1.0)">SAUR Saurashtra
+  <a href="https://en.wikipedia.org/wiki/Saurashtra_script" target="_blank"><rect class="rectabug" x="5275" y="2824" width="175" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5285,2840) scale(1.0)">SAUR Saurashtra
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3732,2377 V 2830.5 C 3732,2838.5 3732,2838.5 3740,2838.5 H 4175" />
+  <path class="linec" d="M 3732,2411 V 2864.5 C 3732,2872.5 3732,2872.5 3740,2872.5 H 4175" />
   <!-- KAWI -->
-  <a href="https://en.wikipedia.org/wiki/Kawi_script" target="_blank"><rect class="rectabug" x="4175" y="2824" width="800" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4185,2840) scale(1.0)">KAWI Kawi script
+  <a href="https://en.wikipedia.org/wiki/Kawi_script" target="_blank"><rect class="rectabug" x="4175" y="2858" width="800" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4185,2874) scale(1.0)">KAWI Kawi script
     <tspan>&#x11f12;&#x11f13;&#x11f14;&#x11f15;&#x11f16;&#x11f17;&#x11f18;&#x11f19;&#x11f1a;&#x11f1b;&#x11f1c;&#x11f1d;&#x11f1e;&#x11f1f;&#x11f20;&#x11f21;&#x11f22;&#x11f23;&#x11f24;&#x11f25;&#x11f26;&#x11f27;&#x11f28;&#x11f29;&#x11f2a;&#x11f2b;&#x11f2c;&#x11f2d;&#x11f2e;&#x11f2f;&#x11f30;&#x11f31;&#x11f32;&#x11f33;&#x11f04;&#x11f05;&#x11f06;&#x11f07;&#x11f08;&#x11f09;&#x11f0a;&#x11f0b;&#x11f0c;&#x11f0d;&#x11f0e;&#x11f0f;&#x11f10;</tspan>
   </text>
-  <path class="linec" d="M 4182,2853 V 2864.5 C 4182,2872.5 4182,2872.5 4190,2872.5 H 4425" />
+  <path class="linec" d="M 4182,2887 V 2898.5 C 4182,2906.5 4182,2906.5 4190,2906.5 H 4425" />
   <!-- BALI -->
-  <a href="https://en.wikipedia.org/wiki/Balinese_script" target="_blank"><rect class="rectabug" x="4425" y="2858" width="1025" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4435,2874) scale(1.0)">BALI Balinese script
+  <a href="https://en.wikipedia.org/wiki/Balinese_script" target="_blank"><rect class="rectabug" x="4425" y="2892" width="1025" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4435,2908) scale(1.0)">BALI Balinese script
     <tspan>&#x1b13;&#x1b14;&#x1b15;&#x1b16;&#x1b17;&#x1b18;&#x1b19;&#x1b1a;&#x1b1b;&#x1b1c;&#x1b1d;&#x1b1e;&#x1b1f;&#x1b20;&#x1b21;&#x1b22;&#x1b23;&#x1b24;&#x1b25;&#x1b26;&#x1b27;&#x1b28;&#x1b29;&#x1b2a;&#x1b2b;&#x1b2c;&#x1b2d;&#x1b2e;&#x1b2f;&#x1b30;&#x1b31;&#x1b32;&#x1b33;&#x1b05;&#x1b06;&#x1b07;&#x1b08;&#x1b09;&#x1b0a;&#x1b0b;&#x1b0c;&#x1b0d;&#x1b0e;&#x1b0f;&#x1b10;&#x1b11;&#x1b12;</tspan>
   </text>
-  <path class="linec" d="M 4182,2853 V 2898.5 C 4182,2906.5 4182,2906.5 4190,2906.5 H 4725" />
+  <path class="linec" d="M 4182,2887 V 2932.5 C 4182,2940.5 4182,2940.5 4190,2940.5 H 4725" />
   <!-- BATK -->
-  <a href="https://en.wikipedia.org/wiki/Batak_script" target="_blank"><rect class="rectabug" x="4725" y="2892" width="725" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4735,2908) scale(1.0)">BATK Batak script
+  <a href="https://en.wikipedia.org/wiki/Batak_script" target="_blank"><rect class="rectabug" x="4725" y="2926" width="725" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4735,2942) scale(1.0)">BATK Batak script
     <tspan>&#x1bc0;&#x1bc1;&#x1bc2;&#x1bc3;&#x1bc4;&#x1bc5;&#x1bc6;&#x1bc7;&#x1bc8;&#x1bc9;&#x1bca;&#x1bcb;&#x1bcc;&#x1bcd;&#x1bce;&#x1bcf;&#x1bd0;&#x1bd1;&#x1bd2;&#x1bd3;&#x1bd4;&#x1bd5;&#x1bd6;&#x1bd7;&#x1bd8;&#x1bd9;&#x1bda;&#x1bdb;&#x1bdc;&#x1bdd;&#x1bde;&#x1bdf;&#x1be0;&#x1be1;&#x1be2;&#x1be3;&#x1be4;&#x1be5;</tspan>
   </text>
-  <path class="linec" d="M 4182,2853 V 2932.5 C 4182,2940.5 4182,2940.5 4190,2940.5 H 4775" />
+  <path class="linec" d="M 4182,2887 V 2966.5 C 4182,2974.5 4182,2974.5 4190,2974.5 H 4775" />
   <!-- SUND -->
-  <a href="https://en.wikipedia.org/wiki/Old_Sundanese_script" target="_blank"><rect class="rectabug" x="4775" y="2926" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4785,2942) scale(1.0)">SUND Old Sundanese script
+  <a href="https://en.wikipedia.org/wiki/Old_Sundanese_script" target="_blank"><rect class="rectabug" x="4775" y="2960" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4785,2976) scale(1.0)">SUND Old Sundanese script
     <tspan>&#x1b8a;&#x1b8b;&#x1b8c;&#x1b8d;&#x1b8e;&#x1b8f;&#x1b90;&#x1b91;&#x1b92;&#x1b93;&#x1b94;&#x1b95;&#x1b96;&#x1b97;&#x1b98;&#x1b99;&#x1b9a;&#x1b9b;&#x1b9c;&#x1b9d;&#x1b9e;&#x1b9f;&#x1ba0;&#x1b83;&#x1b84;&#x1b85;&#x1b86;&#x1b87;&#x1b88;&#x1b89;</tspan>
   </text>
-  <path class="linec" d="M 4182,2853 V 2966.5 C 4182,2974.5 4182,2974.5 4190,2974.5 H 4875" />
+  <path class="linec" d="M 4182,2887 V 3000.5 C 4182,3008.5 4182,3008.5 4190,3008.5 H 4875" />
   <!-- JAVA -->
-  <a href="https://en.wikipedia.org/wiki/Javanese_script" target="_blank"><rect class="rectabug" x="4875" y="2960" width="575" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4885,2976) scale(1.0)">JAVA Javanese script
+  <a href="https://en.wikipedia.org/wiki/Javanese_script" target="_blank"><rect class="rectabug" x="4875" y="2994" width="575" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4885,3010) scale(1.0)">JAVA Javanese script
     <tspan>&#xa984;&#xa985;&#xa986;&#xa987;&#xa988;&#xa989;&#xa98a;&#xa98b;&#xa98c;&#xa98d;&#xa98e;&#xa98f;&#xa990;&#xa991;&#xa992;&#xa993;&#xa994;&#xa995;&#xa996;&#xa997;&#xa998;&#xa999;&#xa99a;&#xa99b;&#xa99c;&#xa99d;&#xa99e;&#xa99f;&#xa9a0;&#xa9a1;&#xa9a2;&#xa9a3;&#xa9a4;&#xa9a5;&#xa9a6;&#xa9a7;&#xa9a8;&#xa9a9;&#xa9aa;&#xa9ab;&#xa9ac;&#xa9ad;&#xa9ae;&#xa9af;&#xa9b0;&#xa9b1;&#xa9b2;</tspan>
   </text>
-  <path class="linec" d="M 4182,2853 V 3000.5 C 4182,3008.5 4182,3008.5 4190,3008.5 H 4975" />
+  <path class="linec" d="M 4182,2887 V 3034.5 C 4182,3042.5 4182,3042.5 4190,3042.5 H 4975" />
   <!-- BUGI -->
-  <a href="https://en.wikipedia.org/wiki/Lontara_script" target="_blank"><rect class="rectabug" x="4975" y="2994" width="475" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4985,3010) scale(1.0)">BUGI Lontara script
+  <a href="https://en.wikipedia.org/wiki/Lontara_script" target="_blank"><rect class="rectabug" x="4975" y="3028" width="475" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4985,3044) scale(1.0)">BUGI Lontara script
     <tspan>&#x1a00;&#x1a01;&#x1a02;&#x1a03;&#x1a04;&#x1a05;&#x1a06;&#x1a07;&#x1a08;&#x1a09;&#x1a0a;&#x1a0b;&#x1a0c;&#x1a0d;&#x1a0e;&#x1a0f;&#x1a10;&#x1a11;&#x1a12;&#x1a13;&#x1a14;&#x1a15;&#x1a16;</tspan>
   </text>
-  <path class="linec" d="M 4182,2853 V 3034.5 C 4182,3042.5 4182,3042.5 4190,3042.5 H 5075" />
+  <path class="linec" d="M 4182,2887 V 3068.5 C 4182,3076.5 4182,3076.5 4190,3076.5 H 5075" />
   <!-- MAKA -->
-  <a href="https://en.wikipedia.org/wiki/Makasar_script" target="_blank"><rect class="rectabug" x="5075" y="3028" width="200" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5085,3044) scale(1.0)">MAKA Makasar script
+  <a href="https://en.wikipedia.org/wiki/Makasar_script" target="_blank"><rect class="rectabug" x="5075" y="3062" width="200" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5085,3078) scale(1.0)">MAKA Makasar script
     <tspan>&#x11ee0;&#x11ee1;&#x11ee2;&#x11ee3;&#x11ee4;&#x11ee5;&#x11ee6;&#x11ee7;&#x11ee8;&#x11ee9;&#x11eea;&#x11eeb;&#x11eec;&#x11eed;&#x11eee;&#x11eef;&#x11ef0;&#x11ef1;&#x11ef2;</tspan>
   </text>
-  <path class="linec" d="M 3182,2343 V 3068.5 C 3182,3076.5 3182,3076.5 3190,3076.5 H 3825" />
+  <path class="linec" d="M 3182,2377 V 3102.5 C 3182,3110.5 3182,3110.5 3190,3110.5 H 3825" />
   <!-- VATT -->
-  <a href="https://en.wikipedia.org/wiki/Vatteluttu" target="_blank"><rect class="rectabug" x="3825" y="3062" width="350" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3835,3078) scale(1.0)">VATT Vatteluttu
+  <a href="https://en.wikipedia.org/wiki/Vatteluttu" target="_blank"><rect class="rectabug" x="3825" y="3096" width="350" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3835,3112) scale(1.0)">VATT Vatteluttu
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3832,3091 V 3102.5 C 3832,3110.5 3832,3110.5 3840,3110.5 H 4625" />
+  <path class="linec" d="M 3832,3125 V 3136.5 C 3832,3144.5 3832,3144.5 3840,3144.5 H 4625" />
   <!-- KOLE -->
-  <a href="https://en.wikipedia.org/wiki/Kolezhuthu" target="_blank"><rect class="rectabug" x="4625" y="3096" width="550" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4635,3112) scale(1.0)">KOLE Kolezhuthu
+  <a href="https://en.wikipedia.org/wiki/Kolezhuthu" target="_blank"><rect class="rectabug" x="4625" y="3130" width="550" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4635,3146) scale(1.0)">KOLE Kolezhuthu
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3132,1765 V 3136.5 C 3132,3144.5 3132,3144.5 3140,3144.5 H 3725" />
+  <path class="linec" d="M 3132,1799 V 3170.5 C 3132,3178.5 3132,3178.5 3140,3178.5 H 3725" />
   <!-- SINH -->
-  <a href="https://en.wikipedia.org/wiki/Sinhala_alphabet" target="_blank"><rect class="rectabug" x="3725" y="3130" width="1725" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3735,3146) scale(1.0)">SINH Sinhala
+  <a href="https://en.wikipedia.org/wiki/Sinhala_alphabet" target="_blank"><rect class="rectabug" x="3725" y="3164" width="1725" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3735,3180) scale(1.0)">SINH Sinhala
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3132,1765 V 3170.5 C 3132,3178.5 3132,3178.5 3140,3178.5 H 3775" />
+  <path class="linec" d="M 3132,1799 V 3204.5 C 3132,3212.5 3132,3212.5 3140,3212.5 H 3775" />
   <!-- GUPT -->
-  <a href="https://en.wikipedia.org/wiki/Gupta_script" target="_blank"><rect class="rectabug" x="3775" y="3164" width="200" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3785,3180) scale(1.0)">GUPT Guptai
+  <a href="https://en.wikipedia.org/wiki/Gupta_script" target="_blank"><rect class="rectabug" x="3775" y="3198" width="200" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3785,3214) scale(1.0)">GUPT Guptai
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3782,3193 V 3204.5 C 3782,3212.5 3782,3212.5 3790,3212.5 H 3975" />
+  <path class="linec" d="M 3782,3227 V 3238.5 C 3782,3246.5 3782,3246.5 3790,3246.5 H 3975" />
   <!-- KALI -->
-  <a href="https://en.wikipedia.org/wiki/Kalinga_script" target="_blank"><rect class="rectabug" x="3975" y="3198" width="550" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3985,3214) scale(1.0)">KALI Kalinga
+  <a href="https://en.wikipedia.org/wiki/Kalinga_script" target="_blank"><rect class="rectabug" x="3975" y="3232" width="550" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3985,3248) scale(1.0)">KALI Kalinga
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3782,3193 V 3238.5 C 3782,3246.5 3782,3246.5 3790,3246.5 H 4025" />
+  <path class="linec" d="M 3782,3227 V 3272.5 C 3782,3280.5 3782,3280.5 3790,3280.5 H 4025" />
   <!-- SIDD -->
-  <a href="https://en.wikipedia.org/wiki/Siddha%E1%B9%83_script" target="_blank"><rect class="rectabug" x="4025" y="3232" width="600" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4035,3248) scale(1.0)">SIDD Siddhaṃ
+  <a href="https://en.wikipedia.org/wiki/Siddha%E1%B9%83_script" target="_blank"><rect class="rectabug" x="4025" y="3266" width="600" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4035,3282) scale(1.0)">SIDD Siddhaṃ
     <tspan>&#x1158e;&#x1158f;&#x11590;&#x11591;&#x11592;&#x11593;&#x11594;&#x11595;&#x11596;&#x11597;&#x11598;&#x11599;&#x1159a;&#x1159b;&#x1159c;&#x1159d;&#x1159e;&#x1159f;&#x115a0;&#x115a1;&#x115a2;&#x115a3;&#x115a4;&#x115a5;&#x115a6;&#x115a7;&#x115a8;&#x115a9;&#x115aa;&#x115ab;&#x115ac;&#x115ad;&#x115ae;&#x11580;&#x11582;&#x11584;&#x11586;&#x11588;&#x1158a;&#x1158b;&#x1158c;&#x1158d;</tspan>
   </text>
-  <path class="linec" d="M 4032,3261 V 3272.5 C 4032,3280.5 4032,3280.5 4040,3280.5 H 4075" />
+  <path class="linec" d="M 4032,3295 V 3306.5 C 4032,3314.5 4032,3314.5 4040,3314.5 H 4075" />
   <!-- NAGI -->
-  <a href="https://en.wikipedia.org/wiki/N%C4%81gar%C4%AB_script" target="_blank"><rect class="rectabug" x="4075" y="3266" width="150" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4085,3282) scale(1.0)">NAGI Nāgarī script
+  <a href="https://en.wikipedia.org/wiki/N%C4%81gar%C4%AB_script" target="_blank"><rect class="rectabug" x="4075" y="3300" width="150" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4085,3316) scale(1.0)">NAGI Nāgarī script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,3295 V 3306.5 C 4082,3314.5 4082,3314.5 4090,3314.5 H 4125" />
+  <path class="linec" d="M 4082,3329 V 3340.5 C 4082,3348.5 4082,3348.5 4090,3348.5 H 4125" />
   <!-- DEVA -->
-  <a href="https://en.wikipedia.org/wiki/Devanagari" target="_blank"><rect class="rectabug" x="4125" y="3300" width="1325" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4135,3316) scale(1.0)">DEVA Devanagari
+  <a href="https://en.wikipedia.org/wiki/Devanagari" target="_blank"><rect class="rectabug" x="4125" y="3334" width="1325" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4135,3350) scale(1.0)">DEVA Devanagari
     <tspan>&#x915; &#x916; &#x917; &#x918; &#x919; &#x91a; &#x91b; &#x91c; &#x91d; &#x91e; &#x91f; &#x920; &#x921; &#x922; &#x923; &#x924; &#x925; &#x926; &#x927; &#x928; &#x92a; &#x92b; &#x92c; &#x92d; &#x92e; &#x92f; &#x930; &#x932; &#x933; &#x935; &#x936; &#x937; &#x938; &#x939; &#x904; &#x905; &#x907; &#x909; &#x90b; &#x90c; &#x90d; &#x90e; &#x911; &#x913; &#x914;</tspan>
   </text>
-  <path class="linec" d="M 4132,3329 V 3340.5 C 4132,3348.5 4132,3348.5 4140,3348.5 H 4525" />
+  <path class="linec" d="M 4132,3363 V 3374.5 C 4132,3382.5 4132,3382.5 4140,3382.5 H 4525" />
   <!-- BENG -->
-  <a href="https://en.wikipedia.org/wiki/Bengali%E2%80%93Assamese_script" target="_blank"><rect class="rectabug" x="4525" y="3334" width="925" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4535,3350) scale(1.0)">BENG Bengali-Assamese
+  <a href="https://en.wikipedia.org/wiki/Bengali%E2%80%93Assamese_script" target="_blank"><rect class="rectabug" x="4525" y="3368" width="925" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4535,3384) scale(1.0)">BENG Bengali-Assamese
     <tspan>&#x995; &#x996; &#x997; &#x998; &#x999; &#x99a; &#x99b; &#x99c; &#x99d; &#x99e; &#x99f; &#x9a0; &#x9a1; &#x9a2; &#x9a3; &#x9a4; &#x9a5; &#x9a6; &#x9a7; &#x9a8; &#x9aa; &#x9ab; &#x9ac; &#x9ad; &#x9ae; &#x9af; &#x9b0; &#x9b2; &#x9b6; &#x9b7; &#x9b8; &#x9b9; &#x985; &#x986; &#x987; &#x988; &#x989; &#x98a; &#x98b; &#x98c; &#x98f; &#x990; &#x993; &#x994;</tspan>
   </text>
-  <path class="linec" d="M 4532,3363 V 3374.5 C 4532,3382.5 4532,3382.5 4540,3382.5 H 5075" />
+  <path class="linec" d="M 4532,3397 V 3408.5 C 4532,3416.5 4532,3416.5 4540,3416.5 H 5075" />
   <!-- ASSA -->
-  <a href="https://en.wikipedia.org/wiki/Assamese_alphabet" target="_blank"><rect class="rectabug" x="5075" y="3368" width="375" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5085,3384) scale(1.0)">ASSA Assamese alphabet
+  <a href="https://en.wikipedia.org/wiki/Assamese_alphabet" target="_blank"><rect class="rectabug" x="5075" y="3402" width="375" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5085,3418) scale(1.0)">ASSA Assamese alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4132,3329 V 3408.5 C 4132,3416.5 4132,3416.5 4140,3416.5 H 5111" />
+  <path class="linec" d="M 4132,3363 V 3442.5 C 4132,3450.5 4132,3450.5 4140,3450.5 H 5111" />
   <!-- SOYO -->
-  <a href="https://en.wikipedia.org/wiki/Soyombo_script" target="_blank"><rect class="rectabug" x="5111" y="3402" width="64" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5121,3418) scale(1.0)">SOYO Soyombo
+  <a href="https://en.wikipedia.org/wiki/Soyombo_script" target="_blank"><rect class="rectabug" x="5111" y="3436" width="64" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5121,3452) scale(1.0)">SOYO Soyombo
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4132,3329 V 3442.5 C 4132,3450.5 4132,3450.5 4140,3450.5 H 5265" />
+  <path class="linec" d="M 4132,3363 V 3476.5 C 4132,3484.5 4132,3484.5 4140,3484.5 H 5265" />
   <!-- CANS -->
-  <a href="https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics" target="_blank"><rect class="rectabug" x="5265" y="3436" width="185" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5275,3452) scale(1.0)">CANS Syllabics
+  <a href="https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics" target="_blank"><rect class="rectabug" x="5265" y="3470" width="185" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5275,3486) scale(1.0)">CANS Syllabics
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 5272,3465 V 3476.5 C 5272,3484.5 5272,3484.5 5280,3484.5 H 5361" />
+  <path class="linec" d="M 5272,3499 V 3510.5 C 5272,3518.5 5272,3518.5 5280,3518.5 H 5361" />
   <!-- PLRD -->
-  <a href="https://en.wikipedia.org/wiki/Pollard_script" target="_blank"><rect class="rectabug" x="5361" y="3470" width="89" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5371,3486) scale(1.0)">PLRD Pollard script
+  <a href="https://en.wikipedia.org/wiki/Pollard_script" target="_blank"><rect class="rectabug" x="5361" y="3504" width="89" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5371,3520) scale(1.0)">PLRD Pollard script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,3295 V 3510.5 C 4082,3518.5 4082,3518.5 4090,3518.5 H 4625" />
+  <path class="linec" d="M 4082,3329 V 3544.5 C 4082,3552.5 4082,3552.5 4090,3552.5 H 4625" />
   <!-- MODI -->
-  <a href="https://en.wikipedia.org/wiki/Modi_script" target="_blank"><rect class="rectabug" x="4625" y="3504" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4635,3520) scale(1.0)">MODI Modi script
+  <a href="https://en.wikipedia.org/wiki/Modi_script" target="_blank"><rect class="rectabug" x="4625" y="3538" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4635,3554) scale(1.0)">MODI Modi script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,3295 V 3544.5 C 4082,3552.5 4082,3552.5 4090,3552.5 H 4975" />
+  <path class="linec" d="M 4082,3329 V 3578.5 C 4082,3586.5 4082,3586.5 4090,3586.5 H 4975" />
   <!-- KTHI -->
-  <a href="https://en.wikipedia.org/wiki/Kaithi" target="_blank"><rect class="rectabug" x="4975" y="3538" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4985,3554) scale(1.0)">KTHI Kaithi
+  <a href="https://en.wikipedia.org/wiki/Kaithi" target="_blank"><rect class="rectabug" x="4975" y="3572" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4985,3588) scale(1.0)">KTHI Kaithi
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4982,3567 V 3578.5 C 4982,3586.5 4982,3586.5 4990,3586.5 H 5025" />
+  <path class="linec" d="M 4982,3601 V 3612.5 C 4982,3620.5 4982,3620.5 4990,3620.5 H 5025" />
   <!-- SYLO -->
-  <a href="https://en.wikipedia.org/wiki/Sylheti_Nagri" target="_blank"><rect class="rectabug" x="5025" y="3572" width="425" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5035,3588) scale(1.0)">SYLO Sylheti Nagri
+  <a href="https://en.wikipedia.org/wiki/Sylheti_Nagri" target="_blank"><rect class="rectabug" x="5025" y="3606" width="425" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5035,3622) scale(1.0)">SYLO Sylheti Nagri
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,3295 V 3612.5 C 4082,3620.5 4082,3620.5 4090,3620.5 H 5017" />
+  <path class="linec" d="M 4082,3329 V 3646.5 C 4082,3654.5 4082,3654.5 4090,3654.5 H 5017" />
   <!-- GUJR -->
-  <a href="https://en.wikipedia.org/wiki/Gujarati_script" target="_blank"><rect class="rectabug" x="5017" y="3606" width="433" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5027,3622) scale(1.0)">GUJR Gujarati
+  <a href="https://en.wikipedia.org/wiki/Gujarati_script" target="_blank"><rect class="rectabug" x="5017" y="3640" width="433" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5027,3656) scale(1.0)">GUJR Gujarati
     <tspan>&#xa95;&#xa96;&#xa97;&#xa98;&#xa99;&#xa9a;&#xa9b;&#xa9c;&#xa9d;&#xa9e;&#xa9f;&#xaa0;&#xaa1;&#xaa2;&#xaa3;&#xaa4;&#xaa5;&#xaa6;&#xaa7;&#xaa8;&#xaaa;&#xaab;&#xaac;&#xaad;&#xaae;&#xaaf;&#xab0;&#xab2;&#xab3;&#xab5;&#xab6;&#xab7;&#xab8;&#xab9;&#xa85;&#xa86;&#xa87;&#xa88;&#xa89;&#xa8a;&#xa8b;&#xa8c;&#xa8d;&#xa8f;&#xa90;&#xa91;&#xa93;&#xa94;</tspan>
   </text>
-  <path class="linec" d="M 4032,3261 V 3646.5 C 4032,3654.5 4032,3654.5 4040,3654.5 H 4325" />
+  <path class="linec" d="M 4032,3295 V 3680.5 C 4032,3688.5 4032,3688.5 4040,3688.5 H 4325" />
   <!-- GAUD -->
-  <a href="https://en.wikipedia.org/wiki/Gaudi_script" target="_blank"><rect class="rectabug" x="4325" y="3640" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4335,3656) scale(1.0)">GAUD Gaudi
+  <a href="https://en.wikipedia.org/wiki/Gaudi_script" target="_blank"><rect class="rectabug" x="4325" y="3674" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4335,3690) scale(1.0)">GAUD Gaudi
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4332,3669 V 3680.5 C 4332,3688.5 4332,3688.5 4340,3688.5 H 4675" />
+  <path class="linec" d="M 4332,3703 V 3714.5 C 4332,3722.5 4332,3722.5 4340,3722.5 H 4675" />
   <!-- TIRH -->
-  <a href="https://en.wikipedia.org/wiki/Tirhuta_script" target="_blank"><rect class="rectabug" x="4675" y="3674" width="775" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4685,3690) scale(1.0)">TIRH Tirhuta
+  <a href="https://en.wikipedia.org/wiki/Tirhuta_script" target="_blank"><rect class="rectabug" x="4675" y="3708" width="775" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4685,3724) scale(1.0)">TIRH Tirhuta
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4332,3669 V 3714.5 C 4332,3722.5 4332,3722.5 4340,3722.5 H 4775" />
+  <path class="linec" d="M 4332,3703 V 3748.5 C 4332,3756.5 4332,3756.5 4340,3756.5 H 4775" />
   <!-- ORYA -->
-  <a href="https://en.wikipedia.org/wiki/Oriya_alphabet" target="_blank"><rect class="rectabug" x="4775" y="3708" width="675" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4785,3724) scale(1.0)">ORYA Odia
+  <a href="https://en.wikipedia.org/wiki/Oriya_alphabet" target="_blank"><rect class="rectabug" x="4775" y="3742" width="675" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4785,3758) scale(1.0)">ORYA Odia
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3782,3193 V 3748.5 C 3782,3756.5 3782,3756.5 3790,3756.5 H 4075" />
+  <path class="linec" d="M 3782,3227 V 3782.5 C 3782,3790.5 3782,3790.5 3790,3790.5 H 4075" />
   <!-- SHRD -->
-  <a href="https://en.wikipedia.org/wiki/Sharada_script" target="_blank"><rect class="rectabug" x="4075" y="3742" width="1375" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4085,3758) scale(1.0)">SHRD Sharada
+  <a href="https://en.wikipedia.org/wiki/Sharada_script" target="_blank"><rect class="rectabug" x="4075" y="3776" width="1375" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4085,3792) scale(1.0)">SHRD Sharada
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,3771 V 3782.5 C 4082,3790.5 4082,3790.5 4090,3790.5 H 4375" />
+  <path class="linec" d="M 4082,3805 V 3816.5 C 4082,3824.5 4082,3824.5 4090,3824.5 H 4375" />
   <!-- LAND -->
-  <a href="https://en.wikipedia.org/wiki/La%E1%B9%87%E1%B8%8D%C4%81_scripts" target="_blank"><rect class="rectabug" x="4375" y="3776" width="100" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4385,3792) scale(1.0)">LAND Landa
+  <a href="https://en.wikipedia.org/wiki/La%E1%B9%87%E1%B8%8D%C4%81_scripts" target="_blank"><rect class="rectabug" x="4375" y="3810" width="100" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4385,3826) scale(1.0)">LAND Landa
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4382,3805 V 3816.5 C 4382,3824.5 4382,3824.5 4390,3824.5 H 4975" />
+  <path class="linec" d="M 4382,3839 V 3850.5 C 4382,3858.5 4382,3858.5 4390,3858.5 H 4975" />
   <!-- GURU -->
-  <a href="https://en.wikipedia.org/wiki/Gurmukhi" target="_blank"><rect class="rectabug" x="4975" y="3810" width="475" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4985,3826) scale(1.0)">GURU Gurmukhi
+  <a href="https://en.wikipedia.org/wiki/Gurmukhi" target="_blank"><rect class="rectabug" x="4975" y="3844" width="475" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4985,3860) scale(1.0)">GURU Gurmukhi
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4382,3805 V 3850.5 C 4382,3858.5 4382,3858.5 4390,3858.5 H 4975" />
+  <path class="linec" d="M 4382,3839 V 3884.5 C 4382,3892.5 4382,3892.5 4390,3892.5 H 4975" />
   <!-- SIND -->
-  <a href="https://en.wikipedia.org/wiki/Khudabadi_script" target="_blank"><rect class="rectabug" x="4975" y="3844" width="475" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4985,3860) scale(1.0)">SIND Khudabadi
+  <a href="https://en.wikipedia.org/wiki/Khudabadi_script" target="_blank"><rect class="rectabug" x="4975" y="3878" width="475" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4985,3894) scale(1.0)">SIND Khudabadi
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3782,3193 V 3884.5 C 3782,3892.5 3782,3892.5 3790,3892.5 H 4075" />
+  <path class="linec" d="M 3782,3227 V 3918.5 C 3782,3926.5 3782,3926.5 3790,3926.5 H 4075" />
   <!-- TIBT -->
-  <a href="https://en.wikipedia.org/wiki/Tibetan_alphabet" target="_blank"><rect class="rectabug" x="4075" y="3878" width="1375" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4085,3894) scale(1.0)">TIBT Tibetan
+  <a href="https://en.wikipedia.org/wiki/Tibetan_alphabet" target="_blank"><rect class="rectabug" x="4075" y="3912" width="1375" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4085,3928) scale(1.0)">TIBT Tibetan
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,3907 V 3918.5 C 4082,3926.5 4082,3926.5 4090,3926.5 H 4125" />
+  <path class="linec" d="M 4082,3941 V 3952.5 C 4082,3960.5 4082,3960.5 4090,3960.5 H 4125" />
   <!-- MTEI -->
-  <a href="https://en.wikipedia.org/wiki/Meitei_script" target="_blank"><rect class="rectabug" x="4125" y="3912" width="1325" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4135,3928) scale(1.0)">MTEI Meitei
+  <a href="https://en.wikipedia.org/wiki/Meitei_script" target="_blank"><rect class="rectabug" x="4125" y="3946" width="1325" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4135,3962) scale(1.0)">MTEI Meitei
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,3907 V 3952.5 C 4082,3960.5 4082,3960.5 4090,3960.5 H 5125" />
+  <path class="linec" d="M 4082,3941 V 3986.5 C 4082,3994.5 4082,3994.5 4090,3994.5 H 5125" />
   <!-- LEPC -->
-  <a href="https://en.wikipedia.org/wiki/Lepcha_script" target="_blank"><rect class="rectabug" x="5125" y="3946" width="325" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5135,3962) scale(1.0)">LEPC Lepcha
+  <a href="https://en.wikipedia.org/wiki/Lepcha_script" target="_blank"><rect class="rectabug" x="5125" y="3980" width="325" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5135,3996) scale(1.0)">LEPC Lepcha
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3782,3193 V 3986.5 C 3782,3994.5 3782,3994.5 3790,3994.5 H 4475" />
+  <path class="linec" d="M 3782,3227 V 4020.5 C 3782,4028.5 3782,4028.5 3790,4028.5 H 4475" />
   <!-- BHKS -->
-  <a href="https://en.wikipedia.org/wiki/Bhaiksuki_script" target="_blank"><rect class="rectabug" x="4475" y="3980" width="55" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4485,3996) scale(1.0)">BHKS Bhaiksuki
+  <a href="https://en.wikipedia.org/wiki/Bhaiksuki_script" target="_blank"><rect class="rectabug" x="4475" y="4014" width="55" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4485,4030) scale(1.0)">BHKS Bhaiksuki
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3132,1765 V 4020.5 C 3132,4028.5 3132,4028.5 3140,4028.5 H 4175" />
+  <path class="linec" d="M 3132,1799 V 4054.5 C 3132,4062.5 3132,4062.5 3140,4062.5 H 4175" />
   <!-- TOCH -->
-  <a href="https://en.wikipedia.org/wiki/Tocharian_script" target="_blank"><rect class="rectabug" x="4175" y="4014" width="100" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4185,4030) scale(1.0)">TOCH Tocharian
+  <a href="https://en.wikipedia.org/wiki/Tocharian_script" target="_blank"><rect class="rectabug" x="4175" y="4048" width="100" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4185,4064) scale(1.0)">TOCH Tocharian
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4054.5 C 2632,4062.5 2632,4062.5 2640,4062.5 H 3275" />
+  <path class="linec" d="M 2632,1731 V 4088.5 C 2632,4096.5 2632,4096.5 2640,4096.5 H 3275" />
   <!-- HEBR -->
-  <a href="https://en.wikipedia.org/wiki/Hebrew_script" target="_blank"><rect class="rectabjd" x="3275" y="4048" width="2175" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3285,4064) scale(1.0)">HEBR Hebrew
+  <a href="https://en.wikipedia.org/wiki/Hebrew_script" target="_blank"><rect class="rectabjd" x="3275" y="4082" width="2175" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3285,4098) scale(1.0)">HEBR Hebrew
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4088.5 C 2632,4096.5 2632,4096.5 2640,4096.5 H 3275" />
+  <path class="linec" d="M 2632,1731 V 4122.5 C 2632,4130.5 2632,4130.5 2640,4130.5 H 3275" />
   <!-- ELYM -->
-  <a href="https://en.wikipedia.org/wiki/Elymaic" target="_blank"><rect class="rectabjd" x="3275" y="4082" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3285,4098) scale(1.0)">ELYM Elymaic
+  <a href="https://en.wikipedia.org/wiki/Elymaic" target="_blank"><rect class="rectabjd" x="3275" y="4116" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3285,4132) scale(1.0)">ELYM Elymaic
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4122.5 C 2632,4130.5 2632,4130.5 2640,4130.5 H 3275" />
+  <path class="linec" d="M 2632,1731 V 4156.5 C 2632,4164.5 2632,4164.5 2640,4164.5 H 3275" />
   <!-- PHLI -->
-  <a href="https://en.wikipedia.org/wiki/Pahlavi_scripts" target="_blank"><rect class="rectabjd" x="3275" y="4116" width="800" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3285,4132) scale(1.0)">PHLI Inscriptional Pahlavi
+  <a href="https://en.wikipedia.org/wiki/Pahlavi_scripts" target="_blank"><rect class="rectabjd" x="3275" y="4150" width="800" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3285,4166) scale(1.0)">PHLI Inscriptional Pahlavi
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3282,4145 V 4156.5 C 3282,4164.5 3282,4164.5 3290,4164.5 H 3825" />
+  <path class="linec" d="M 3282,4179 V 4190.5 C 3282,4198.5 3282,4198.5 3290,4198.5 H 3825" />
   <!-- AVST -->
-  <a href="https://en.wikipedia.org/wiki/Avestan_alphabet" target="_blank"><rect class="rectalph" x="3825" y="4150" width="600" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3835,4166) scale(1.0)">AVST Avestan Alphabet
+  <a href="https://en.wikipedia.org/wiki/Avestan_alphabet" target="_blank"><rect class="rectalph" x="3825" y="4184" width="600" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3835,4200) scale(1.0)">AVST Avestan Alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4190.5 C 2632,4198.5 2632,4198.5 2640,4198.5 H 3275" />
+  <path class="linec" d="M 2632,1731 V 4224.5 C 2632,4232.5 2632,4232.5 2640,4232.5 H 3275" />
   <!-- PRTI -->
-  <a href="https://en.wikipedia.org/wiki/Pahlavi_scripts" target="_blank"><rect class="rectabjd" x="3275" y="4184" width="800" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3285,4200) scale(1.0)">PRTI Inscriptional Parthian
-    <tspan></tspan>
-  </text>
-  <path class="linec" d="M 2632,1697 V 4224.5 C 2632,4232.5 2632,4232.5 2640,4232.5 H 3275" />
-  <!-- PHLP -->
   <a href="https://en.wikipedia.org/wiki/Pahlavi_scripts" target="_blank"><rect class="rectabjd" x="3275" y="4218" width="800" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3285,4234) scale(1.0)">PHLP Psalter Pahlavi
+  <text class="langtextb" transform="translate(3285,4234) scale(1.0)">PRTI Inscriptional Parthian
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4258.5 C 2632,4266.5 2632,4266.5 2640,4266.5 H 3275" />
-  <!-- PHLV -->
+  <path class="linec" d="M 2632,1731 V 4258.5 C 2632,4266.5 2632,4266.5 2640,4266.5 H 3275" />
+  <!-- PHLP -->
   <a href="https://en.wikipedia.org/wiki/Pahlavi_scripts" target="_blank"><rect class="rectabjd" x="3275" y="4252" width="800" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3285,4268) scale(1.0)">PHLV Book Pahlavi
+  <text class="langtextb" transform="translate(3285,4268) scale(1.0)">PHLP Psalter Pahlavi
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4292.5 C 2632,4300.5 2632,4300.5 2640,4300.5 H 3325" />
+  <path class="linec" d="M 2632,1731 V 4292.5 C 2632,4300.5 2632,4300.5 2640,4300.5 H 3275" />
+  <!-- PHLV -->
+  <a href="https://en.wikipedia.org/wiki/Pahlavi_scripts" target="_blank"><rect class="rectabjd" x="3275" y="4286" width="800" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3285,4302) scale(1.0)">PHLV Book Pahlavi
+    <tspan></tspan>
+  </text>
+  <path class="linec" d="M 2632,1731 V 4326.5 C 2632,4334.5 2632,4334.5 2640,4334.5 H 3325" />
   <!-- PALM -->
-  <a href="https://en.wikipedia.org/wiki/Palmyrene_alphabet" target="_blank"><rect class="rectabjd" x="3325" y="4286" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3335,4302) scale(1.0)">PALM Palmyrene alphabet
+  <a href="https://en.wikipedia.org/wiki/Palmyrene_alphabet" target="_blank"><rect class="rectabjd" x="3325" y="4320" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3335,4336) scale(1.0)">PALM Palmyrene alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4326.5 C 2632,4334.5 2632,4334.5 2640,4334.5 H 3325" />
+  <path class="linec" d="M 2632,1731 V 4360.5 C 2632,4368.5 2632,4368.5 2640,4368.5 H 3325" />
   <!-- HATR -->
-  <a href="https://en.wikipedia.org/wiki/Hatran_Aramaic#Alphabet" target="_blank"><rect class="rectabjd" x="3325" y="4320" width="340" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3335,4336) scale(1.0)">HATR Hatran Aramaic alphabet
+  <a href="https://en.wikipedia.org/wiki/Hatran_Aramaic#Alphabet" target="_blank"><rect class="rectabjd" x="3325" y="4354" width="340" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3335,4370) scale(1.0)">HATR Hatran Aramaic alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4360.5 C 2632,4368.5 2632,4368.5 2640,4368.5 H 3426" />
+  <path class="linec" d="M 2632,1731 V 4394.5 C 2632,4402.5 2632,4402.5 2640,4402.5 H 3426" />
   <!-- SYRE -->
-  <a href="https://en.wikipedia.org/wiki/Syriac_alphabet" target="_blank"><rect class="rectabjd" x="3426" y="4354" width="2024" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3436,4370) scale(1.0)">SYRE Syriac (ʾEsṭrangēlā)
-    <tspan></tspan>
-  </text>
-  <path class="linec" d="M 2632,1697 V 4394.5 C 2632,4402.5 2632,4402.5 2640,4402.5 H 3426" />
-  <!-- SYRJ -->
   <a href="https://en.wikipedia.org/wiki/Syriac_alphabet" target="_blank"><rect class="rectabjd" x="3426" y="4388" width="2024" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3436,4404) scale(1.0)">SYRJ Syriac (Eastern)
+  <text class="langtextb" transform="translate(3436,4404) scale(1.0)">SYRE Syriac (ʾEsṭrangēlā)
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4428.5 C 2632,4436.5 2632,4436.5 2640,4436.5 H 3426" />
-  <!-- SYRN -->
+  <path class="linec" d="M 2632,1731 V 4428.5 C 2632,4436.5 2632,4436.5 2640,4436.5 H 3426" />
+  <!-- SYRJ -->
   <a href="https://en.wikipedia.org/wiki/Syriac_alphabet" target="_blank"><rect class="rectabjd" x="3426" y="4422" width="2024" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3436,4438) scale(1.0)">SYRN Syriac (Western)
+  <text class="langtextb" transform="translate(3436,4438) scale(1.0)">SYRJ Syriac (Eastern)
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4462.5 C 2632,4470.5 2632,4470.5 2640,4470.5 H 3426" />
-  <!-- SYRC -->
+  <path class="linec" d="M 2632,1731 V 4462.5 C 2632,4470.5 2632,4470.5 2640,4470.5 H 3426" />
+  <!-- SYRN -->
   <a href="https://en.wikipedia.org/wiki/Syriac_alphabet" target="_blank"><rect class="rectabjd" x="3426" y="4456" width="2024" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3436,4472) scale(1.0)">SYRC Syriac
+  <text class="langtextb" transform="translate(3436,4472) scale(1.0)">SYRN Syriac (Western)
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3433,4485 V 4496.5 C 3433,4504.5 3433,4504.5 3441,4504.5 H 3525" />
+  <path class="linec" d="M 2632,1731 V 4496.5 C 2632,4504.5 2632,4504.5 2640,4504.5 H 3426" />
+  <!-- SYRC -->
+  <a href="https://en.wikipedia.org/wiki/Syriac_alphabet" target="_blank"><rect class="rectabjd" x="3426" y="4490" width="2024" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3436,4506) scale(1.0)">SYRC Syriac
+    <tspan></tspan>
+  </text>
+  <path class="linec" d="M 3433,4519 V 4530.5 C 3433,4538.5 3433,4538.5 3441,4538.5 H 3525" />
   <!-- SOGO -->
-  <a href="https://en.wikipedia.org/wiki/Sogdian_alphabet" target="_blank"><rect class="rectabjd" x="3525" y="4490" width="1100" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3535,4506) scale(1.0)">SOGO Old Sogdian
+  <a href="https://en.wikipedia.org/wiki/Sogdian_alphabet" target="_blank"><rect class="rectabjd" x="3525" y="4524" width="1100" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3535,4540) scale(1.0)">SOGO Old Sogdian
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3532,4519 V 4530.5 C 3532,4538.5 3532,4538.5 3540,4538.5 H 3625" />
+  <path class="linec" d="M 3532,4553 V 4564.5 C 3532,4572.5 3532,4572.5 3540,4572.5 H 3625" />
   <!-- SOGD -->
-  <a href="https://en.wikipedia.org/wiki/Sogdian_alphabet" target="_blank"><rect class="rectabjd" x="3625" y="4524" width="1000" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3635,4540) scale(1.0)">SOGD Sogdian
+  <a href="https://en.wikipedia.org/wiki/Sogdian_alphabet" target="_blank"><rect class="rectabjd" x="3625" y="4558" width="1000" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3635,4574) scale(1.0)">SOGD Sogdian
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3632,4553 V 4564.5 C 3632,4572.5 3632,4572.5 3640,4572.5 H 4175" />
+  <path class="linec" d="M 3632,4587 V 4598.5 C 3632,4606.5 3632,4606.5 3640,4606.5 H 4175" />
   <!-- OUGR -->
-  <a href="https://en.wikipedia.org/wiki/Old_Uyghur_alphabet" target="_blank"><rect class="rectabjd" x="4175" y="4558" width="1100" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4185,4574) scale(1.0)">OUGR Old Uyghur
+  <a href="https://en.wikipedia.org/wiki/Old_Uyghur_alphabet" target="_blank"><rect class="rectabjd" x="4175" y="4592" width="1100" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4185,4608) scale(1.0)">OUGR Old Uyghur
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4182,4587 V 4598.5 C 4182,4606.5 4182,4606.5 4190,4606.5 H 4629" />
+  <path class="linec" d="M 4182,4621 V 4632.5 C 4182,4640.5 4182,4640.5 4190,4640.5 H 4629" />
   <!-- MONG -->
-  <a href="https://en.wikipedia.org/wiki/Mongolian_script" target="_blank"><rect class="rectalph" x="4629" y="4592" width="821" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4639,4608) scale(1.0)">MONG Mongolian
+  <a href="https://en.wikipedia.org/wiki/Mongolian_script" target="_blank"><rect class="rectalph" x="4629" y="4626" width="821" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4639,4642) scale(1.0)">MONG Mongolian
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4636,4621 V 4632.5 C 4636,4640.5 4636,4640.5 4644,4640.5 H 5057" />
+  <path class="linec" d="M 4636,4655 V 4666.5 C 4636,4674.5 4636,4674.5 4644,4674.5 H 5057" />
   <!-- MANC -->
-  <a href="https://en.wikipedia.org/wiki/Manchu_alphabet" target="_blank"><rect class="rectalph" x="5057" y="4626" width="393" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5067,4642) scale(1.0)">MANC Manchu alphabet
+  <a href="https://en.wikipedia.org/wiki/Manchu_alphabet" target="_blank"><rect class="rectalph" x="5057" y="4660" width="393" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5067,4676) scale(1.0)">MANC Manchu alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2632,1697 V 4666.5 C 2632,4674.5 2632,4674.5 2640,4674.5 H 3575" />
+  <path class="linec" d="M 2632,1731 V 4700.5 C 2632,4708.5 2632,4708.5 2640,4708.5 H 3575" />
   <!-- MAND -->
-  <a href="https://en.wikipedia.org/wiki/Mandaic_alphabet" target="_blank"><rect class="rectalph" x="3575" y="4660" width="500" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3585,4676) scale(1.0)">MAND Mandaic alphabet
+  <a href="https://en.wikipedia.org/wiki/Mandaic_alphabet" target="_blank"><rect class="rectalph" x="3575" y="4694" width="500" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3585,4710) scale(1.0)">MAND Mandaic alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2382,779 V 4700.5 C 2382,4708.5 2382,4708.5 2390,4708.5 H 2775" />
+  <path class="linec" d="M 2382,813 V 4734.5 C 2382,4742.5 2382,4742.5 2390,4742.5 H 2775" />
   <!-- PLHS -->
-  <a href="https://en.wikipedia.org/wiki/Paleohispanic_scripts" target="_blank"><rect class="rectsmsy" x="2775" y="4694" width="600" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2785,4710) scale(1.0)">PLHS Paleohispanic scripts
+  <a href="https://en.wikipedia.org/wiki/Paleohispanic_scripts" target="_blank"><rect class="rectsmsy" x="2775" y="4728" width="600" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2785,4744) scale(1.0)">PLHS Paleohispanic scripts
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2382,779 V 4734.5 C 2382,4742.5 2382,4742.5 2390,4742.5 H 2925" />
+  <path class="linec" d="M 2382,813 V 4768.5 C 2382,4776.5 2382,4776.5 2390,4776.5 H 2925" />
   <!-- LIBR -->
-  <a href="https://en.wikipedia.org/wiki/Libyco-Berber_alphabet" target="_blank"><rect class="rectabjd" x="2925" y="4728" width="1050" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2935,4744) scale(1.0)">LIBR Libyco-Berber alphabet
+  <a href="https://en.wikipedia.org/wiki/Libyco-Berber_alphabet" target="_blank"><rect class="rectabjd" x="2925" y="4762" width="1050" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2935,4778) scale(1.0)">LIBR Libyco-Berber alphabet
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2932,4757 V 4768.5 C 2932,4776.5 2932,4776.5 2940,4776.5 H 3025" />
+  <path class="linec" d="M 2932,4791 V 4802.5 C 2932,4810.5 2932,4810.5 2940,4810.5 H 3025" />
   <!-- TIFI -->
-  <a href="https://en.wikipedia.org/wiki/Tifinagh" target="_blank"><rect class="rectabjd" x="3025" y="4762" width="2425" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3035,4778) scale(1.0)">TIFI Tifinagh
+  <a href="https://en.wikipedia.org/wiki/Tifinagh" target="_blank"><rect class="rectabjd" x="3025" y="4796" width="2425" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3035,4812) scale(1.0)">TIFI Tifinagh
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3032,4791 V 4802.5 C 3032,4810.5 3032,4810.5 3040,4810.5 H 5395" />
+  <path class="linec" d="M 3032,4825 V 4836.5 C 3032,4844.5 3032,4844.5 3040,4844.5 H 5395" />
   <!-- TFNG -->
-  <a href="https://en.wikipedia.org/wiki/Tifinagh" target="_blank"><rect class="rectalph" x="5395" y="4796" width="55" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5405,4812) scale(1.0)">TFNG Neo Tifinagh
+  <a href="https://en.wikipedia.org/wiki/Tifinagh" target="_blank"><rect class="rectalph" x="5395" y="4830" width="55" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5405,4846) scale(1.0)">TFNG Neo Tifinagh
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2382,779 V 4836.5 C 2382,4844.5 2382,4844.5 2390,4844.5 H 3225" />
+  <path class="linec" d="M 2382,813 V 4870.5 C 2382,4878.5 2382,4878.5 2390,4878.5 H 3225" />
   <!-- NBAT -->
-  <a href="https://en.wikipedia.org/wiki/Nabataean_script" target="_blank"><rect class="rectabjd" x="3225" y="4830" width="600" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3235,4846) scale(1.0)">NBAT Nabataean script
+  <a href="https://en.wikipedia.org/wiki/Nabataean_script" target="_blank"><rect class="rectabjd" x="3225" y="4864" width="600" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3235,4880) scale(1.0)">NBAT Nabataean script
     <tspan>&#x1089e;&#x1089d;&#x1089b;&#x1089a;&#x10899;&#x10898;&#x10897;&#x10896;&#x10895;&#x10893;&#x10891;&#x1088f;&#x1088d;&#x1088b;&#x1088a;&#x10889;&#x10888;&#x10887;&#x10885;&#x10884;&#x10883;&#x10881;</tspan>
   </text>
-  <path class="linec" d="M 3232,4859 V 4870.5 C 3232,4878.5 3232,4878.5 3240,4878.5 H 3825" />
+  <path class="linec" d="M 3232,4893 V 4904.5 C 3232,4912.5 3232,4912.5 3240,4912.5 H 3825" />
   <!-- ARAB -->
-  <a href="https://en.wikipedia.org/wiki/Arabic_script" target="_blank"><rect class="rectabjd" x="3825" y="4864" width="1625" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3835,4880) scale(1.0)">ARAB Arabic
+  <a href="https://en.wikipedia.org/wiki/Arabic_script" target="_blank"><rect class="rectabjd" x="3825" y="4898" width="1625" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3835,4914) scale(1.0)">ARAB Arabic
     <tspan>eg. &#x63a; &#x639; &#x638; &#x637; &#x636; &#x635; &#x634; &#x633; &#x632; &#x631; &#x630; &#x62f; &#x62e; &#x62d; &#x62c; &#x62b; &#x62a; &#x629; &#x628; &#x627;</tspan>
   </text>
-  <path class="linec" d="M 3832,4893 V 4904.5 C 3832,4912.5 3832,4912.5 3840,4912.5 H 5045" />
+  <path class="linec" d="M 3832,4927 V 4938.5 C 3832,4946.5 3832,4946.5 3840,4946.5 H 5045" />
   <!-- THAA -->
-  <a href="https://en.wikipedia.org/wiki/Thaana_script" target="_blank"><rect class="rectabug" x="5045" y="4898" width="405" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5055,4914) scale(1.0)">THAA Thaana
+  <a href="https://en.wikipedia.org/wiki/Thaana_script" target="_blank"><rect class="rectabug" x="5045" y="4932" width="405" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5055,4948) scale(1.0)">THAA Thaana
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3832,4893 V 4938.5 C 3832,4946.5 3832,4946.5 3840,4946.5 H 5374" />
+  <path class="linec" d="M 3832,4927 V 4972.5 C 3832,4980.5 3832,4980.5 3840,4980.5 H 5374" />
   <!-- NKOO -->
-  <a href="https://en.wikipedia.org/wiki/N%27Ko_script" target="_blank"><rect class="rectalph" x="5374" y="4932" width="76" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5384,4948) scale(1.0)">NKOO N'Ko script
+  <a href="https://en.wikipedia.org/wiki/N%27Ko_script" target="_blank"><rect class="rectalph" x="5374" y="4966" width="76" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5384,4982) scale(1.0)">NKOO N'Ko script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3832,4893 V 4972.5 C 3832,4980.5 3832,4980.5 3840,4980.5 H 5410" />
+  <path class="linec" d="M 3832,4927 V 5006.5 C 3832,5014.5 3832,5014.5 3840,5014.5 H 5410" />
   <!-- ROHG -->
-  <a href="https://en.wikipedia.org/wiki/Hanifi_Rohingya_script" target="_blank"><rect class="rectalph" x="5410" y="4966" width="40" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5420,4982) scale(1.0)">ROHG Hanifi Rohingya script
+  <a href="https://en.wikipedia.org/wiki/Hanifi_Rohingya_script" target="_blank"><rect class="rectalph" x="5410" y="5000" width="40" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5420,5016) scale(1.0)">ROHG Hanifi Rohingya script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 1532,677 V 5006.5 C 1532,5014.5 1532,5014.5 1540,5014.5 H 2425" />
+  <path class="linec" d="M 1532,711 V 5040.5 C 1532,5048.5 1532,5048.5 1540,5048.5 H 2425" />
   <!-- PLHB -->
-  <a href="https://en.wikipedia.org/wiki/Paleo-Hebrew_alphabet" target="_blank"><rect class="rectabjd" x="2425" y="5000" width="1135" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2435,5016) scale(1.0)">PLHB Paleo-Hebrew
+  <a href="https://en.wikipedia.org/wiki/Paleo-Hebrew_alphabet" target="_blank"><rect class="rectabjd" x="2425" y="5034" width="1135" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2435,5050) scale(1.0)">PLHB Paleo-Hebrew
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2432,5029 V 5040.5 C 2432,5048.5 2432,5048.5 2440,5048.5 H 2825" />
+  <path class="linec" d="M 2432,5063 V 5074.5 C 2432,5082.5 2432,5082.5 2440,5082.5 H 2825" />
   <!-- SAMR -->
-  <a href="https://en.wikipedia.org/wiki/Samaritan_script" target="_blank"><rect class="rectabjd" x="2825" y="5034" width="2625" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2835,5050) scale(1.0)">SAMR Samaritan script
+  <a href="https://en.wikipedia.org/wiki/Samaritan_script" target="_blank"><rect class="rectabjd" x="2825" y="5068" width="2625" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2835,5084) scale(1.0)">SAMR Samaritan script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 1532,677 V 5074.5 C 1532,5082.5 1532,5082.5 1540,5082.5 H 2675" />
+  <path class="linec" d="M 1532,711 V 5108.5 C 1532,5116.5 1532,5116.5 1540,5116.5 H 2675" />
   <!-- NARB -->
-  <a href="https://en.wikipedia.org/wiki/Ancient_North_Arabian" target="_blank"><rect class="rectabjd" x="2675" y="5068" width="1100" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2685,5084) scale(1.0)">NARB Ancient North Arabian
+  <a href="https://en.wikipedia.org/wiki/Ancient_North_Arabian" target="_blank"><rect class="rectabjd" x="2675" y="5102" width="1100" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2685,5118) scale(1.0)">NARB Ancient North Arabian
     <tspan>&#x10a80; &#x10a81; &#x10a82; &#x10a83; &#x10a84; &#x10a85; &#x10a86; &#x10a87; &#x10a88; &#x10a89; &#x10a8a; &#x10a8b; &#x10a8c; &#x10a8d; &#x10a8e; &#x10a8f; &#x10a90; &#x10a91; &#x10a92; &#x10a93; &#x10a94; &#x10a95; &#x10a96; &#x10a97; &#x10a98; &#x10a99; &#x10a9a; &#x10a9b; &#x10a9c;</tspan>
   </text>
-  <line class="linec" x1="1625" y1="5116.5" x2="1615" y2="5116.5" />
-  <circle class="circc" cx="1613" cy="5116.5" r="4" />
+  <line class="linec" x1="1625" y1="5150.5" x2="1615" y2="5150.5" />
+  <circle class="circc" cx="1613" cy="5150.5" r="4" />
   <!-- LINA -->
-  <a href="https://en.wikipedia.org/wiki/Linear_A" target="_blank"><rect class="rectunkn" x="1625" y="5102" width="350" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(1635,5118) scale(1.0)">LINA Linear A
+  <a href="https://en.wikipedia.org/wiki/Linear_A" target="_blank"><rect class="rectunkn" x="1625" y="5136" width="350" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(1635,5152) scale(1.0)">LINA Linear A
     <tspan>eg.  &#x10600; &#x10603; &#x10606; &#x10609; &#x1060b; &#x1060c; &#x1060f; &#x10610; &#x10612; &#x10616; &#x10618; &#x1061b; &#x1061c; &#x1061f; &#x10622; &#x10625; &#x10628; &#x1062b; &#x1062f; &#x10636; &#x1063a; &#x1063f; &#x10640; &#x10643; &#x10644; &#x10647; &#x1064b; &#x10650; &#x10655; &#x1065f; &#x10661;</tspan>
   </text>
-  <path class="linec" d="M 1632,5131 V 5142.5 C 1632,5150.5 1632,5150.5 1640,5150.5 H 2025" />
+  <path class="linec" d="M 1632,5165 V 5176.5 C 1632,5184.5 1632,5184.5 1640,5184.5 H 2025" />
   <!-- LINB -->
-  <a href="https://en.wikipedia.org/wiki/Linear_B" target="_blank"><rect class="rectsyll" x="2025" y="5136" width="200" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2035,5152) scale(1.0)">LINB Linear B
+  <a href="https://en.wikipedia.org/wiki/Linear_B" target="_blank"><rect class="rectsyll" x="2025" y="5170" width="200" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2035,5186) scale(1.0)">LINB Linear B
     <tspan>&#x10000; &#x10001; &#x10002; &#x10003; &#x10004; &#x10005; &#x10006; &#x10007; &#x10008; &#x10009; &#x1000a; &#x1000b; &#x1000d; &#x1000e; &#x1000f; &#x10010; &#x10011; &#x10012; &#x10013; &#x10014; &#x10015; &#x10016; &#x10017; &#x10018; &#x10019; &#x1001a; &#x1001b; &#x1001c; &#x1001d; &#x1001e; &#x1001f; &#x10020; &#x10021; &#x10022; &#x10023; &#x10024; &#x10025; &#x10026; &#x10028; &#x10029; &#x1002a; &#x1002b; &#x1002c; &#x1002d; &#x1002e; &#x1002f; &#x10030; &#x10031; &#x10032; &#x10033; &#x10034; &#x10035; &#x10036; &#x10037; &#x10038; &#x10039; &#x1003a; &#x1003c; &#x1003d; &#x1003f;</tspan>
   </text>
-  <line class="linec" x1="1825" y1="5184.5" x2="1815" y2="5184.5" />
-  <circle class="circc" cx="1813" cy="5184.5" r="4" />
+  <line class="linec" x1="1825" y1="5218.5" x2="1815" y2="5218.5" />
+  <circle class="circc" cx="1813" cy="5218.5" r="4" />
   <!-- OBNS -->
-  <a href="https://en.wikipedia.org/wiki/Oracle_bone_script" target="_blank"><rect class="rectlogo" x="1825" y="5170" width="1300" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(1835,5186) scale(1.0)" textLength="194px">OBNS Oracle Bone Script</text>
-  <image x="2034" y="5172" height="17" href="obns.svg" />
-  <path class="linec" d="M 1832,5199 V 5210.5 C 1832,5218.5 1832,5218.5 1840,5218.5 H 2925" />
+  <a href="https://en.wikipedia.org/wiki/Oracle_bone_script" target="_blank"><rect class="rectlogo" x="1825" y="5204" width="1300" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(1835,5220) scale(1.0)" textLength="194px">OBNS Oracle Bone Script</text>
+  <image x="2034" y="5206" height="17" href="obns.svg" />
+  <path class="linec" d="M 1832,5233 V 5244.5 C 1832,5252.5 1832,5252.5 1840,5252.5 H 2925" />
   <!-- HANL -->
-  <a href="https://en.wikipedia.org/wiki/Seal_script" target="_blank"><rect class="rectlogo" x="2925" y="5204" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2935,5220) scale(1.0)">HANL Chinese, Seal Script
+  <a href="https://en.wikipedia.org/wiki/Seal_script" target="_blank"><rect class="rectlogo" x="2925" y="5238" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(2935,5254) scale(1.0)">HANL Chinese, Seal Script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 2932,5233 V 5244.5 C 2932,5252.5 2932,5252.5 2940,5252.5 H 3025" />
+  <path class="linec" d="M 2932,5267 V 5278.5 C 2932,5286.5 2932,5286.5 2940,5286.5 H 3025" />
   <!-- HANC -->
-  <a href="https://en.wikipedia.org/wiki/Clerical_script" target="_blank"><rect class="rectlogo" x="3025" y="5238" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3035,5254) scale(1.0)">HANC Chinese, Clerical Script
+  <a href="https://en.wikipedia.org/wiki/Clerical_script" target="_blank"><rect class="rectlogo" x="3025" y="5272" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3035,5288) scale(1.0)">HANC Chinese, Clerical Script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3032,5267 V 5278.5 C 3032,5286.5 3032,5286.5 3040,5286.5 H 3075" />
+  <path class="linec" d="M 3032,5301 V 5312.5 C 3032,5320.5 3032,5320.5 3040,5320.5 H 3075" />
   <!-- HANI -->
-  <a href="https://en.wikipedia.org/wiki/Hanja" target="_blank"><rect class="rectlogo" x="3075" y="5272" width="2375" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3085,5288) scale(1.0)">HANI Hanja
+  <a href="https://en.wikipedia.org/wiki/Hanja" target="_blank"><rect class="rectlogo" x="3075" y="5306" width="2375" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3085,5322) scale(1.0)">HANI Hanja
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3032,5267 V 5312.5 C 3032,5320.5 3032,5320.5 3040,5320.5 H 3175" />
+  <path class="linec" d="M 3032,5301 V 5346.5 C 3032,5354.5 3032,5354.5 3040,5354.5 H 3175" />
   <!-- CHUH -->
-  <a href="https://en.wikipedia.org/wiki/Ch%E1%BB%AF_H%C3%A1n" target="_blank"><rect class="rectlogo" x="3175" y="5306" width="2200" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3185,5322) scale(1.0)">CHUH Chữ Hán
+  <a href="https://en.wikipedia.org/wiki/Ch%E1%BB%AF_H%C3%A1n" target="_blank"><rect class="rectlogo" x="3175" y="5340" width="2200" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3185,5356) scale(1.0)">CHUH Chữ Hán
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3182,5335 V 5346.5 C 3182,5354.5 3182,5354.5 3190,5354.5 H 4675" />
+  <path class="linec" d="M 3182,5369 V 5380.5 C 3182,5388.5 3182,5388.5 3190,5388.5 H 4675" />
   <!-- CHUN -->
-  <a href="https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m" target="_blank"><rect class="rectlogo" x="4675" y="5340" width="700" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4685,5356) scale(1.0)">CHUN Chữ Nôm
+  <a href="https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m" target="_blank"><rect class="rectlogo" x="4675" y="5374" width="700" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4685,5390) scale(1.0)">CHUN Chữ Nôm
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3032,5267 V 5380.5 C 3032,5388.5 3032,5388.5 3040,5388.5 H 3575" />
+  <path class="linec" d="M 3032,5301 V 5414.5 C 3032,5422.5 3032,5422.5 3040,5422.5 H 3575" />
   <!-- HANT -->
-  <a href="https://en.wikipedia.org/wiki/Traditional_Chinese_characters" target="_blank"><rect class="rectlogo" x="3575" y="5374" width="1875" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3585,5390) scale(1.0)">HANT Chinese Char, Trad
+  <a href="https://en.wikipedia.org/wiki/Traditional_Chinese_characters" target="_blank"><rect class="rectlogo" x="3575" y="5408" width="1875" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3585,5424) scale(1.0)">HANT Chinese Char, Trad
     <tspan>eg. 鼠牛虎兔龍蛇馬羊猴雞狗豬</tspan>
   </text>
-  <path class="linec" d="M 3582,5403 V 5414.5 C 3582,5422.5 3582,5422.5 3590,5422.5 H 4075" />
+  <path class="linec" d="M 3582,5437 V 5448.5 C 3582,5456.5 3582,5456.5 3590,5456.5 H 4075" />
   <!-- SAWN -->
-  <a href="https://en.wikipedia.org/wiki/Sawndip" target="_blank"><rect class="rectlogo" x="4075" y="5408" width="1375" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4085,5424) scale(1.0)">SAWN Sawndip
+  <a href="https://en.wikipedia.org/wiki/Sawndip" target="_blank"><rect class="rectlogo" x="4075" y="5442" width="1375" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4085,5458) scale(1.0)">SAWN Sawndip
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3582,5403 V 5448.5 C 3582,5456.5 3582,5456.5 3590,5456.5 H 4461" />
+  <path class="linec" d="M 3582,5437 V 5482.5 C 3582,5490.5 3582,5490.5 3590,5490.5 H 4461" />
   <!-- TANG -->
-  <a href="https://en.wikipedia.org/wiki/Tangut_script" target="_blank"><rect class="rectlogo" x="4461" y="5442" width="466" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4471,5458) scale(1.0)">TANG Tangut script
+  <a href="https://en.wikipedia.org/wiki/Tangut_script" target="_blank"><rect class="rectlogo" x="4461" y="5476" width="466" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4471,5492) scale(1.0)">TANG Tangut script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3582,5403 V 5482.5 C 3582,5490.5 3582,5490.5 3590,5490.5 H 5381" />
+  <path class="linec" d="M 3582,5437 V 5516.5 C 3582,5524.5 3582,5524.5 3590,5524.5 H 5381" />
   <!-- HANS -->
-  <a href="https://en.wikipedia.org/wiki/Simplified_Chinese_characters" target="_blank"><rect class="rectlogo" x="5381" y="5476" width="69" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5391,5492) scale(1.0)">HANS Chinese Char, Simplified
+  <a href="https://en.wikipedia.org/wiki/Simplified_Chinese_characters" target="_blank"><rect class="rectlogo" x="5381" y="5510" width="69" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5391,5526) scale(1.0)">HANS Chinese Char, Simplified
     <tspan>eg. 鼠牛虎兔龙蛇马羊猴鸡狗猪</tspan>
   </text>
-  <path class="linec" d="M 3032,5267 V 5516.5 C 3032,5524.5 3032,5524.5 3040,5524.5 H 3925" />
+  <path class="linec" d="M 3032,5301 V 5550.5 C 3032,5558.5 3032,5558.5 3040,5558.5 H 3925" />
   <!-- KANJ -->
-  <a href="https://en.wikipedia.org/wiki/Kanji" target="_blank"><rect class="rectlogo" x="3925" y="5510" width="1525" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3935,5526) scale(1.0)">KANJ Kanji
+  <a href="https://en.wikipedia.org/wiki/Kanji" target="_blank"><rect class="rectlogo" x="3925" y="5544" width="1525" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3935,5560) scale(1.0)">KANJ Kanji
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3932,5539 V 5550.5 C 3932,5558.5 3932,5558.5 3940,5558.5 H 4075" />
+  <path class="linec" d="M 3932,5573 V 5584.5 C 3932,5592.5 3932,5592.5 3940,5592.5 H 4075" />
   <!-- MANY -->
-  <a href="https://en.wikipedia.org/wiki/Man%27y%C5%8Dgana" target="_blank"><rect class="rectsyll" x="4075" y="5544" width="1250" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4085,5560) scale(1.0)">MANY Man'yōgana
+  <a href="https://en.wikipedia.org/wiki/Man%27y%C5%8Dgana" target="_blank"><rect class="rectsyll" x="4075" y="5578" width="1250" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4085,5594) scale(1.0)">MANY Man'yōgana
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4082,5573 V 5584.5 C 4082,5592.5 4082,5592.5 4090,5592.5 H 4225" />
+  <path class="linec" d="M 4082,5607 V 5618.5 C 4082,5626.5 4082,5626.5 4090,5626.5 H 4225" />
   <!-- HIRA -->
-  <a href="https://en.wikipedia.org/wiki/Hiragana" target="_blank"><rect class="rectsyll" x="4225" y="5578" width="1225" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4235,5594) scale(1.0)">HIRA Hiragana
+  <a href="https://en.wikipedia.org/wiki/Hiragana" target="_blank"><rect class="rectsyll" x="4225" y="5612" width="1225" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4235,5628) scale(1.0)">HIRA Hiragana
     <tspan>&#x3042;&#x3044;&#x3046;&#x3048;&#x304a; &#x304b;&#x304d;&#x304f;&#x3051;&#x3053; &#x304c;&#x304e;&#x3050;&#x3052;&#x3054; &#x3055;&#x3057;&#x3059;&#x305b;&#x305d; &#x3056;&#x3058;&#x305a;&#x305c;&#x305e; &#x305f;&#x3061;&#x3064;&#x3066;&#x3068; &#x3060;&#x3062;&#x3065;&#x3067;&#x3069; &#x306a;&#x306b;&#x306c;&#x306d;&#x306e; &#x306f;&#x3072;&#x3075;&#x3078;&#x307b; &#x3070;&#x3073;&#x3076;&#x3079;&#x307c; &#x3071;&#x3074;&#x3077;&#x307a;&#x307d; &#x307e;&#x307f;&#x3080;&#x3081;&#x3082; &#x3084;&#x3086;&#x3088; &#x3089;&#x308a;&#x308b;&#x308c;&#x308d; &#x308f;&#x3090;&#x3091;&#x3092; &#x3093;&#x3094;</tspan>
   </text>
-  <path class="linec" d="M 4082,5573 V 5618.5 C 4082,5626.5 4082,5626.5 4090,5626.5 H 4225" />
+  <path class="linec" d="M 4082,5607 V 5652.5 C 4082,5660.5 4082,5660.5 4090,5660.5 H 4225" />
   <!-- KANA -->
-  <a href="https://en.wikipedia.org/wiki/Katakana" target="_blank"><rect class="rectsyll" x="4225" y="5612" width="1225" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4235,5628) scale(1.0)">KANA Katakana
+  <a href="https://en.wikipedia.org/wiki/Katakana" target="_blank"><rect class="rectsyll" x="4225" y="5646" width="1225" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4235,5662) scale(1.0)">KANA Katakana
     <tspan>&#x30a2;&#x30a4;&#x30a6;&#x30a8;&#x30aa; &#x30ab;&#x30ad;&#x30af;&#x30b1;&#x30b3; &#x30ac;&#x30ae;&#x30b0;&#x30b2;&#x30b4; &#x30b5;&#x30b7;&#x30b9;&#x30bb;&#x30bd; &#x30b6;&#x30b8;&#x30ba;&#x30bc;&#x30be; &#x30bf;&#x30c1;&#x30c4;&#x30c6;&#x30c8; &#x30c0;&#x30c2;&#x30c5;&#x30c7;&#x30c9; &#x30ca;&#x30cb;&#x30cc;&#x30cd;&#x30ce; &#x30cf;&#x30d2;&#x30d5;&#x30d8;&#x30db; &#x30d0;&#x30d3;&#x30d6;&#x30d9;&#x30dc; &#x30d1;&#x30d4;&#x30d7;&#x30da;&#x30dd; &#x30de;&#x30df;&#x30e0;&#x30e1;&#x30e2; &#x30e4;&#x30e6;&#x30e8; &#x30e9;&#x30ea;&#x30eb;&#x30ec;&#x30ed; &#x30ef;&#x30f0;&#x30f1;&#x30f2; &#x30f3;&#x30f4;</tspan>
   </text>
-  <path class="linec" d="M 3032,5267 V 5652.5 C 3032,5660.5 3032,5660.5 3040,5660.5 H 4375" />
+  <path class="linec" d="M 3032,5301 V 5686.5 C 3032,5694.5 3032,5694.5 3040,5694.5 H 4375" />
   <!-- KITL -->
-  <a href="https://en.wikipedia.org/wiki/Khitan_large_script" target="_blank"><rect class="rectlogo" x="4375" y="5646" width="200" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4385,5662) scale(1.0)">KITL Khitan Large Script
+  <a href="https://en.wikipedia.org/wiki/Khitan_large_script" target="_blank"><rect class="rectlogo" x="4375" y="5680" width="200" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4385,5696) scale(1.0)">KITL Khitan Large Script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 4382,5675 V 5686.5 C 4382,5694.5 4382,5694.5 4390,5694.5 H 4575" />
+  <path class="linec" d="M 4382,5709 V 5720.5 C 4382,5728.5 4382,5728.5 4390,5728.5 H 4575" />
   <!-- JURC -->
-  <a href="https://en.wikipedia.org/wiki/Jurchen_script" target="_blank"><rect class="rectlogo" x="4575" y="5680" width="400" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4585,5696) scale(1.0)">JURC Jurchen script
+  <a href="https://en.wikipedia.org/wiki/Jurchen_script" target="_blank"><rect class="rectlogo" x="4575" y="5714" width="400" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4585,5730) scale(1.0)">JURC Jurchen script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3032,5267 V 5720.5 C 3032,5728.5 3032,5728.5 3040,5728.5 H 4375" />
+  <path class="linec" d="M 3032,5301 V 5754.5 C 3032,5762.5 3032,5762.5 3040,5762.5 H 4375" />
   <!-- KITS -->
-  <a href="https://en.wikipedia.org/wiki/Khitan_small_script" target="_blank"><rect class="rectlogo" x="4375" y="5714" width="200" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4385,5730) scale(1.0)">KITS Khitan Small Script
+  <a href="https://en.wikipedia.org/wiki/Khitan_small_script" target="_blank"><rect class="rectlogo" x="4375" y="5748" width="200" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4385,5764) scale(1.0)">KITS Khitan Small Script
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 3032,5267 V 5754.5 C 3032,5762.5 3032,5762.5 3040,5762.5 H 5343" />
+  <path class="linec" d="M 3032,5301 V 5788.5 C 3032,5796.5 3032,5796.5 3040,5796.5 H 5343" />
   <!-- BOPO -->
-  <a href="https://en.wikipedia.org/wiki/Bopomofo" target="_blank"><rect class="rectsmsy" x="5343" y="5748" width="40" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5353,5764) scale(1.0)">BOPO Bopomofo
+  <a href="https://en.wikipedia.org/wiki/Bopomofo" target="_blank"><rect class="rectsmsy" x="5343" y="5782" width="40" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5353,5798) scale(1.0)">BOPO Bopomofo
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 5350,5777 V 5788.5 C 5350,5796.5 5350,5796.5 5358,5796.5 H 5356" />
+  <path class="linec" d="M 5350,5811 V 5822.5 C 5350,5830.5 5350,5830.5 5358,5830.5 H 5356" />
   <!-- BOPC -->
-  <a href="https://en.wikipedia.org/wiki/Cantonese_Bopomofo" target="_blank"><rect class="rectsmsy" x="5356" y="5782" width="27" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5366,5798) scale(1.0)">BOPC Cantonese Bopomofo
+  <a href="https://en.wikipedia.org/wiki/Cantonese_Bopomofo" target="_blank"><rect class="rectsmsy" x="5356" y="5816" width="27" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5366,5832) scale(1.0)">BOPC Cantonese Bopomofo
     <tspan></tspan>
   </text>
-  <path class="linec" d="M 5350,5777 V 5822.5 C 5350,5830.5 5350,5830.5 5358,5830.5 H 5371" />
+  <path class="linec" d="M 5350,5811 V 5856.5 C 5350,5864.5 5350,5864.5 5358,5864.5 H 5371" />
   <!-- BOPT -->
-  <a href="https://en.wikipedia.org/wiki/Taiwanese_Phonetic_Symbols" target="_blank"><rect class="rectsmsy" x="5371" y="5816" width="79" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5381,5832) scale(1.0)">BOPT Taiwanese Phonetic Symbol
+  <a href="https://en.wikipedia.org/wiki/Taiwanese_Phonetic_Symbols" target="_blank"><rect class="rectsmsy" x="5371" y="5850" width="79" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5381,5866) scale(1.0)">BOPT Taiwanese Phonetic Symbol
     <tspan></tspan>
   </text>
-  <line class="linec" x1="3175" y1="5864.5" x2="3165" y2="5864.5" />
-  <circle class="circc" cx="3163" cy="5864.5" r="4" />
+  <line class="linec" x1="3175" y1="5898.5" x2="3165" y2="5898.5" />
+  <circle class="circc" cx="3163" cy="5898.5" r="4" />
   <!-- MAYA -->
-  <a href="https://en.wikipedia.org/wiki/Maya_script" target="_blank"><rect class="rectunkn" x="3175" y="5850" width="1800" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3185,5866) scale(1.0)">MAYA Maya script
+  <a href="https://en.wikipedia.org/wiki/Maya_script" target="_blank"><rect class="rectunkn" x="3175" y="5884" width="1800" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3185,5900) scale(1.0)">MAYA Maya script
     <tspan></tspan>
   </text>
-  <line class="linec" x1="3775" y1="5898.5" x2="3765" y2="5898.5" />
-  <circle class="circc" cx="3763" cy="5898.5" r="4" />
+  <line class="linec" x1="3775" y1="5932.5" x2="3765" y2="5932.5" />
+  <circle class="circc" cx="3763" cy="5932.5" r="4" />
   <!-- OGHA -->
-  <a href="https://en.wikipedia.org/wiki/Ogham" target="_blank"><rect class="rectalph" x="3775" y="5884" width="600" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(3785,5900) scale(1.0)">OGHA Ogham
+  <a href="https://en.wikipedia.org/wiki/Ogham" target="_blank"><rect class="rectalph" x="3775" y="5918" width="600" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(3785,5934) scale(1.0)">OGHA Ogham
     <tspan>&#x1681;&#x1682;&#x1683;&#x1684;&#x1685; &#x1686;&#x1687;&#x1688;&#x1689;&#x168a; &#x168b;&#x168c;&#x168d;&#x168e;&#x168f; &#x1690;&#x1691;&#x1692;&#x1693;&#x1694;</tspan>
   </text>
-  <line class="linec" x1="4075" y1="5932.5" x2="4065" y2="5932.5" />
-  <circle class="circc" cx="4063" cy="5932.5" r="4" />
+  <line class="linec" x1="4075" y1="5966.5" x2="4065" y2="5966.5" />
+  <circle class="circc" cx="4063" cy="5966.5" r="4" />
   <!-- NKDB -->
-  <a href="https://en.wikipedia.org/wiki/Dongba_symbols" target="_blank"><rect class="rectlogo" x="4075" y="5918" width="1375" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4085,5934) scale(1.0)">NKDB Dongba
+  <a href="https://en.wikipedia.org/wiki/Dongba_symbols" target="_blank"><rect class="rectpict" x="4075" y="5952" width="1375" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4085,5968) scale(1.0)">NKDB Dongba
     <tspan></tspan>
   </text>
-  <line class="linec" x1="4525" y1="5966.5" x2="4515" y2="5966.5" />
-  <circle class="circc" cx="4513" cy="5966.5" r="4" />
+  <line class="linec" x1="4525" y1="6000.5" x2="4515" y2="6000.5" />
+  <circle class="circc" cx="4513" cy="6000.5" r="4" />
   <!-- NKGB -->
-  <a href="https://en.wikipedia.org/wiki/Geba_syllabary" target="_blank"><rect class="rectsyll" x="4525" y="5952" width="925" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4535,5968) scale(1.0)">NKGB Geba
+  <a href="https://en.wikipedia.org/wiki/Geba_syllabary" target="_blank"><rect class="rectsyll" x="4525" y="5986" width="925" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4535,6002) scale(1.0)">NKGB Geba
     <tspan></tspan>
   </text>
-  <line class="linec" x1="4868" y1="6000.5" x2="4858" y2="6000.5" />
-  <circle class="circc" cx="4856" cy="6000.5" r="4" />
+  <line class="linec" x1="4868" y1="6034.5" x2="4858" y2="6034.5" />
+  <circle class="circc" cx="4856" cy="6034.5" r="4" />
   <!-- HANG -->
-  <a href="https://en.wikipedia.org/wiki/Hangul" target="_blank"><rect class="rectunkn" x="4868" y="5986" width="582" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(4878,6002) scale(1.0)">HANG Hangul
+  <a href="https://en.wikipedia.org/wiki/Hangul" target="_blank"><rect class="rectunkn" x="4868" y="6020" width="582" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(4878,6036) scale(1.0)">HANG Hangul
     <tspan>eg. 수부룩이 내려오는 눈발속에서는  까투리 매추래기 새끼들도 깃들이어 오는 소리</tspan>
   </text>
-  <line class="linec" x1="5245" y1="6034.5" x2="5235" y2="6034.5" />
-  <circle class="circc" cx="5233" cy="6034.5" r="4" />
+  <line class="linec" x1="5245" y1="6068.5" x2="5235" y2="6068.5" />
+  <circle class="circc" cx="5233" cy="6068.5" r="4" />
   <!-- CHER -->
-  <a href="https://en.wikipedia.org/wiki/Cherokee_syllabary" target="_blank"><rect class="rectsyll" x="5245" y="6020" width="205" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(5255,6036) scale(1.0)">CHER Cherokee
+  <a href="https://en.wikipedia.org/wiki/Cherokee_syllabary" target="_blank"><rect class="rectsyll" x="5245" y="6054" width="205" height="29" rx="5"/></a>
+  <text class="langtextb" transform="translate(5255,6070) scale(1.0)">CHER Cherokee
     <tspan>&#x13a0;&#x13a1;&#x13a2;&#x13a3;&#x13a4;&#x13a5;&#x13a6;&#x13a7;&#x13a8;&#x13a9;&#x13aa;&#x13ab;&#x13ac;&#x13ad;&#x13ae;&#x13af;&#x13b0;&#x13b1;&#x13b2;&#x13b3;&#x13b4;&#x13b5;&#x13b6;&#x13b7;&#x13b8;&#x13b9;&#x13ba;&#x13bb;&#x13bc;&#x13bd;&#x13be;&#x13bf;&#x13c0;&#x13c1;&#x13c2;&#x13c3;&#x13c4;&#x13c5;&#x13c6;&#x13c7;&#x13c8;&#x13c9;&#x13ca;&#x13cb;&#x13cc;&#x13cd;&#x13ce;&#x13cf;&#x13d0;&#x13d1;&#x13d2;&#x13d3;&#x13d4;&#x13d5;&#x13d6;&#x13d7;&#x13d8;&#x13d9;&#x13da;&#x13db;&#x13dc;&#x13dd;&#x13de;&#x13df;&#x13e0;&#x13e1;&#x13e2;&#x13e3;&#x13e4;&#x13e5;&#x13e6;&#x13e7;&#x13e8;&#x13e9;&#x13ea;&#x13eb;&#x13ec;&#x13ed;&#x13ee;&#x13ef;&#x13f0;&#x13f1;&#x13f2;&#x13f3;&#x13f4;</tspan>
   </text>
 </svg>
