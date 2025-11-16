@@ -15,18 +15,19 @@ while(<>)
   chomp;
   s/^\s*#.*$//;
   next if /^\s*$/;
-  if(m|^..([A-Z]{4}) \s+     # $1: id
-        (.+\S) \s+           # $2: name
-        ([A-Z-]{4}) \s+      # $3: parent
-        ([\w-]+) \s+         # $4: type
-        ([\w?*]+) \s+        # $5: from
-        ([\w?*]+) \s+        # $6: to
-        ([a-z-]+) \s+        # $7: isoname
-        (\d*) \s*            # $8: isonum (optional)
-        (https\S+) \s*       # $9: url
-        (.*) \s* $|x)        # $10: example|image (optional)
+  if(m|^(.).                 # $1: optional modifer
+        ([A-Z]{4}) \s+       # $2: id
+        (.+\S) \s+           # $3: name
+        ([A-Z-]{4}) \s+      # $4: parent
+        ([\w-]+) \s+         # $5: type
+        ([\w?*]+) \s+        # $6: from
+        ([\w?*]+) \s+        # $7: to
+        ([a-z-]+) \s+        # $8: isoname
+        (\d*) \s*            # $9: isonum (optional)
+        (https\S+) \s*       # $10: url
+        (.*) \s* $|x)        # $11: example|image (optional)
     {
-    my($id,$name,$parent,$type,$from,$to,$isoname,$isonum,$url,$example_or_image) = ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10);
+    my($mod,$id,$name,$parent,$type,$from,$to,$isoname,$isonum,$url,$example_or_image) = ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11);
     if(defined $info{$id})
       { die "FATAL: Duplicate ID for $id\n" }
     $info{$id}{"name"} = $name;
@@ -39,6 +40,7 @@ while(<>)
       $info{$id}{"parent"} = $parent;
       push(@{$info{$parent}{"children"}}, $id);
       }
+    $info{$id}{"undeciphered"} = ($mod eq 'U') ? 1 : 0;
     $info{$id}{"type"} = $type;
     $info{$id}{"from"} = $from;
     $info{$id}{"to"} = $to;
@@ -166,15 +168,16 @@ sub print_svg_header
   <text class="langtext" transform="translate(5, 80) scale(1.2)">in approximately 3400BC, and continuing through *all scripts in history. The information is gleaned from Wikipedia pages of the scripts.</text>
   <text class="langtext" transform="translate(5,100) scale(1.2)">(* It is still a work in progress.) Each script shown gives its genealogy: ancestors and children. Its placement on the horizontal axis</text>
   <text class="langtext" transform="translate(5,120) scale(1.2)">indicates its approximate beginning of use, and the width indicates its duration. The colors of the bars indicates the type of script.</text>
-  <text class="langtext" transform="translate(5,140) scale(1.2)">You can click on the bar of any script to go to the representative wikipedia page.</text>
-  <a href="https://en.wikipedia.org/wiki/pictogram#historical" target="_blank"><rect class="rectpict" x="5"    y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/logography"           target="_blank"><rect class="rectlogo" x="180"  y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/logoconsonantal"      target="_blank"><rect class="rectlogc" x="355"  y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/syllabary"            target="_blank"><rect class="rectsyll" x="530"  y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/semi-syllabary"       target="_blank"><rect class="rectsmsy" x="705"  y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/abjad"                target="_blank"><rect class="rectabjd" x="880"  y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/abugida"              target="_blank"><rect class="rectabug" x="1055" y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/alphabet"             target="_blank"><rect class="rectalph" x="1230" y="165" width="150" height="29" rx="5"/></a>
+  <text class="langtext" transform="translate(5,140) scale(1.2)">Still undeciphered scripts have a dashed oval. You can click on the bar of any script to go to the representative wikipedia page.</text>
+  <a href="https://en.wikipedia.org/wiki/pictogram#historical"         target="_blank"><rect class="rectpict" x="5"    y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/logography"                   target="_blank"><rect class="rectlogo" x="180"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/logoconsonantal"              target="_blank"><rect class="rectlogc" x="355"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/syllabary"                    target="_blank"><rect class="rectsyll" x="530"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/semi-syllabary"               target="_blank"><rect class="rectsmsy" x="705"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/abjad"                        target="_blank"><rect class="rectabjd" x="880"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/abugida"                      target="_blank"><rect class="rectabug" x="1055" y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/alphabet"                     target="_blank"><rect class="rectalph" x="1230" y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/Undeciphered_writing_systems" target="_blank"><rect class="rectalph" x="1405" y="165" width="150" height="29" rx="5" stroke-dasharray="5 5"/></a>
   <text class="langtextb" transform="translate(15,185)   scale(1.2)">Pictograph</text>
   <text class="langtextb" transform="translate(190,185)  scale(1.2)">Logography</text>
   <text class="langtextb" transform="translate(365,185)  scale(1.2)">Logoconsonantal</text>
@@ -182,7 +185,8 @@ sub print_svg_header
   <text class="langtextb" transform="translate(715,185)  scale(1.2)">Semi-syllabary</text>
   <text class="langtextb" transform="translate(890,185)  scale(1.2)">Abjad</text>
   <text class="langtextb" transform="translate(1065,185) scale(1.2)">Abugida</text>
-  <text class="langtextb" transform="translate(1240,185) scale(1.2)">Alphabet</text>\n|;
+  <text class="langtextb" transform="translate(1240,185) scale(1.2)">Alphabet</text>
+  <text class="langtextb" transform="translate(1415,185) scale(1.2)">Undeciphered</text>\n|;
   for(my $year=$firstdate;$year<=$todayy;$year+=100)
     {
     my $str = ($year >= 0) ? $year."AD" : (-$year)."BC";
@@ -282,8 +286,9 @@ sub print_svg_object
   my $x10 = $x+10;
   my $y5 = $y+16;
   my $url = $info{$id}{"url"};
+  my $umod = $info{$id}{"undeciphered"} ? ' stroke-dasharray="5 5"' : '';
   print qq|  <!-- $id -->\n|;
-  print qq|  <a href="$url" target="_blank"><rect class="$recttype" x="$x" y="$y" width="$w" height="$h" rx="$rx"/></a>\n|;
+  print qq|  <a href="$url" target="_blank"><rect class="$recttype" x="$x" y="$y" width="$w" height="$h" rx="$rx"$umod/></a>\n|;
   print qq|  <text class="langtextb" transform="translate($x10,$y5) scale(1.0)"|;
   if(defined $example)
     {

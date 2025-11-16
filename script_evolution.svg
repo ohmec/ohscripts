@@ -46,17 +46,18 @@
   <text class="langtext" transform="translate(5, 30) scale(2.0)">Human Language Script Evolution</text>
   <text class="langtext" transform="translate(5, 60) scale(1.2)">The chart below is a generated representation of sorts of the family tree of human language scripts, beginning with Proto Cuneiform</text>
   <text class="langtext" transform="translate(5, 80) scale(1.2)">in approximately 3400BC, and continuing through *all scripts in history. The information is gleaned from Wikipedia pages of the scripts.</text>
-  <text class="langtext" transform="translate(5,100) scale(1.2)">(* It is still a work in progress.) Each script shown gives its genealogy: ancestors and children. Its placement on the horizontal access</text>
+  <text class="langtext" transform="translate(5,100) scale(1.2)">(* It is still a work in progress.) Each script shown gives its genealogy: ancestors and children. Its placement on the horizontal axis</text>
   <text class="langtext" transform="translate(5,120) scale(1.2)">indicates its approximate beginning of use, and the width indicates its duration. The colors of the bars indicates the type of script.</text>
-  <text class="langtext" transform="translate(5,140) scale(1.2)">You can click on the bar of any script to go to the representative wikipedia page.</text>
-  <a href="https://en.wikipedia.org/wiki/pictogram#historical" target="_blank"><rect class="rectpict" x="5"    y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/logography"           target="_blank"><rect class="rectlogo" x="180"  y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/logoconsonantal"      target="_blank"><rect class="rectlogc" x="355"  y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/syllabary"            target="_blank"><rect class="rectsyll" x="530"  y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/semi-syllabary"       target="_blank"><rect class="rectsmsy" x="705"  y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/abjad"                target="_blank"><rect class="rectabjd" x="880"  y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/abugida"              target="_blank"><rect class="rectabug" x="1055" y="165" width="150" height="29" rx="5"/></a>
-  <a href="https://en.wikipedia.org/wiki/alphabet"             target="_blank"><rect class="rectalph" x="1230" y="165" width="150" height="29" rx="5"/></a>
+  <text class="langtext" transform="translate(5,140) scale(1.2)">Still undeciphered scripts have a dashed oval. You can click on the bar of any script to go to the representative wikipedia page.</text>
+  <a href="https://en.wikipedia.org/wiki/pictogram#historical"         target="_blank"><rect class="rectpict" x="5"    y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/logography"                   target="_blank"><rect class="rectlogo" x="180"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/logoconsonantal"              target="_blank"><rect class="rectlogc" x="355"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/syllabary"                    target="_blank"><rect class="rectsyll" x="530"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/semi-syllabary"               target="_blank"><rect class="rectsmsy" x="705"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/abjad"                        target="_blank"><rect class="rectabjd" x="880"  y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/abugida"                      target="_blank"><rect class="rectabug" x="1055" y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/alphabet"                     target="_blank"><rect class="rectalph" x="1230" y="165" width="150" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/Undeciphered_writing_systems" target="_blank"><rect class="rectalph" x="1405" y="165" width="150" height="29" rx="5" stroke-dasharray="5 5"/></a>
   <text class="langtextb" transform="translate(15,185)   scale(1.2)">Pictograph</text>
   <text class="langtextb" transform="translate(190,185)  scale(1.2)">Logography</text>
   <text class="langtextb" transform="translate(365,185)  scale(1.2)">Logoconsonantal</text>
@@ -65,6 +66,7 @@
   <text class="langtextb" transform="translate(890,185)  scale(1.2)">Abjad</text>
   <text class="langtextb" transform="translate(1065,185) scale(1.2)">Abugida</text>
   <text class="langtextb" transform="translate(1240,185) scale(1.2)">Alphabet</text>
+  <text class="langtextb" transform="translate(1415,185) scale(1.2)">Undeciphered</text>
   <text class="langtext" transform="translate(25,230) scale(1.0)">3400BC</text>
   <text class="langtext" transform="translate(125,230) scale(1.0)">3300BC</text>
   <text class="langtext" transform="translate(225,230) scale(1.0)">3200BC</text>
@@ -141,7 +143,7 @@
   </text>
   <path class="linec" d="M 32,269 V 348.5 C 32,356.5 32,356.5 40,356.5 H 325" />
   <!-- PREL -->
-  <a href="https://en.wikipedia.org/wiki/Proto-Elamite_script" target="_blank"><rect class="rectunkn" x="325" y="342" width="1100" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/Proto-Elamite_script" target="_blank"><rect class="rectunkn" x="325" y="342" width="1100" height="29" rx="5" stroke-dasharray="5 5"/></a>
   <text class="langtextb" transform="translate(335,358) scale(1.0)">PREL Proto Elamite
     <tspan></tspan>
   </text>
@@ -165,7 +167,7 @@
   </text>
   <path class="linec" d="M 432,473 V 484.5 C 432,492.5 432,492.5 440,492.5 H 1625" />
   <!-- BYBS -->
-  <a href="https://en.wikipedia.org/wiki/Byblos_syllabary" target="_blank"><rect class="rectunkn" x="1625" y="478" width="400" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/Byblos_syllabary" target="_blank"><rect class="rectunkn" x="1625" y="478" width="400" height="29" rx="5" stroke-dasharray="5 5"/></a>
   <text class="langtextb" transform="translate(1635,494) scale(1.0)">BYBS Byblos syllabery
     <tspan></tspan>
   </text>
@@ -177,13 +179,13 @@
   </text>
   <path class="linec" d="M 2782,541 V 552.5 C 2782,560.5 2782,560.5 2790,560.5 H 3125" />
   <!-- MERO -->
-  <a href="https://en.wikipedia.org/wiki/Meroitic_script" target="_blank"><rect class="rectabug" x="3125" y="546" width="900" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/Meroitic_script" target="_blank"><rect class="rectabug" x="3125" y="546" width="900" height="29" rx="5" stroke-dasharray="5 5"/></a>
   <text class="langtextb" transform="translate(3135,562) scale(1.0)">MERO Meroitic Hieroglyphs
     <tspan>&#x10980; &#x10981; &#x10982; &#x10983; &#x10984; &#x10985; &#x10986; &#x10987; &#x10988; &#x10989; &#x1098a; &#x1098b; &#x1098c; &#x1098d; &#x1098e; &#x1098f; &#x10990; &#x10991; &#x10992; &#x10993; &#x10994; &#x10995; &#x10996; &#x10997; &#x10998; &#x10999; &#x1099a; &#x1099b; &#x1099c; &#x1099d; &#x1099e; &#x1099f;</tspan>
   </text>
   <path class="linec" d="M 2782,541 V 586.5 C 2782,594.5 2782,594.5 2790,594.5 H 3125" />
   <!-- MERC -->
-  <a href="https://en.wikipedia.org/wiki/Meroitic_script" target="_blank"><rect class="rectabug" x="3125" y="580" width="900" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/Meroitic_script" target="_blank"><rect class="rectabug" x="3125" y="580" width="900" height="29" rx="5" stroke-dasharray="5 5"/></a>
   <text class="langtextb" transform="translate(3135,596) scale(1.0)">MERC Meroitic Cursive
     <tspan>&#x109a0; &#x109a1; &#x109a2; &#x109a3; &#x109a4; &#x109a5; &#x109a6; &#x109a7; &#x109a8; &#x109a9; &#x109aa; &#x109ab; &#x109ac; &#x109ad; &#x109ae; &#x109af; &#x109b0; &#x109b1; &#x109b2; &#x109b3; &#x109b4; &#x109b5; &#x109b6; &#x109b7;</tspan>
   </text>
@@ -219,7 +221,7 @@
   <path class="linec" d="M 1532,711 V 790.5 C 1532,798.5 1532,798.5 1540,798.5 H 2375" />
   <!-- PHNX -->
   <a href="https://en.wikipedia.org/wiki/Phoenician_alphabet" target="_blank"><rect class="rectalph" x="2375" y="784" width="900" height="29" rx="5"/></a>
-  <text class="langtextb" transform="translate(2385,800) scale(1.0)">PHNX Phonecian
+  <text class="langtextb" transform="translate(2385,800) scale(1.0)">PHNX Phoenecian
     <tspan>&#x10915;&#x10914;&#x10913;&#x10912;&#x10911;&#x10910;&#x1090f;&#x1090e;&#x1090d;&#x1090c;&#x1090b;&#x1090a;&#x10909;&#x10908;&#x10907;&#x10906;&#x10905;&#x10904;&#x10903;&#x10902;&#x10901;&#x10900;</tspan>
   </text>
   <path class="linec" d="M 2382,813 V 824.5 C 2382,832.5 2382,832.5 2390,832.5 H 2625" />
@@ -984,7 +986,7 @@
   <line class="linec" x1="1625" y1="5150.5" x2="1615" y2="5150.5" />
   <circle class="circc" cx="1613" cy="5150.5" r="4" />
   <!-- LINA -->
-  <a href="https://en.wikipedia.org/wiki/Linear_A" target="_blank"><rect class="rectunkn" x="1625" y="5136" width="350" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/Linear_A" target="_blank"><rect class="rectunkn" x="1625" y="5136" width="350" height="29" rx="5" stroke-dasharray="5 5"/></a>
   <text class="langtextb" transform="translate(1635,5152) scale(1.0)">LINA Linear A
     <tspan>eg.  &#x10600; &#x10603; &#x10606; &#x10609; &#x1060b; &#x1060c; &#x1060f; &#x10610; &#x10612; &#x10616; &#x10618; &#x1061b; &#x1061c; &#x1061f; &#x10622; &#x10625; &#x10628; &#x1062b; &#x1062f; &#x10636; &#x1063a; &#x1063f; &#x10640; &#x10643; &#x10644; &#x10647; &#x1064b; &#x10650; &#x10655; &#x1065f; &#x10661;</tspan>
   </text>
@@ -1080,7 +1082,7 @@
   </text>
   <path class="linec" d="M 3032,5301 V 5686.5 C 3032,5694.5 3032,5694.5 3040,5694.5 H 4375" />
   <!-- KITL -->
-  <a href="https://en.wikipedia.org/wiki/Khitan_large_script" target="_blank"><rect class="rectlogo" x="4375" y="5680" width="200" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/Khitan_large_script" target="_blank"><rect class="rectlogo" x="4375" y="5680" width="200" height="29" rx="5" stroke-dasharray="5 5"/></a>
   <text class="langtextb" transform="translate(4385,5696) scale(1.0)">KITL Khitan Large Script
     <tspan></tspan>
   </text>
@@ -1092,7 +1094,7 @@
   </text>
   <path class="linec" d="M 3032,5301 V 5754.5 C 3032,5762.5 3032,5762.5 3040,5762.5 H 4375" />
   <!-- KITS -->
-  <a href="https://en.wikipedia.org/wiki/Khitan_small_script" target="_blank"><rect class="rectlogo" x="4375" y="5748" width="200" height="29" rx="5"/></a>
+  <a href="https://en.wikipedia.org/wiki/Khitan_small_script" target="_blank"><rect class="rectlogo" x="4375" y="5748" width="200" height="29" rx="5" stroke-dasharray="5 5"/></a>
   <text class="langtextb" transform="translate(4385,5764) scale(1.0)">KITS Khitan Small Script
     <tspan></tspan>
   </text>

@@ -3,7 +3,7 @@ x PCUN  Proto Cuneiform           ----  Syllabary         3400BC  2900BC  ---   
 x XSUX  Cuneiform                 PCUN  Syllabary         3350BC   150AD  xsux 020    https://en.wikipedia.org/wiki/Cuneiform                         eg. &#x12038; &#x12079; &#x12226; &#x1230b; &#x1235d; &#x1203d; &#x12016; &#x12000 - 1200f;
 x EGYP  Egyptian Hieroglyphics    ----  Logography        3200BC   400    egyp 050    https://en.wikipedia.org/wiki/Egyptian_hieroglyphs              eg. &#x1302d; &#x130d3; &#x1307b; &#x1309b; &#x13100; &#x131ad; &#x1312c; &#x1315c; &#x131cd; &#x131f3; &#x13201; &#x13254; &#x132f9; &#x13331; &#x132ad; &#x13390; &#x13362;
 x PSIN  Proto Sinaic              EGYP  Abjad             1900BC  1500BC  psin 103    https://en.wikipedia.org/wiki/Proto-Sinaitic_script             img:psin.svg
-x PHNX  Phonecian                 PSIN  Alphabet          1050BC   150BC  phnx 115    https://en.wikipedia.org/wiki/Phoenician_alphabet               &#x10915-10900;
+x PHNX  Phoenecian                PSIN  Alphabet          1050BC   150BC  phnx 115    https://en.wikipedia.org/wiki/Phoenician_alphabet               &#x10915-10900;
 x GREK  Greek                     PHNX  Alphabet           800BC  present grek 200    https://en.wikipedia.org/wiki/Greek_alphabet                    &#x391-3a1;&#x3a3-3a9; &#x3b1-3c1;&#x3c3-3c9;
 x ITAL  Old Italic                GREK  Alphabet           750BC   100BC  ital 210    https://en.wikipedia.org/wiki/Old_Italic_scripts                &#x10300-1031f;&#x1032d-1032f;
 x LATN  Latin                     ITAL  Alphabet           700BC  present latn 215    https://en.wikipedia.org/wiki/Latin_script                      ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz
@@ -15,9 +15,9 @@ x OBNS  Oracle Bone Script        ----  Logography        1600BC   300BC  ---   
 - NBAT  Nabataean script          PHNX  Abjad              200BC   400AD  nbat 159    https://en.wikipedia.org/wiki/Nabataean_script                  &#x1089e;&#x1089d;&#x1089b;&#x1089a;&#x10899;&#x10898;&#x10897;&#x10896;&#x10895;&#x10893;&#x10891;&#x1088f;&#x1088d;&#x1088b;&#x1088a;&#x10889;&#x10888;&#x10887;&#x10885;&#x10884;&#x10883;&#x10881;
 - ARAB  Arabic                    NBAT  Abjad              400AD  present arab 160    https://en.wikipedia.org/wiki/Arabic_script                     eg. &#x63a - 627;
 - ARMI  Aramaic                   PHNX  Abjad              800BC   600AD  armi 124    https://en.wikipedia.org/wiki/Aramaic_alphabet                  &#x10855-10840;
-  PREL  Proto Elamite             PCUN  Unknown           3100BC  2000BC  ---         https://en.wikipedia.org/wiki/Proto-Elamite_script
+U PREL  Proto Elamite             PCUN  Unknown           3100BC  2000BC  ---         https://en.wikipedia.org/wiki/Proto-Elamite_script
 - LINE  Linear Elamite            PREL  Semisyllabery     2300BC  1850BC  ---         https://en.wikipedia.org/wiki/Linear_Elamite                    img:line.svg
-  LINA  Linear A                  ----  Ideographic       1800BC  1450BC  lina 400    https://en.wikipedia.org/wiki/Linear_A                          eg.  &#x10600; &#x10603; &#x10606; &#x10609; &#x1060b; &#x1060c; &#x1060f; &#x10610; &#x10612; &#x10616; &#x10618; &#x1061b; &#x1061c; &#x1061f; &#x10622; &#x10625; &#x10628; &#x1062b; &#x1062f; &#x10636; &#x1063a; &#x1063f; &#x10640; &#x10643; &#x10644; &#x10647; &#x1064b; &#x10650; &#x10655; &#x1065f; &#x10661;
+U LINA  Linear A                  ----  Ideographic       1800BC  1450BC  lina 400    https://en.wikipedia.org/wiki/Linear_A                          eg.  &#x10600; &#x10603; &#x10606; &#x10609; &#x1060b; &#x1060c; &#x1060f; &#x10610; &#x10612; &#x10616; &#x10618; &#x1061b; &#x1061c; &#x1061f; &#x10622; &#x10625; &#x10628; &#x1062b; &#x1062f; &#x10636; &#x1063a; &#x1063f; &#x10640; &#x10643; &#x10644; &#x10647; &#x1064b; &#x10650; &#x10655; &#x1065f; &#x10661;
   LINB  Linear B                  LINA  Syllabary         1400BC  1200BC  linb 401    https://en.wikipedia.org/wiki/Linear_B                          &#x10000 - 1000b; &#x1000d - 10026; &#x10028 - 1003a; &#x1003c; &#x1003d; &#x1003f;
   OGHA  Ogham                     ----  Alphabet           350AD   950AD  ogam 212    https://en.wikipedia.org/wiki/Ogham                             &#x1681-1685; &#x1686-168a; &#x168b-168f; &#x1690-1694;
   BRAH  Brahmi                    ARMI  Abugida            300BC   450AD  brah 300    https://en.wikipedia.org/wiki/Brahmi_script                     &#x11013-11034;&#x11005;&#x11007;&#x11009;&#x1100b;&#x1100d;&#x1100f-11012;
@@ -39,10 +39,10 @@ x OBNS  Oracle Bone Script        ----  Logography        1600BC   300BC  ---   
   TEKA  Telugu-Kannada            KADA  Abugida            700AD  1350AD  ----        https://en.wikipedia.org/wiki/Telugu-Kannada_alphabet
   TELU  Telugu                    TEKA  Abugida           1300AD  present telu 340    https://en.wikipedia.org/wiki/Telugu_script                     &#xc15-c28;&#xc2a-c39;&#xc05-c0c;&#xc0e-c10;&#xc12-c14;
   EGYH  Hieratic (Egyptian)       EGYP  Logoconsonantal   3000BC   250AD  egyh 060    https://en.wikipedia.org/wiki/Hieratic                          &#x1313f; &#x131cb; &#x133ed; &#x131cc; &#x1339a; &#x13171; &#x130c0; &#x132aa; &#x13191; &#x13153; &#x13216; &#x1308b; &#x13254; &#x1339b; &#x1340d; &#x13121; &#x13283; &#x132f4; &#x13219; &#x1320e; &#x133a1; &#x133bc; &#x133cf; &#x1337f; &#x130a7; &#x13193;
-  BYBS  Byblos syllabery          EGYH  Undeciphered      1800BC  1400BC  ----        https://en.wikipedia.org/wiki/Byblos_syllabary
+U BYBS  Byblos syllabery          EGYH  Undeciphered      1800BC  1400BC  ----        https://en.wikipedia.org/wiki/Byblos_syllabary
   EGYD  Demotic (Egyptian)        EGYH  Logographic        650BC   450AD  egyd 070    https://en.wikipedia.org/wiki/Demotic_(Egyptian)
-  MERO  Meroitic Hieroglyphs      EGYD  Abugida            300BC   600AD  mero 100    https://en.wikipedia.org/wiki/Meroitic_script                   &#x10980 - 1099f;
-  MERC  Meroitic Cursive          EGYD  Abugida            300BC   600AD  merc 100    https://en.wikipedia.org/wiki/Meroitic_script                   &#x109a0 - 109b7;
+U MERO  Meroitic Hieroglyphs      EGYD  Abugida            300BC   600AD  mero 100    https://en.wikipedia.org/wiki/Meroitic_script                   &#x10980 - 1099f;
+U MERC  Meroitic Cursive          EGYD  Abugida            300BC   600AD  merc 100    https://en.wikipedia.org/wiki/Meroitic_script                   &#x109a0 - 109b7;
   COPT  Coptic                    EGYD  Alphabet           150AD  present copt 204    https://en.wikipedia.org/wiki/Coptic_script                     &#x2c80;&#x2c82;&#x2c84;&#x2c86;&#x2c88;&#x2c8a;&#x2c8c;&#x2c8e;&#x2c90;&#x2c92;&#x2c94;&#x2c96;&#x2c98;&#x2c9a;&#x2c9c;&#x2c9e;&#x2ca0;&#x2ca2;&#x2ca4;&#x2ca6;&#x2ca8;&#x2caa;&#x2cac;&#x2cae;&#x2cb0; &#x2c81;&#x2c83;&#x2c85;&#x2c87;&#x2c89;&#x2c8b;&#x2c8d;&#x2c8f;&#x2c91;&#x2c93;&#x2c95;&#x2c97;&#x2c99;&#x2c9b;&#x2c9d;&#x2c9f;&#x2ca1;&#x2ca3;&#x2ca5;&#x2ca7;&#x2ca9;&#x2cab;&#x2cad;&#x2caf;&#x2cb1;
   ONUB  Old Nubian                COPT  Alphabet           550AD  1450AD  ----        https://en.wikipedia.org/wiki/Old_Nubian#Writing                &#x2c81;&#x2c83;&#x2c85;&#x2c87;&#x2c89;&#x2c8b;&#x2c8d;&#x2c8f;&#x2c91;&#x2c93;&#x2c95;&#x2c97;&#x2c99;&#x2c9b;&#x308;&#x2c9f;&#x2ca1;&#x2ca3;&#x2ca5;&#x2ca7;&#x2ca9;&#x2cab;&#x2cad;&#x2caf;&#x2cb1;&#x3e9;&#x2ced;&#x2cef;&#x2ce1;&#x2ce3;
   UGAR  Ugaritic alphabet         XSUX  Abjad             1400BC  1190BC  ugar 040    https://en.wikipedia.org/wiki/Ugaritic_alphabet                 &#x10380-1039d;
@@ -141,8 +141,8 @@ x OBNS  Oracle Bone Script        ----  Logography        1600BC   300BC  ---   
   SAWN  Sawndip                   HANT  Logographic        650AD  present ----        https://en.wikipedia.org/wiki/Sawndip
   CHUH  Chữ Hán                   HANC  Logographic        250BC  1950AD  ----        https://en.wikipedia.org/wiki/Ch%E1%BB%AF_H%C3%A1n
   CHUN  Chữ Nôm                   CHUH  Logographic       1250AD  1950AD  ----        https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m
-  KITL  Khitan Large Script       HANC  Logographic        950AD  1150AD  kitl 505    https://en.wikipedia.org/wiki/Khitan_large_script
-  KITS  Khitan Small Script       HANC  Logographic        950AD  1150AD  kits 288    https://en.wikipedia.org/wiki/Khitan_small_script
+U KITL  Khitan Large Script       HANC  Logographic        950AD  1150AD  kitl 505    https://en.wikipedia.org/wiki/Khitan_large_script
+U KITS  Khitan Small Script       HANC  Logographic        950AD  1150AD  kits 288    https://en.wikipedia.org/wiki/Khitan_small_script
   JURC  Jurchen script            KITL  Logographic       1150AD  1550AD  jurc 510    https://en.wikipedia.org/wiki/Jurchen_script
   TANG  Tangut script             HANT  Logographic       1036AD  1502AD  tang 520    https://en.wikipedia.org/wiki/Tangut_script
   NKOO  N'Ko script               ARAB  Alphabet          1949AD  present nkoo 165    https://en.wikipedia.org/wiki/N%27Ko_script
@@ -181,3 +181,12 @@ x OBNS  Oracle Bone Script        ----  Logography        1600BC   300BC  ---   
 # present
 # https://en.wikipedia.org/wiki/Latin_script
 # Alert: parent BOPO of child BOPC is >= start date (1931AD compared to 1918AD)
+#
+# from Saggs:
+# Proto-Canaanite
+# South Semitic
+# U Cretan Pictographic
+# U Phaistos Disc
+# Cypriot
+# U Cypro-Minoan
+# U Proto-Byblian
